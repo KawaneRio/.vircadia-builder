@@ -1,0 +1,5980 @@
+Checking how many cores to use for building Vircadia... READFILE: /proc/cpuinfo
+processor	: 0
+vendor_id	: AuthenticAMD
+cpu family	: 23
+model		: 113
+model name	: AMD Ryzen 5 3600 6-Core Processor
+stepping	: 0
+microcode	: 0x8701013
+cpu MHz		: 2224.388
+cache size	: 512 KB
+physical id	: 0
+siblings	: 12
+core id		: 0
+cpu cores	: 6
+apicid		: 0
+initial apicid	: 0
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 16
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb cat_l3 cdp_l3 hw_pstate sme ssbd mba sev ibpb stibp vmmcall fsgsbase bmi1 avx2 smep bmi2 cqm rdt_a rdseed adx smap clflushopt clwb sha_ni xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local clzero irperf xsaveerptr wbnoinvd arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif umip rdpid overflow_recov succor smca
+bugs		: sysret_ss_attrs spectre_v1 spectre_v2 spec_store_bypass
+bogomips	: 7186.29
+TLB size	: 3072 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management: ts ttp tm hwpstate cpb eff_freq_ro [13] [14]
+
+processor	: 1
+vendor_id	: AuthenticAMD
+cpu family	: 23
+model		: 113
+model name	: AMD Ryzen 5 3600 6-Core Processor
+stepping	: 0
+microcode	: 0x8701013
+cpu MHz		: 2099.843
+cache size	: 512 KB
+physical id	: 0
+siblings	: 12
+core id		: 1
+cpu cores	: 6
+apicid		: 2
+initial apicid	: 2
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 16
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb cat_l3 cdp_l3 hw_pstate sme ssbd mba sev ibpb stibp vmmcall fsgsbase bmi1 avx2 smep bmi2 cqm rdt_a rdseed adx smap clflushopt clwb sha_ni xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local clzero irperf xsaveerptr wbnoinvd arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif umip rdpid overflow_recov succor smca
+bugs		: sysret_ss_attrs spectre_v1 spectre_v2 spec_store_bypass
+bogomips	: 7186.29
+TLB size	: 3072 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management: ts ttp tm hwpstate cpb eff_freq_ro [13] [14]
+
+processor	: 2
+vendor_id	: AuthenticAMD
+cpu family	: 23
+model		: 113
+model name	: AMD Ryzen 5 3600 6-Core Processor
+stepping	: 0
+microcode	: 0x8701013
+cpu MHz		: 2132.906
+cache size	: 512 KB
+physical id	: 0
+siblings	: 12
+core id		: 2
+cpu cores	: 6
+apicid		: 4
+initial apicid	: 4
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 16
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb cat_l3 cdp_l3 hw_pstate sme ssbd mba sev ibpb stibp vmmcall fsgsbase bmi1 avx2 smep bmi2 cqm rdt_a rdseed adx smap clflushopt clwb sha_ni xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local clzero irperf xsaveerptr wbnoinvd arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif umip rdpid overflow_recov succor smca
+bugs		: sysret_ss_attrs spectre_v1 spectre_v2 spec_store_bypass
+bogomips	: 7186.29
+TLB size	: 3072 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management: ts ttp tm hwpstate cpb eff_freq_ro [13] [14]
+
+processor	: 3
+vendor_id	: AuthenticAMD
+cpu family	: 23
+model		: 113
+model name	: AMD Ryzen 5 3600 6-Core Processor
+stepping	: 0
+microcode	: 0x8701013
+cpu MHz		: 2468.805
+cache size	: 512 KB
+physical id	: 0
+siblings	: 12
+core id		: 4
+cpu cores	: 6
+apicid		: 8
+initial apicid	: 8
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 16
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb cat_l3 cdp_l3 hw_pstate sme ssbd mba sev ibpb stibp vmmcall fsgsbase bmi1 avx2 smep bmi2 cqm rdt_a rdseed adx smap clflushopt clwb sha_ni xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local clzero irperf xsaveerptr wbnoinvd arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif umip rdpid overflow_recov succor smca
+bugs		: sysret_ss_attrs spectre_v1 spectre_v2 spec_store_bypass
+bogomips	: 7186.29
+TLB size	: 3072 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management: ts ttp tm hwpstate cpb eff_freq_ro [13] [14]
+
+processor	: 4
+vendor_id	: AuthenticAMD
+cpu family	: 23
+model		: 113
+model name	: AMD Ryzen 5 3600 6-Core Processor
+stepping	: 0
+microcode	: 0x8701013
+cpu MHz		: 2134.821
+cache size	: 512 KB
+physical id	: 0
+siblings	: 12
+core id		: 5
+cpu cores	: 6
+apicid		: 10
+initial apicid	: 10
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 16
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb cat_l3 cdp_l3 hw_pstate sme ssbd mba sev ibpb stibp vmmcall fsgsbase bmi1 avx2 smep bmi2 cqm rdt_a rdseed adx smap clflushopt clwb sha_ni xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local clzero irperf xsaveerptr wbnoinvd arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif umip rdpid overflow_recov succor smca
+bugs		: sysret_ss_attrs spectre_v1 spectre_v2 spec_store_bypass
+bogomips	: 7186.29
+TLB size	: 3072 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management: ts ttp tm hwpstate cpb eff_freq_ro [13] [14]
+
+processor	: 5
+vendor_id	: AuthenticAMD
+cpu family	: 23
+model		: 113
+model name	: AMD Ryzen 5 3600 6-Core Processor
+stepping	: 0
+microcode	: 0x8701013
+cpu MHz		: 1964.205
+cache size	: 512 KB
+physical id	: 0
+siblings	: 12
+core id		: 6
+cpu cores	: 6
+apicid		: 12
+initial apicid	: 12
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 16
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb cat_l3 cdp_l3 hw_pstate sme ssbd mba sev ibpb stibp vmmcall fsgsbase bmi1 avx2 smep bmi2 cqm rdt_a rdseed adx smap clflushopt clwb sha_ni xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local clzero irperf xsaveerptr wbnoinvd arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif umip rdpid overflow_recov succor smca
+bugs		: sysret_ss_attrs spectre_v1 spectre_v2 spec_store_bypass
+bogomips	: 7186.29
+TLB size	: 3072 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management: ts ttp tm hwpstate cpb eff_freq_ro [13] [14]
+
+processor	: 6
+vendor_id	: AuthenticAMD
+cpu family	: 23
+model		: 113
+model name	: AMD Ryzen 5 3600 6-Core Processor
+stepping	: 0
+microcode	: 0x8701013
+cpu MHz		: 2376.066
+cache size	: 512 KB
+physical id	: 0
+siblings	: 12
+core id		: 0
+cpu cores	: 6
+apicid		: 1
+initial apicid	: 1
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 16
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb cat_l3 cdp_l3 hw_pstate sme ssbd mba sev ibpb stibp vmmcall fsgsbase bmi1 avx2 smep bmi2 cqm rdt_a rdseed adx smap clflushopt clwb sha_ni xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local clzero irperf xsaveerptr wbnoinvd arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif umip rdpid overflow_recov succor smca
+bugs		: sysret_ss_attrs spectre_v1 spectre_v2 spec_store_bypass
+bogomips	: 7186.29
+TLB size	: 3072 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management: ts ttp tm hwpstate cpb eff_freq_ro [13] [14]
+
+processor	: 7
+vendor_id	: AuthenticAMD
+cpu family	: 23
+model		: 113
+model name	: AMD Ryzen 5 3600 6-Core Processor
+stepping	: 0
+microcode	: 0x8701013
+cpu MHz		: 1994.954
+cache size	: 512 KB
+physical id	: 0
+siblings	: 12
+core id		: 1
+cpu cores	: 6
+apicid		: 3
+initial apicid	: 3
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 16
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb cat_l3 cdp_l3 hw_pstate sme ssbd mba sev ibpb stibp vmmcall fsgsbase bmi1 avx2 smep bmi2 cqm rdt_a rdseed adx smap clflushopt clwb sha_ni xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local clzero irperf xsaveerptr wbnoinvd arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif umip rdpid overflow_recov succor smca
+bugs		: sysret_ss_attrs spectre_v1 spectre_v2 spec_store_bypass
+bogomips	: 7186.29
+TLB size	: 3072 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management: ts ttp tm hwpstate cpb eff_freq_ro [13] [14]
+
+processor	: 8
+vendor_id	: AuthenticAMD
+cpu family	: 23
+model		: 113
+model name	: AMD Ryzen 5 3600 6-Core Processor
+stepping	: 0
+microcode	: 0x8701013
+cpu MHz		: 2141.414
+cache size	: 512 KB
+physical id	: 0
+siblings	: 12
+core id		: 2
+cpu cores	: 6
+apicid		: 5
+initial apicid	: 5
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 16
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb cat_l3 cdp_l3 hw_pstate sme ssbd mba sev ibpb stibp vmmcall fsgsbase bmi1 avx2 smep bmi2 cqm rdt_a rdseed adx smap clflushopt clwb sha_ni xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local clzero irperf xsaveerptr wbnoinvd arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif umip rdpid overflow_recov succor smca
+bugs		: sysret_ss_attrs spectre_v1 spectre_v2 spec_store_bypass
+bogomips	: 7186.29
+TLB size	: 3072 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management: ts ttp tm hwpstate cpb eff_freq_ro [13] [14]
+
+processor	: 9
+vendor_id	: AuthenticAMD
+cpu family	: 23
+model		: 113
+model name	: AMD Ryzen 5 3600 6-Core Processor
+stepping	: 0
+microcode	: 0x8701013
+cpu MHz		: 2168.744
+cache size	: 512 KB
+physical id	: 0
+siblings	: 12
+core id		: 4
+cpu cores	: 6
+apicid		: 9
+initial apicid	: 9
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 16
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb cat_l3 cdp_l3 hw_pstate sme ssbd mba sev ibpb stibp vmmcall fsgsbase bmi1 avx2 smep bmi2 cqm rdt_a rdseed adx smap clflushopt clwb sha_ni xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local clzero irperf xsaveerptr wbnoinvd arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif umip rdpid overflow_recov succor smca
+bugs		: sysret_ss_attrs spectre_v1 spectre_v2 spec_store_bypass
+bogomips	: 7186.29
+TLB size	: 3072 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management: ts ttp tm hwpstate cpb eff_freq_ro [13] [14]
+
+processor	: 10
+vendor_id	: AuthenticAMD
+cpu family	: 23
+model		: 113
+model name	: AMD Ryzen 5 3600 6-Core Processor
+stepping	: 0
+microcode	: 0x8701013
+cpu MHz		: 2286.007
+cache size	: 512 KB
+physical id	: 0
+siblings	: 12
+core id		: 5
+cpu cores	: 6
+apicid		: 11
+initial apicid	: 11
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 16
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb cat_l3 cdp_l3 hw_pstate sme ssbd mba sev ibpb stibp vmmcall fsgsbase bmi1 avx2 smep bmi2 cqm rdt_a rdseed adx smap clflushopt clwb sha_ni xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local clzero irperf xsaveerptr wbnoinvd arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif umip rdpid overflow_recov succor smca
+bugs		: sysret_ss_attrs spectre_v1 spectre_v2 spec_store_bypass
+bogomips	: 7186.29
+TLB size	: 3072 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management: ts ttp tm hwpstate cpb eff_freq_ro [13] [14]
+
+processor	: 11
+vendor_id	: AuthenticAMD
+cpu family	: 23
+model		: 113
+model name	: AMD Ryzen 5 3600 6-Core Processor
+stepping	: 0
+microcode	: 0x8701013
+cpu MHz		: 1963.592
+cache size	: 512 KB
+physical id	: 0
+siblings	: 12
+core id		: 6
+cpu cores	: 6
+apicid		: 13
+initial apicid	: 13
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 16
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb cat_l3 cdp_l3 hw_pstate sme ssbd mba sev ibpb stibp vmmcall fsgsbase bmi1 avx2 smep bmi2 cqm rdt_a rdseed adx smap clflushopt clwb sha_ni xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local clzero irperf xsaveerptr wbnoinvd arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif umip rdpid overflow_recov succor smca
+bugs		: sysret_ss_attrs spectre_v1 spectre_v2 spec_store_bypass
+bogomips	: 7186.29
+TLB size	: 3072 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management: ts ttp tm hwpstate cpb eff_freq_ro [13] [14]
+READFILE: /proc/meminfo
+MemTotal:       16405380 kB
+MemFree:         2625124 kB
+MemAvailable:    7356232 kB
+Buffers:          678388 kB
+Cached:          4644892 kB
+SwapCached:        44148 kB
+Active:          8578528 kB
+Inactive:        3560372 kB
+Active(anon):    6551620 kB
+Inactive(anon):  1077192 kB
+Active(file):    2026908 kB
+Inactive(file):  2483180 kB
+Unevictable:      108832 kB
+Mlocked:          108832 kB
+SwapTotal:       1003516 kB
+SwapFree:         552616 kB
+Dirty:                80 kB
+Writeback:             0 kB
+AnonPages:       6888396 kB
+Mapped:          1377748 kB
+Shmem:            807376 kB
+KReclaimable:     556988 kB
+Slab:             880692 kB
+SReclaimable:     556988 kB
+SUnreclaim:       323704 kB
+KernelStack:       26480 kB
+PageTables:        68440 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     9206204 kB
+Committed_AS:   18948956 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:       48804 kB
+VmallocChunk:          0 kB
+Percpu:            41088 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+FileHugePages:         0 kB
+FilePmdMapped:         0 kB
+CmaTotal:              0 kB
+CmaFree:               0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+Hugetlb:               0 kB
+DirectMap4k:     7748440 kB
+DirectMap2M:     8976384 kB
+DirectMap1G:     1048576 kB12 cores, memory limited to 7
+Checking how many cores to use for building Qt... READFILE: /proc/cpuinfo
+processor	: 0
+vendor_id	: AuthenticAMD
+cpu family	: 23
+model		: 113
+model name	: AMD Ryzen 5 3600 6-Core Processor
+stepping	: 0
+microcode	: 0x8701013
+cpu MHz		: 2224.388
+cache size	: 512 KB
+physical id	: 0
+siblings	: 12
+core id		: 0
+cpu cores	: 6
+apicid		: 0
+initial apicid	: 0
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 16
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb cat_l3 cdp_l3 hw_pstate sme ssbd mba sev ibpb stibp vmmcall fsgsbase bmi1 avx2 smep bmi2 cqm rdt_a rdseed adx smap clflushopt clwb sha_ni xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local clzero irperf xsaveerptr wbnoinvd arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif umip rdpid overflow_recov succor smca
+bugs		: sysret_ss_attrs spectre_v1 spectre_v2 spec_store_bypass
+bogomips	: 7186.29
+TLB size	: 3072 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management: ts ttp tm hwpstate cpb eff_freq_ro [13] [14]
+
+processor	: 1
+vendor_id	: AuthenticAMD
+cpu family	: 23
+model		: 113
+model name	: AMD Ryzen 5 3600 6-Core Processor
+stepping	: 0
+microcode	: 0x8701013
+cpu MHz		: 2099.843
+cache size	: 512 KB
+physical id	: 0
+siblings	: 12
+core id		: 1
+cpu cores	: 6
+apicid		: 2
+initial apicid	: 2
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 16
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb cat_l3 cdp_l3 hw_pstate sme ssbd mba sev ibpb stibp vmmcall fsgsbase bmi1 avx2 smep bmi2 cqm rdt_a rdseed adx smap clflushopt clwb sha_ni xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local clzero irperf xsaveerptr wbnoinvd arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif umip rdpid overflow_recov succor smca
+bugs		: sysret_ss_attrs spectre_v1 spectre_v2 spec_store_bypass
+bogomips	: 7186.29
+TLB size	: 3072 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management: ts ttp tm hwpstate cpb eff_freq_ro [13] [14]
+
+processor	: 2
+vendor_id	: AuthenticAMD
+cpu family	: 23
+model		: 113
+model name	: AMD Ryzen 5 3600 6-Core Processor
+stepping	: 0
+microcode	: 0x8701013
+cpu MHz		: 2132.906
+cache size	: 512 KB
+physical id	: 0
+siblings	: 12
+core id		: 2
+cpu cores	: 6
+apicid		: 4
+initial apicid	: 4
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 16
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb cat_l3 cdp_l3 hw_pstate sme ssbd mba sev ibpb stibp vmmcall fsgsbase bmi1 avx2 smep bmi2 cqm rdt_a rdseed adx smap clflushopt clwb sha_ni xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local clzero irperf xsaveerptr wbnoinvd arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif umip rdpid overflow_recov succor smca
+bugs		: sysret_ss_attrs spectre_v1 spectre_v2 spec_store_bypass
+bogomips	: 7186.29
+TLB size	: 3072 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management: ts ttp tm hwpstate cpb eff_freq_ro [13] [14]
+
+processor	: 3
+vendor_id	: AuthenticAMD
+cpu family	: 23
+model		: 113
+model name	: AMD Ryzen 5 3600 6-Core Processor
+stepping	: 0
+microcode	: 0x8701013
+cpu MHz		: 2468.805
+cache size	: 512 KB
+physical id	: 0
+siblings	: 12
+core id		: 4
+cpu cores	: 6
+apicid		: 8
+initial apicid	: 8
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 16
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb cat_l3 cdp_l3 hw_pstate sme ssbd mba sev ibpb stibp vmmcall fsgsbase bmi1 avx2 smep bmi2 cqm rdt_a rdseed adx smap clflushopt clwb sha_ni xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local clzero irperf xsaveerptr wbnoinvd arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif umip rdpid overflow_recov succor smca
+bugs		: sysret_ss_attrs spectre_v1 spectre_v2 spec_store_bypass
+bogomips	: 7186.29
+TLB size	: 3072 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management: ts ttp tm hwpstate cpb eff_freq_ro [13] [14]
+
+processor	: 4
+vendor_id	: AuthenticAMD
+cpu family	: 23
+model		: 113
+model name	: AMD Ryzen 5 3600 6-Core Processor
+stepping	: 0
+microcode	: 0x8701013
+cpu MHz		: 2134.821
+cache size	: 512 KB
+physical id	: 0
+siblings	: 12
+core id		: 5
+cpu cores	: 6
+apicid		: 10
+initial apicid	: 10
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 16
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb cat_l3 cdp_l3 hw_pstate sme ssbd mba sev ibpb stibp vmmcall fsgsbase bmi1 avx2 smep bmi2 cqm rdt_a rdseed adx smap clflushopt clwb sha_ni xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local clzero irperf xsaveerptr wbnoinvd arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif umip rdpid overflow_recov succor smca
+bugs		: sysret_ss_attrs spectre_v1 spectre_v2 spec_store_bypass
+bogomips	: 7186.29
+TLB size	: 3072 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management: ts ttp tm hwpstate cpb eff_freq_ro [13] [14]
+
+processor	: 5
+vendor_id	: AuthenticAMD
+cpu family	: 23
+model		: 113
+model name	: AMD Ryzen 5 3600 6-Core Processor
+stepping	: 0
+microcode	: 0x8701013
+cpu MHz		: 1964.205
+cache size	: 512 KB
+physical id	: 0
+siblings	: 12
+core id		: 6
+cpu cores	: 6
+apicid		: 12
+initial apicid	: 12
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 16
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb cat_l3 cdp_l3 hw_pstate sme ssbd mba sev ibpb stibp vmmcall fsgsbase bmi1 avx2 smep bmi2 cqm rdt_a rdseed adx smap clflushopt clwb sha_ni xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local clzero irperf xsaveerptr wbnoinvd arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif umip rdpid overflow_recov succor smca
+bugs		: sysret_ss_attrs spectre_v1 spectre_v2 spec_store_bypass
+bogomips	: 7186.29
+TLB size	: 3072 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management: ts ttp tm hwpstate cpb eff_freq_ro [13] [14]
+
+processor	: 6
+vendor_id	: AuthenticAMD
+cpu family	: 23
+model		: 113
+model name	: AMD Ryzen 5 3600 6-Core Processor
+stepping	: 0
+microcode	: 0x8701013
+cpu MHz		: 2376.066
+cache size	: 512 KB
+physical id	: 0
+siblings	: 12
+core id		: 0
+cpu cores	: 6
+apicid		: 1
+initial apicid	: 1
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 16
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb cat_l3 cdp_l3 hw_pstate sme ssbd mba sev ibpb stibp vmmcall fsgsbase bmi1 avx2 smep bmi2 cqm rdt_a rdseed adx smap clflushopt clwb sha_ni xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local clzero irperf xsaveerptr wbnoinvd arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif umip rdpid overflow_recov succor smca
+bugs		: sysret_ss_attrs spectre_v1 spectre_v2 spec_store_bypass
+bogomips	: 7186.29
+TLB size	: 3072 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management: ts ttp tm hwpstate cpb eff_freq_ro [13] [14]
+
+processor	: 7
+vendor_id	: AuthenticAMD
+cpu family	: 23
+model		: 113
+model name	: AMD Ryzen 5 3600 6-Core Processor
+stepping	: 0
+microcode	: 0x8701013
+cpu MHz		: 1994.954
+cache size	: 512 KB
+physical id	: 0
+siblings	: 12
+core id		: 1
+cpu cores	: 6
+apicid		: 3
+initial apicid	: 3
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 16
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb cat_l3 cdp_l3 hw_pstate sme ssbd mba sev ibpb stibp vmmcall fsgsbase bmi1 avx2 smep bmi2 cqm rdt_a rdseed adx smap clflushopt clwb sha_ni xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local clzero irperf xsaveerptr wbnoinvd arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif umip rdpid overflow_recov succor smca
+bugs		: sysret_ss_attrs spectre_v1 spectre_v2 spec_store_bypass
+bogomips	: 7186.29
+TLB size	: 3072 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management: ts ttp tm hwpstate cpb eff_freq_ro [13] [14]
+
+processor	: 8
+vendor_id	: AuthenticAMD
+cpu family	: 23
+model		: 113
+model name	: AMD Ryzen 5 3600 6-Core Processor
+stepping	: 0
+microcode	: 0x8701013
+cpu MHz		: 2141.414
+cache size	: 512 KB
+physical id	: 0
+siblings	: 12
+core id		: 2
+cpu cores	: 6
+apicid		: 5
+initial apicid	: 5
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 16
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb cat_l3 cdp_l3 hw_pstate sme ssbd mba sev ibpb stibp vmmcall fsgsbase bmi1 avx2 smep bmi2 cqm rdt_a rdseed adx smap clflushopt clwb sha_ni xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local clzero irperf xsaveerptr wbnoinvd arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif umip rdpid overflow_recov succor smca
+bugs		: sysret_ss_attrs spectre_v1 spectre_v2 spec_store_bypass
+bogomips	: 7186.29
+TLB size	: 3072 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management: ts ttp tm hwpstate cpb eff_freq_ro [13] [14]
+
+processor	: 9
+vendor_id	: AuthenticAMD
+cpu family	: 23
+model		: 113
+model name	: AMD Ryzen 5 3600 6-Core Processor
+stepping	: 0
+microcode	: 0x8701013
+cpu MHz		: 2168.744
+cache size	: 512 KB
+physical id	: 0
+siblings	: 12
+core id		: 4
+cpu cores	: 6
+apicid		: 9
+initial apicid	: 9
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 16
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb cat_l3 cdp_l3 hw_pstate sme ssbd mba sev ibpb stibp vmmcall fsgsbase bmi1 avx2 smep bmi2 cqm rdt_a rdseed adx smap clflushopt clwb sha_ni xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local clzero irperf xsaveerptr wbnoinvd arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif umip rdpid overflow_recov succor smca
+bugs		: sysret_ss_attrs spectre_v1 spectre_v2 spec_store_bypass
+bogomips	: 7186.29
+TLB size	: 3072 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management: ts ttp tm hwpstate cpb eff_freq_ro [13] [14]
+
+processor	: 10
+vendor_id	: AuthenticAMD
+cpu family	: 23
+model		: 113
+model name	: AMD Ryzen 5 3600 6-Core Processor
+stepping	: 0
+microcode	: 0x8701013
+cpu MHz		: 2286.007
+cache size	: 512 KB
+physical id	: 0
+siblings	: 12
+core id		: 5
+cpu cores	: 6
+apicid		: 11
+initial apicid	: 11
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 16
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb cat_l3 cdp_l3 hw_pstate sme ssbd mba sev ibpb stibp vmmcall fsgsbase bmi1 avx2 smep bmi2 cqm rdt_a rdseed adx smap clflushopt clwb sha_ni xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local clzero irperf xsaveerptr wbnoinvd arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif umip rdpid overflow_recov succor smca
+bugs		: sysret_ss_attrs spectre_v1 spectre_v2 spec_store_bypass
+bogomips	: 7186.29
+TLB size	: 3072 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management: ts ttp tm hwpstate cpb eff_freq_ro [13] [14]
+
+processor	: 11
+vendor_id	: AuthenticAMD
+cpu family	: 23
+model		: 113
+model name	: AMD Ryzen 5 3600 6-Core Processor
+stepping	: 0
+microcode	: 0x8701013
+cpu MHz		: 1963.592
+cache size	: 512 KB
+physical id	: 0
+siblings	: 12
+core id		: 6
+cpu cores	: 6
+apicid		: 13
+initial apicid	: 13
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 16
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb cat_l3 cdp_l3 hw_pstate sme ssbd mba sev ibpb stibp vmmcall fsgsbase bmi1 avx2 smep bmi2 cqm rdt_a rdseed adx smap clflushopt clwb sha_ni xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local clzero irperf xsaveerptr wbnoinvd arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif umip rdpid overflow_recov succor smca
+bugs		: sysret_ss_attrs spectre_v1 spectre_v2 spec_store_bypass
+bogomips	: 7186.29
+TLB size	: 3072 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management: ts ttp tm hwpstate cpb eff_freq_ro [13] [14]
+READFILE: /proc/meminfo
+MemTotal:       16405380 kB
+MemFree:         2625124 kB
+MemAvailable:    7356232 kB
+Buffers:          678388 kB
+Cached:          4644892 kB
+SwapCached:        44148 kB
+Active:          8578528 kB
+Inactive:        3560372 kB
+Active(anon):    6551620 kB
+Inactive(anon):  1077192 kB
+Active(file):    2026908 kB
+Inactive(file):  2483180 kB
+Unevictable:      108832 kB
+Mlocked:          108832 kB
+SwapTotal:       1003516 kB
+SwapFree:         552616 kB
+Dirty:                80 kB
+Writeback:             0 kB
+AnonPages:       6888396 kB
+Mapped:          1377748 kB
+Shmem:            807376 kB
+KReclaimable:     556988 kB
+Slab:             880692 kB
+SReclaimable:     556988 kB
+SUnreclaim:       323704 kB
+KernelStack:       26480 kB
+PageTables:        68440 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     9206204 kB
+Committed_AS:   18948956 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:       48804 kB
+VmallocChunk:          0 kB
+Percpu:            41088 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+FileHugePages:         0 kB
+FilePmdMapped:         0 kB
+CmaTotal:              0 kB
+CmaFree:               0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+Hugetlb:               0 kB
+DirectMap4k:     7748440 kB
+DirectMap2M:     8976384 kB
+DirectMap1G:     1048576 kB12 cores, memory limited to 5
+Detecting desktop location... RUN: xdg-user-dir DESKTOP
+Program started as PID 236059
+/home/kawanerio/デスクトップ
+
+Command 'xdg-user-dir DESKTOP' exited with value 0  after 0:00:00
+/home/kawanerio/デスクトップ
+Detecting distribution... READFILE: /etc/os-release
+NAME="Ubuntu"
+VERSION="20.04.2 LTS (Focal Fossa)"
+ID=ubuntu
+ID_LIKE=debian
+PRETTY_NAME="Ubuntu 20.04.2 LTS"
+VERSION_ID="20.04"
+HOME_URL="https://www.ubuntu.com/"
+SUPPORT_URL="https://help.ubuntu.com/"
+BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"
+PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
+VERSION_CODENAME=focal
+UBUNTU_CODENAME=focalParsing /etc/os-release...
+	NAME => 'Ubuntu'
+	VERSION => '20.04.2 LTS (Focal Fossa)'
+	ID => 'ubuntu'
+	ID_LIKE => 'debian'
+	PRETTY_NAME => 'Ubuntu 20.04.2 LTS'
+	VERSION_ID => '20.04'
+	HOME_URL => 'https://www.ubuntu.com/'
+	SUPPORT_URL => 'https://help.ubuntu.com/'
+	BUG_REPORT_URL => 'https://bugs.launchpad.net/ubuntu/'
+	PRIVACY_POLICY_URL => 'https://www.ubuntu.com/legal/terms-and-policies/privacy-policy'
+	VERSION_CODENAME => 'focal'
+	UBUNTU_CODENAME => 'focal'
+Ubuntu 20.04.2 LTS (ubuntu-20.04)
+Getting the package list... RUN: dpkg-query --show -f ${Package}
+
+Program started as PID 236060
+a2jmidid
+abgate
+accountsservice
+acl
+acpi-support
+acpid
+adduser
+adwaita-icon-theme
+aegisub
+aeolus
+aglfn
+alsa-base
+alsa-tools
+alsa-tools-gui
+alsa-topology-conf
+alsa-ucm-conf
+alsa-utils
+amb-plugins
+amd64-microcode
+anacron
+apng2gif
+app-install-data-partner
+apparmor
+apport
+apport-gtk
+apport-symptoms
+appstream
+apt
+apt-config-icons
+apt-utils
+aptdaemon
+aptdaemon-data
+ardour
+ardour-data
+ardour-video-timeline
+argyll
+argyll-ref
+aspell
+aspell-en
+asymptote
+asymptote-doc
+at-spi2-core
+atop
+atril
+atril-common
+audacity
+audacity-data
+autoconf
+automake
+autotalent
+autotools-dev
+avahi-autoipd
+avahi-daemon
+avahi-utils
+avldrums.lv2
+avldrums.lv2-data
+base-files
+base-passwd
+bash
+bash-completion
+bc
+biber
+bind9-dnsutils
+bind9-host
+bind9-libs
+binfmt-support
+binutils
+binutils-common
+binutils-x86-64-linux-gnu
+blackbird-gtk-theme
+blender
+blender-data
+blepvco
+blop
+blt
+bluebird-gtk-theme
+blueman
+bluez
+bluez-cups
+bluez-obexd
+bolt
+brasero
+brasero-cdrkit
+brasero-common
+breeze
+breeze-cursor-theme
+breeze-icon-theme
+brltty
+brltty-x11
+bsdmainutils
+bsdutils
+bubblewrap
+build-essential
+busybox-initramfs
+busybox-static
+bzip2
+ca-certificates
+ca-certificates-java
+ca-certificates-mono
+cabextract
+calf-plugins
+calibre
+calibre-bin
+caps
+carla
+carla-data
+carla-lv2
+carla-vst
+catdoc
+catfish
+cdrdao
+chafa
+cheese-common
+chktex
+chromium-codecs-ffmpeg-extra
+clipit
+clonezilla
+cm-super
+cm-super-minimal
+cm-super-x11
+cmake
+cmake-data
+cmdtest
+cmt
+colord
+colord-data
+command-not-found
+compiz
+compiz-core
+compiz-gnome
+compiz-plugins-default
+console-setup
+console-setup-linux
+context
+context-modules
+convmv
+coreutils
+cpio
+cpp
+cpp-9
+cpu-checker
+crda
+create-resources
+cron
+cryptsetup
+cryptsetup-bin
+cryptsetup-initramfs
+cryptsetup-run
+csladspa
+csound
+csound-data
+csound-utils
+cups
+cups-browsed
+cups-bsd
+cups-client
+cups-common
+cups-core-drivers
+cups-daemon
+cups-filters
+cups-filters-core-drivers
+cups-ipp-utils
+cups-pk-helper
+cups-ppdc
+cups-server-common
+curl
+cyclist
+darktable
+dash
+dbus
+dbus-user-session
+dbus-x11
+dc
+dconf-gsettings-backend
+dconf-service
+dctrl-tools
+ddskk
+debconf
+debconf-i18n
+debianutils
+default-jre-headless
+deken
+desktop-file-utils
+devede
+devhelp
+devhelp-common
+dgedit
+dialog
+dictionaries-common
+diffutils
+dirmngr
+discord
+distro-info-data
+dkms
+dmeventd
+dmidecode
+dmsetup
+dmz-cursor-theme
+dns-root-data
+dnsmasq-base
+doc-base
+docbook-xml
+docbook-xsl
+docutils-common
+dosfstools
+dpf-plugins
+dpf-plugins-common
+dpf-plugins-dssi
+dpf-plugins-ladspa
+dpf-plugins-lv2
+dpf-plugins-vst
+dpkg
+dpkg-dev
+drbl
+drumgizmo
+drumkv1
+drumkv1-common
+dssi-host-jack
+dssi-utils
+dvd+rw-tools
+dvdauthor
+dvidvi
+dvipng
+dvisvgm
+e2fsprogs
+ed
+eject
+elementary-icon-theme
+elementary-xfce-icon-theme
+emacs
+emacs-bin-common
+emacs-common
+emacs-el
+emacs-nox
+emacsen-common
+enchant
+enchant-2
+engrampa
+engrampa-common
+entangle
+eq10q
+espeak
+espeak-data
+espeak-ng-data
+exo-utils
+fakeroot
+fcitx
+fcitx-bin
+fcitx-config-common
+fcitx-config-gtk
+fcitx-data
+fcitx-frontend-all
+fcitx-frontend-gtk2
+fcitx-frontend-gtk3
+fcitx-frontend-qt5
+fcitx-hangul
+fcitx-module-dbus
+fcitx-module-kimpanel
+fcitx-module-lua
+fcitx-module-x11
+fcitx-modules
+fcitx-mozc
+fcitx-ui-classic
+fcitx5-module-quickphrase-editor
+fdisk
+feynmf
+ffado-dbus-server
+ffado-mixer-qt4
+ffado-tools
+ffmpeg
+ffmpeg2theora
+fig2dev
+fil-plugins
+file
+findutils
+firefox
+firefox-locale-en
+firefox-locale-ja
+flac
+fluid-soundfont-gm
+fluid-soundfont-gs
+fluidsynth
+fluidsynth-dssi
+font-manager
+font-manager-common
+font-viewer
+fontconfig
+fontconfig-config
+fontforge
+fontforge-common
+fonts-adf-accanthis
+fonts-adf-baskervald
+fonts-adf-berenis
+fonts-adf-gillius
+fonts-adf-ikarius
+fonts-adf-irianis
+fonts-adf-libris
+fonts-adf-mekanus
+fonts-adf-oldania
+fonts-adf-romande
+fonts-adf-switzera
+fonts-adf-tribun
+fonts-adf-universalis
+fonts-adf-verana
+fonts-alee
+fonts-ancient-scripts
+fonts-arphic-bkai00mp
+fonts-arphic-bsmi00lp
+fonts-arphic-gbsn00lp
+fonts-arphic-gkai00mp
+fonts-atarismall
+fonts-baekmuk
+fonts-beng
+fonts-beng-extra
+fonts-beteckna
+fonts-bpg-georgian
+fonts-breip
+fonts-cabin
+fonts-cantarell
+fonts-comfortaa
+fonts-croscore
+fonts-crosextra-caladea
+fonts-crosextra-carlito
+fonts-dejavu
+fonts-dejavu-core
+fonts-dejavu-extra
+fonts-deva
+fonts-deva-extra
+fonts-dkg-handwriting
+fonts-droid-fallback
+fonts-dustin
+fonts-ebgaramond
+fonts-ebgaramond-extra
+fonts-ecolier-court
+fonts-ecolier-lignes-court
+fonts-essays1743
+fonts-f500
+fonts-font-awesome
+fonts-freefont-otf
+fonts-freefont-ttf
+fonts-gargi
+fonts-georgewilliams
+fonts-gfs-artemisia
+fonts-gfs-baskerville
+fonts-gfs-bodoni-classic
+fonts-gfs-complutum
+fonts-gfs-didot
+fonts-gfs-didot-classic
+fonts-gfs-gazis
+fonts-gfs-neohellenic
+fonts-gfs-olga
+fonts-gfs-porson
+fonts-gfs-solomos
+fonts-gfs-theokritos
+fonts-go
+fonts-goudybookletter
+fonts-gubbi
+fonts-gujr
+fonts-gujr-extra
+fonts-guru
+fonts-guru-extra
+fonts-hosny-amiri
+fonts-inconsolata
+fonts-indic
+fonts-ipaexfont-gothic
+fonts-ipaexfont-mincho
+fonts-ipafont-gothic
+fonts-ipafont-mincho
+fonts-isabella
+fonts-jsmath
+fonts-junicode
+fonts-jura
+fonts-kacst
+fonts-kacst-one
+fonts-kalapi
+fonts-khmeros-core
+fonts-knda
+fonts-lao
+fonts-larabie-deco
+fonts-larabie-straight
+fonts-larabie-uncommon
+fonts-lato
+fonts-liberation
+fonts-liberation2
+fonts-linex
+fonts-linuxlibertine
+fonts-lklug-sinhala
+fonts-lmodern
+fonts-lobster
+fonts-lobstertwo
+fonts-lohit-beng-assamese
+fonts-lohit-beng-bengali
+fonts-lohit-deva
+fonts-lohit-gujr
+fonts-lohit-guru
+fonts-lohit-knda
+fonts-lohit-mlym
+fonts-lohit-orya
+fonts-lohit-taml
+fonts-lohit-taml-classical
+fonts-lohit-telu
+fonts-lyx
+fonts-manchufont
+fonts-mathjax
+fonts-mlym
+fonts-nakula
+fonts-navilu
+fonts-noto-cjk
+fonts-noto-cjk-extra
+fonts-noto-color-emoji
+fonts-noto-core
+fonts-noto-hinted
+fonts-noto-mono
+fonts-noto-ui-core
+fonts-ocr-a
+fonts-oflb-asana-math
+fonts-oflb-euterpe
+fonts-okolaks
+fonts-open-sans
+fonts-opensymbol
+fonts-orya
+fonts-orya-extra
+fonts-pagul
+fonts-radisnoir
+fonts-roboto
+fonts-roboto-unhinted
+fonts-sahadeva
+fonts-samyak-deva
+fonts-samyak-gujr
+fonts-samyak-mlym
+fonts-samyak-taml
+fonts-sarai
+fonts-sil-abyssinica
+fonts-sil-andika
+fonts-sil-charis
+fonts-sil-doulos
+fonts-sil-gentium
+fonts-sil-gentium-basic
+fonts-sil-gentiumplus
+fonts-sil-gentiumplus-compact
+fonts-sil-padauk
+fonts-smc
+fonts-smc-anjalioldlipi
+fonts-smc-chilanka
+fonts-smc-dyuthi
+fonts-smc-gayathri
+fonts-smc-karumbi
+fonts-smc-keraleeyam
+fonts-smc-manjari
+fonts-smc-meera
+fonts-smc-rachana
+fonts-smc-raghumalayalamsans
+fonts-smc-suruma
+fonts-smc-uroob
+fonts-stix
+fonts-symbola
+fonts-taml
+fonts-telu
+fonts-telu-extra
+fonts-texgyre
+fonts-thai-tlwg
+fonts-tibetan-machine
+fonts-tiresias
+fonts-tlwg-garuda
+fonts-tlwg-garuda-otf
+fonts-tlwg-garuda-ttf
+fonts-tlwg-kinnari
+fonts-tlwg-kinnari-otf
+fonts-tlwg-kinnari-ttf
+fonts-tlwg-laksaman
+fonts-tlwg-laksaman-otf
+fonts-tlwg-laksaman-ttf
+fonts-tlwg-loma
+fonts-tlwg-loma-otf
+fonts-tlwg-loma-ttf
+fonts-tlwg-mono
+fonts-tlwg-mono-otf
+fonts-tlwg-mono-ttf
+fonts-tlwg-norasi
+fonts-tlwg-norasi-otf
+fonts-tlwg-norasi-ttf
+fonts-tlwg-purisa
+fonts-tlwg-purisa-otf
+fonts-tlwg-purisa-ttf
+fonts-tlwg-sawasdee
+fonts-tlwg-sawasdee-otf
+fonts-tlwg-sawasdee-ttf
+fonts-tlwg-typewriter
+fonts-tlwg-typewriter-otf
+fonts-tlwg-typewriter-ttf
+fonts-tlwg-typist
+fonts-tlwg-typist-otf
+fonts-tlwg-typist-ttf
+fonts-tlwg-typo
+fonts-tlwg-typo-otf
+fonts-tlwg-typo-ttf
+fonts-tlwg-umpush
+fonts-tlwg-umpush-otf
+fonts-tlwg-umpush-ttf
+fonts-tlwg-waree
+fonts-tlwg-waree-otf
+fonts-tlwg-waree-ttf
+fonts-tomsontalks
+fonts-tuffy
+fonts-ubuntu
+fonts-ubuntu-title
+fonts-unfonts-core
+fonts-unfonts-extra
+fonts-urw-base35
+fonts-wine
+fonts-yrsa-rasa
+foo-yc20
+foomatic-db-compressed-ppds
+fragmaster
+freeglut3
+freepats
+frei0r-plugins
+friendly-recovery
+ftp
+fuse
+fuseiso
+fwupd
+fwupd-signed
+g++
+g++-9
+gawk
+gcc
+gcc-10-base
+gcc-10-base
+gcc-9
+gcc-9-base
+gconf-service
+gconf-service-backend
+gconf2
+gconf2-common
+gcr
+gdal-data
+gdb
+gdbserver
+gdisk
+gem
+gem-doc
+gem-extra
+gem-plugin-assimp
+gem-plugin-gmerlin
+gem-plugin-lqt
+gem-plugin-magick
+gem-plugin-v4l2
+genisoimage
+geoclue-2.0
+gettext-base
+gfortran
+gfortran-9
+ghex
+ghostess
+ghostscript
+ghostscript-x
+gigolo
+gimp
+gimp-data
+gimp-data-extras
+gimp-gap
+gimp-gmic
+gimp-help-common
+gimp-help-en
+gimp-help-ja
+gimp-plugin-registry
+gir1.2-appindicator3-0.1
+gir1.2-atk-1.0
+gir1.2-atspi-2.0
+gir1.2-cheese-3.0
+gir1.2-clutter-1.0
+gir1.2-cogl-1.0
+gir1.2-coglpango-1.0
+gir1.2-dbusmenu-glib-0.4
+gir1.2-dee-1.0
+gir1.2-freedesktop
+gir1.2-gdesktopenums-3.0
+gir1.2-gdkpixbuf-2.0
+gir1.2-ges-1.0
+gir1.2-gexiv2-0.10
+gir1.2-glib-2.0
+gir1.2-gnomedesktop-3.0
+gir1.2-goa-1.0
+gir1.2-gst-plugins-base-1.0
+gir1.2-gstreamer-1.0
+gir1.2-gtk-3.0
+gir1.2-gtk-vnc-2.0
+gir1.2-gtkclutter-1.0
+gir1.2-gtksource-4
+gir1.2-gudev-1.0
+gir1.2-harfbuzz-0.0
+gir1.2-javascriptcoregtk-4.0
+gir1.2-json-1.0
+gir1.2-libosinfo-1.0
+gir1.2-libvirt-glib-1.0
+gir1.2-nm-1.0
+gir1.2-notify-0.7
+gir1.2-packagekitglib-1.0
+gir1.2-pango-1.0
+gir1.2-polkit-1.0
+gir1.2-poppler-0.18
+gir1.2-secret-1
+gir1.2-snapd-1
+gir1.2-soup-2.4
+gir1.2-spiceclientglib-2.0
+gir1.2-spiceclientgtk-3.0
+gir1.2-udisks-2.0
+gir1.2-unity-5.0
+gir1.2-vte-2.91
+gir1.2-webkit2-4.0
+gir1.2-wnck-3.0
+git
+git-man
+github-backup
+glade
+glib-networking
+glib-networking
+glib-networking-common
+glib-networking-services
+gnome-accessibility-themes
+gnome-desktop3-data
+gnome-icon-theme
+gnome-keyring
+gnome-keyring-pkcs11
+gnome-mines
+gnome-settings-daemon-common
+gnome-software
+gnome-software-common
+gnome-software-plugin-snap
+gnome-sudoku
+gnome-system-monitor
+gnome-system-tools
+gnome-themes-extra
+gnome-themes-extra-data
+gnome-themes-standard
+gnupg
+gnupg-l10n
+gnupg-utils
+gnustep-back-common
+gnustep-back0.27
+gnustep-back0.27-cairo
+gnustep-base-common
+gnustep-base-runtime
+gnustep-common
+gnustep-gui-common
+gnustep-gui-runtime
+gpg
+gpg-agent
+gpg-wks-client
+gpg-wks-server
+gpgconf
+gpgsm
+gpgv
+gpick
+grep
+greybird-gtk-theme
+groff-base
+growisofs
+grub-common
+grub-gfxpayload-lists
+grub-pc
+grub-pc-bin
+grub2-common
+grub2-themes-ubuntustudio
+gsettings-desktop-schemas
+gsfonts
+gsfonts-other
+gstreamer1.0-alsa
+gstreamer1.0-gl
+gstreamer1.0-gtk3
+gstreamer1.0-libav
+gstreamer1.0-nice
+gstreamer1.0-plugins-bad
+gstreamer1.0-plugins-base
+gstreamer1.0-plugins-base
+gstreamer1.0-plugins-good
+gstreamer1.0-plugins-good
+gstreamer1.0-plugins-ugly
+gstreamer1.0-pulseaudio
+gstreamer1.0-tools
+gstreamer1.0-vaapi
+gstreamer1.0-x
+gstreamer1.0-x
+gthumb
+gthumb-data
+gtk-update-icon-cache
+gtk2-engines
+gtk2-engines-murrine
+gtk2-engines-pixbuf
+gucharmap
+guitarix
+guitarix-common
+guitarix-ladspa
+guitarix-lv2
+gvfs
+gvfs-backends
+gvfs-common
+gvfs-daemons
+gvfs-fuse
+gvfs-libs
+gzip
+harvid
+hddtemp
+hdparm
+hexter
+hicolor-icon-theme
+hostname
+hplip
+hplip-data
+hts-voice-nitech-jp-atr503-m001
+humanity-icon-theme
+hunspell-en-au
+hunspell-en-ca
+hunspell-en-gb
+hunspell-en-us
+hunspell-en-za
+hydrogen
+hydrogen-data
+hydrogen-doc
+hydrogen-drumkits
+hyper
+hyphen-af
+hyphen-en-ca
+hyphen-en-gb
+hyphen-en-us
+i965-va-driver
+i965-va-driver
+ibverbs-providers
+icc-profiles-free
+icu-devtools
+iio-sensor-proxy
+im-config
+imagemagick
+imagemagick-6-common
+imagemagick-6.q16
+indicator-common
+indicator-messages
+info
+init
+init-system-helpers
+initramfs-tools
+initramfs-tools-bin
+initramfs-tools-core
+inkscape
+inputattach
+install-info
+intel-media-va-driver
+intel-media-va-driver
+intel-microcode
+invada-studio-plugins-ladspa
+invada-studio-plugins-lv2
+inxi
+ipcalc
+ippusbxd
+iproute2
+iptables
+iputils-ping
+iputils-tracepath
+ipxe-qemu
+ipxe-qemu-256k-compat-efi-roms
+ir.lv2
+irqbalance
+isc-dhcp-client
+isc-dhcp-common
+iso-codes
+iucode-tool
+iw
+jack-capture
+jack-keyboard
+jack-rack
+jack-tools
+jackd
+jackd2
+jackd2-firewire
+jamin
+java-common
+javascript-common
+jconvolver
+jconvolver-config-files
+kaccounts-providers
+kactivities-bin
+kactivitymanagerd
+kbd
+kde-cli-tools
+kde-cli-tools-data
+kde-config-fcitx
+kde-style-breeze
+kdeconnect
+kded5
+kdenlive
+kdenlive-data
+kdoctools5
+keditbookmarks
+kerneloops
+keyboard-configuration
+khelpcenter
+kid3-core
+kid3-qt
+kinit
+kio
+klibc-utils
+kmod
+kpackagelauncherqml
+kpackagetool5
+kpeople-vcard
+krb5-locales
+krita
+krita-data
+krita-gmic
+kwayland-data
+kwayland-integration
+kwin-style-breeze
+lacheck
+ladspa-sdk
+lame
+language-pack-en
+language-pack-en-base
+language-pack-gnome-en
+language-pack-gnome-en-base
+language-pack-gnome-ja
+language-pack-gnome-ja-base
+language-pack-ja
+language-pack-ja-base
+language-selector-common
+language-selector-gnome
+laptop-detect
+latex-cjk-all
+latex-cjk-chinese
+latex-cjk-chinese-arphic-bkai00mp
+latex-cjk-chinese-arphic-bsmi00lp
+latex-cjk-chinese-arphic-gbsn00lp
+latex-cjk-chinese-arphic-gkai00mp
+latex-cjk-common
+latex-cjk-japanese
+latex-cjk-japanese-wadalab
+latex-cjk-korean
+latex-cjk-thai
+latexdiff
+latexmk
+lcdf-typetools
+less
+liba52-0.7.4
+libaa1
+libaa1
+libaacs0
+libabw-0.1-1
+libaccounts-glib0
+libaccounts-qt5-1
+libaccountsservice0
+libacl1
+libaec0
+libaio1
+libalgorithm-c3-perl
+libalgorithm-diff-perl
+libalgorithm-diff-xs-perl
+libalgorithm-merge-perl
+libambix0
+libamd2
+libamtk-5-0
+libamtk-5-common
+libao-common
+libao4
+libaom0
+libaom0
+libaopalliance-java
+libapache-pom-java
+libapparmor1
+libapparmor1
+libappindicator1
+libappindicator3-1
+libappstream-glib8
+libappstream4
+libapt-pkg6.0
+libarchive-zip-perl
+libarchive13
+libargon2-1
+libaribb24-0
+libaribb24-0
+libarmadillo9
+libarpack2
+libart-2.0-2
+libasan5
+libasn1-8-heimdal
+libasn1-8-heimdal
+libasound2
+libasound2
+libasound2-data
+libasound2-plugins
+libasound2-plugins
+libaspell15
+libass9
+libassimp5
+libassuan0
+libasyncns0
+libasyncns0
+libatasmart-dev
+libatasmart4
+libatinject-jsr330-api-java
+libatk-bridge2.0-0
+libatk-bridge2.0-dev
+libatk1.0-0
+libatk1.0-0
+libatk1.0-data
+libatk1.0-dev
+libatk1.0-doc
+libatkmm-1.6-1v5
+libatlas3-base
+libatm1
+libatomic1
+libatomic1
+libatopology2
+libatrildocument3
+libatrilview3
+libatspi2.0-0
+libatspi2.0-dev
+libattr1
+libaubio5
+libaudio2
+libaudit-common
+libaudit1
+libauthen-sasl-perl
+libautovivification-perl
+libavahi-client3
+libavahi-client3
+libavahi-common-data
+libavahi-common-data
+libavahi-common3
+libavahi-common3
+libavahi-core7
+libavahi-glib1
+libavahi-gobject0
+libavc1394-0
+libavc1394-0
+libavcodec-extra
+libavcodec-extra58
+libavcodec-extra58
+libavdevice58
+libavfilter7
+libavformat58
+libavresample4
+libavutil56
+libavutil56
+libayatana-appindicator3-1
+libayatana-indicator3-7
+libb-hooks-endofscope-perl
+libb-hooks-op-check-perl
+libbabeltrace1
+libbabl-0.1-0
+libbasicusageenvironment1
+libbdplus0
+libbinutils
+libblas3
+libblkid-dev
+libblkid1
+libblkid1
+libblockdev-crypto2
+libblockdev-fs2
+libblockdev-loop2
+libblockdev-part-err2
+libblockdev-part2
+libblockdev-swap2
+libblockdev-utils2
+libblockdev2
+libblosc1
+libbluetooth3
+libbluray2
+libboost-chrono1.71.0
+libboost-date-time1.71.0
+libboost-filesystem1.67.0
+libboost-filesystem1.71.0
+libboost-iostreams1.71.0
+libboost-locale1.71.0
+libboost-regex1.71.0
+libboost-system1.67.0
+libboost-thread1.71.0
+libbrasero-media3-1
+libbrlapi0.7
+libbrotli1
+libbrotli1
+libbs2b0
+libbsd0
+libbsd0
+libbtparse2
+libburn4
+libbusiness-isbn-data-perl
+libbusiness-isbn-perl
+libbusiness-ismn-perl
+libbusiness-issn-perl
+libbz2-1.0
+libbz2-1.0
+libc++1
+libc++1-10
+libc++abi1-10
+libc-bin
+libc-dev-bin
+libc6
+libc6
+libc6-dbg
+libc6-dev
+libc6-i386
+libcaca0
+libcaca0
+libcacard0
+libcaf-openmpi-3
+libcairo-gobject-perl
+libcairo-gobject2
+libcairo-gobject2
+libcairo-perl
+libcairo-script-interpreter2
+libcairo2
+libcairo2
+libcairo2-dev
+libcairomm-1.0-1v5
+libcaja-extension1
+libcamd2
+libcanberra-gtk3-0
+libcanberra-gtk3-module
+libcanberra0
+libcap-ng0
+libcap2
+libcap2
+libcap2-bin
+libcapi20-3
+libcapi20-3
+libcbor0.6
+libcc1-0
+libccolamd2
+libcddb2
+libcdi-api-java
+libcdio-cdda2
+libcdio-paranoia2
+libcdio18
+libcdparanoia0
+libcdparanoia0
+libcdr-0.1-1
+libcfitsio8
+libchafa0
+libcharls2
+libcheese8
+libchm1
+libcholmod3
+libchromaprint1
+libclass-accessor-perl
+libclass-c3-perl
+libclass-c3-xs-perl
+libclass-data-inheritable-perl
+libclass-inspector-perl
+libclass-method-modifiers-perl
+libclass-singleton-perl
+libclass-xsaccessor-perl
+libclone-perl
+libclthreads2
+libclucene-contribs1v5
+libclucene-core1v5
+libclutter-1.0-0
+libclutter-1.0-common
+libclutter-gst-3.0-0
+libclutter-gtk-1.0-0
+libclxclient3
+libcmis-0.5-5v5
+libcoarrays-dev
+libcoarrays-openmpi-dev
+libcodec2-0.9
+libcodec2-0.9
+libcogl-common
+libcogl-pango20
+libcogl-path20
+libcogl20
+libcoin80c
+libcolamd2
+libcollada-dom2.4-dp0
+libcolord-gtk1
+libcolord2
+libcolorhug2
+libcom-err2
+libcom-err2
+libcommons-cli-java
+libcommons-io-java
+libcommons-lang3-java
+libcommons-logging-java
+libcommons-parent-java
+libcompizconfig0
+libconfig++9v5
+libcrypt-dev
+libcrypt1
+libcrypt1
+libcryptsetup12
+libcsound64-6.0
+libctf-nobfd0
+libctf0
+libcups2
+libcups2
+libcupsfilters1
+libcupsimage2
+libcurl3-gnutls
+libcurl3-gnutls
+libcurl4
+libcwiid1
+libdaemon0
+libdap25
+libdapclient6v5
+libdata-compare-perl
+libdata-dump-perl
+libdata-optlist-perl
+libdata-uniqid-perl
+libdate-simple-perl
+libdatetime-calendar-julian-perl
+libdatetime-format-builder-perl
+libdatetime-format-strptime-perl
+libdatetime-locale-perl
+libdatetime-perl
+libdatetime-timezone-perl
+libdatrie-dev
+libdatrie1
+libdatrie1
+libdb5.3
+libdb5.3
+libdbus-1-3
+libdbus-1-3
+libdbus-1-dev
+libdbus-c++-1-0v5
+libdbus-glib-1-2
+libdbusmenu-glib4
+libdbusmenu-gtk3-4
+libdbusmenu-gtk4
+libdbusmenu-qt5-2
+libdc1394-22
+libdc1394-25
+libdc1394-utils
+libdca0
+libdcmtk14
+libdconf1
+libde265-0
+libdebconfclient0
+libdecoration0
+libdee-1.0-4
+libdevel-callchecker-perl
+libdevel-caller-perl
+libdevel-globaldestruction-perl
+libdevel-lexalias-perl
+libdevel-stacktrace-perl
+libdevhelp-3-6
+libdevmapper-event1.02.1
+libdevmapper1.02.1
+libdirectfb-1.7-7
+libdist-checkconflicts-perl
+libdjvulibre-text
+libdjvulibre21
+libdns-export1109
+libdotconf0
+libdouble-conversion3
+libdpkg-perl
+libdrm-amdgpu1
+libdrm-amdgpu1
+libdrm-common
+libdrm-intel1
+libdrm-intel1
+libdrm-nouveau2
+libdrm-nouveau2
+libdrm-radeon1
+libdrm-radeon1
+libdrm2
+libdrm2
+libdv-bin
+libdv4
+libdv4
+libdvbpsi10
+libdvdnav4
+libdvdread7
+libdw1
+libdynaloader-functions-perl
+libe-book-0.1-1
+libebml4v5
+libebur128-1
+libecore1
+libedit2
+libedit2
+libefiboot1
+libefivar1
+libegl-dev
+libegl-mesa0
+libegl1
+libegl1-mesa-dev
+libeina1a
+libelf1
+libelf1
+libemail-date-format-perl
+libemf1
+libenca0
+libenchant-2-2
+libenchant1c2a
+libencode-eucjpms-perl
+libencode-hanextra-perl
+libencode-jis2k-perl
+libencode-locale-perl
+libencode-perl
+libeot0
+libepoxy-dev
+libepoxy0
+libepsilon1
+libepub0
+libepubgen-0.1-1
+liberror-perl
+libespeak-ng1
+libespeak1
+libestr0
+libetonyek-0.1-1
+libeval-closure-perl
+libevdev2
+libevent-2.1-7
+libevent-core-2.1-7
+libevent-dev
+libevent-extra-2.1-7
+libevent-openssl-2.1-7
+libevent-pthreads-2.1-7
+libexception-class-perl
+libexif12
+libexif12
+libexiv2-27
+libexo-1-0
+libexo-2-0
+libexo-common
+libexo-helpers
+libexpat1
+libexpat1
+libexpat1-dev
+libexporter-tiny-perl
+libext2fs2
+libexttextcat-2.0-0
+libexttextcat-data
+libextutils-depends-perl
+libextutils-pkgconfig-perl
+libfaad2
+libfabric1
+libfakekey0
+libfakeroot
+libfam0
+libfarstream-0.2-5
+libfastjson4
+libfaudio0
+libfaudio0
+libfcitx-config4
+libfcitx-core0
+libfcitx-gclient1
+libfcitx-qt5-1
+libfcitx-qt5-data
+libfcitx-utils0
+libfdisk1
+libfdt1
+libffado2
+libffi-dev
+libffi7
+libffi7
+libffms2-4
+libfftw3-double3
+libfftw3-single3
+libfido2-1
+libfile-basedir-perl
+libfile-desktopentry-perl
+libfile-fcntllock-perl
+libfile-find-rule-perl
+libfile-homedir-perl
+libfile-listing-perl
+libfile-mimeinfo-perl
+libfile-sharedir-perl
+libfile-slurper-perl
+libfile-which-perl
+libflac++6v5
+libflac8
+libflac8
+libflext-pd0
+libflite1
+libfltk-images1.3
+libfltk1.1
+libfltk1.3
+libfluidsynth2
+libfont-afm-perl
+libfontbox-java
+libfontconfig1
+libfontconfig1
+libfontconfig1-dev
+libfontembed1
+libfontenc1
+libfontforge3
+libfreehand-0.1-1
+libfreetype-dev
+libfreetype6
+libfreetype6
+libfreetype6-dev
+libfreexl1
+libfribidi-dev
+libfribidi0
+libfribidi0
+libftgl2
+libfuse2
+libfwupd2
+libfwupdplugin1
+libfyba0
+libgadu3
+libgail-3-0
+libgail-common
+libgail-common
+libgail18
+libgail18
+libgarcon-1-0
+libgarcon-common
+libgarcon-gtk3-1-0
+libgavl1
+libgbm1
+libgc1c2
+libgcab-1.0-0
+libgcc-9-dev
+libgcc-s1
+libgcc-s1
+libgcc1
+libgck-1-0
+libgconf-2-4
+libgcr-base-3-1
+libgcr-ui-3-1
+libgcrypt20
+libgcrypt20
+libgd3
+libgd3
+libgdal26
+libgdata-common
+libgdata22
+libgdbm-compat4
+libgdbm-compat4
+libgdbm6
+libgdbm6
+libgdcm3.0
+libgdk-pixbuf2.0-0
+libgdk-pixbuf2.0-0
+libgdk-pixbuf2.0-bin
+libgdk-pixbuf2.0-common
+libgdk-pixbuf2.0-dev
+libgdraw6
+libgee-0.8-2
+libgegl-0.4-0
+libgegl-common
+libgeos-3.8.0
+libgeos-c1v5
+libgeotiff5
+libgeronimo-annotation-1.3-spec-java
+libgeronimo-interceptor-3.0-spec-java
+libges-1.0-0
+libgettextpo0
+libgexiv2-2
+libgfortran-9-dev
+libgfortran5
+libgif7
+libgig9
+libgimp2.0
+libgirepository-1.0-1
+libgl-dev
+libgl1
+libgl1
+libgl1-mesa-dev
+libgl1-mesa-dri
+libgl1-mesa-dri
+libgl1-mesa-glx
+libgl2ps1.4
+libglade2-0
+libgladeui-2-6
+libgladeui-common
+libglapi-mesa
+libglapi-mesa
+libgles-dev
+libgles1
+libgles2
+libglew2.1
+libglewmx1.13
+libglib-object-introspection-perl
+libglib-perl
+libglib2.0-0
+libglib2.0-0
+libglib2.0-bin
+libglib2.0-data
+libglib2.0-dev
+libglib2.0-dev-bin
+libglib2.0-doc
+libglibmm-2.4-1v5
+libglu1-mesa
+libglu1-mesa
+libglvnd-dev
+libglvnd0
+libglvnd0
+libglx-dev
+libglx-mesa0
+libglx-mesa0
+libglx0
+libglx0
+libgme0
+libgmerlin-avdec1
+libgmic1
+libgmp10
+libgmp10
+libgnome-desktop-3-19
+libgnome-games-support-1-3
+libgnome-games-support-common
+libgnomecanvas2-0
+libgnomecanvas2-common
+libgnustep-base1.26
+libgnustep-gui0.27
+libgnutls30
+libgnutls30
+libgoa-1.0-0b
+libgoa-1.0-common
+libgomp1
+libgomp1
+libgovirt-common
+libgovirt2
+libgpg-error-l10n
+libgpg-error0
+libgpg-error0
+libgpgme11
+libgpgmepp6
+libgphoto2-6
+libgphoto2-6
+libgphoto2-l10n
+libgphoto2-port12
+libgphoto2-port12
+libgpm2
+libgpm2
+libgrantlee-templates5
+libgraphene-1.0-0
+libgraphicsmagick++-q16-12
+libgraphicsmagick-q16-3
+libgraphite2-3
+libgraphite2-3
+libgraphite2-dev
+libgroupsock8
+libgs9
+libgs9-common
+libgsl23
+libgslcblas0
+libgsm1
+libgsm1
+libgspell-1-2
+libgspell-1-common
+libgssapi-krb5-2
+libgssapi-krb5-2
+libgssapi3-heimdal
+libgssapi3-heimdal
+libgssdp-1.2-0
+libgstreamer-gl1.0-0
+libgstreamer-plugins-bad1.0-0
+libgstreamer-plugins-base1.0-0
+libgstreamer-plugins-base1.0-0
+libgstreamer-plugins-good1.0-0
+libgstreamer-plugins-good1.0-0
+libgstreamer1.0-0
+libgstreamer1.0-0
+libgstreamermm-1.0-1
+libgtk-3-0
+libgtk-3-bin
+libgtk-3-common
+libgtk-3-dev
+libgtk-3-doc
+libgtk-vnc-2.0-0
+libgtk2.0-0
+libgtk2.0-0
+libgtk2.0-bin
+libgtk2.0-common
+libgtk3-perl
+libgtkhex-3-0
+libgtkmm-2.4-1v5
+libgtkmm-3.0-1v5
+libgtksourceview-3.0-1
+libgtksourceview-3.0-common
+libgtksourceview-4-0
+libgtksourceview-4-common
+libgtkspell0
+libgtop-2.0-11
+libgtop2-common
+libguava-java
+libgucharmap-2-90-7
+libgudev-1.0-0
+libgudev-1.0-0
+libguice-java
+libgupnp-1.2-0
+libgupnp-igd-1.0-4
+libgusb2
+libgvnc-1.0-0
+libgxps2
+libgxw0
+libgxwmm0
+libhangul-data
+libhangul1
+libharfbuzz-dev
+libharfbuzz-gobject0
+libharfbuzz-icu0
+libharfbuzz0b
+libharfbuzz0b
+libhawtjni-runtime-java
+libhcrypto4-heimdal
+libhcrypto4-heimdal
+libhdf4-0-alt
+libhdf5-103
+libhdf5-openmpi-103
+libheif1
+libheimbase1-heimdal
+libheimbase1-heimdal
+libheimntlm0-heimdal
+libheimntlm0-heimdal
+libhfstospell10
+libhogweed5
+libhogweed5
+libhpmud0
+libhtml-form-perl
+libhtml-format-perl
+libhtml-parser-perl
+libhtml-tagset-perl
+libhtml-tree-perl
+libhtsengine1
+libhttp-cookies-perl
+libhttp-daemon-perl
+libhttp-date-perl
+libhttp-message-perl
+libhttp-negotiate-perl
+libhunspell-1.7-0
+libhwloc-dev
+libhwloc-plugins
+libhwloc15
+libhx509-5-heimdal
+libhx509-5-heimdal
+libhyphen0
+libibverbs-dev
+libibverbs1
+libical3
+libice-dev
+libice6
+libicns1
+libicu-dev
+libicu66
+libicu66
+libid3-3.8.3v5
+libid3tag0
+libidn11
+libidn2-0
+libidn2-0
+libido3-0.1-0
+libiec61883-0
+libiec61883-0
+libieee1284-3
+libieee1284-3
+libigdgmm11
+libigdgmm11
+libijs-0.35
+libilmbase24
+libimage-exiftool-perl
+libimage-magick-perl
+libimage-magick-q16-perl
+libimagequant0
+libimlib2
+libimobiledevice6
+libindicator3-7
+libinput-bin
+libinput10
+libinstpatch-1.0-2
+libio-html-perl
+libio-socket-ssl-perl
+libio-stringy-perl
+libip4tc2
+libip6tc2
+libipc-run3-perl
+libipc-shareable-perl
+libipc-system-simple-perl
+libiptcdata0
+libisc-export1105
+libiscsi7
+libisl22
+libiso9660-11
+libisofs6
+libitm1
+libiw30
+libixml10
+libjack-jackd2-0
+libjack-jackd2-0
+libjansi-java
+libjansi-native-java
+libjansson4
+libjavascriptcoregtk-4.0-18
+libjbig0
+libjbig0
+libjbig2dec0
+libjemalloc2
+libjpeg-turbo-progs
+libjpeg-turbo8
+libjpeg-turbo8
+libjpeg8
+libjpeg8
+libjs-jquery
+libjs-jquery-ui
+libjs-mathjax
+libjs-prototype
+libjs-scriptaculous
+libjs-sphinxdoc
+libjs-underscore
+libjson-c4
+libjson-glib-1.0-0
+libjson-glib-1.0-common
+libjsoncpp1
+libjsr305-java
+libjte2
+libjuh-java
+libjurt-java
+libjxr-tools
+libjxr0
+libk5crypto3
+libk5crypto3
+libkaccounts1
+libkate1
+libkdecorations2-5v5
+libkdecorations2private7
+libkeybinder-3.0-0
+libkeyutils1
+libkeyutils1
+libkf5activities5
+libkf5archive5
+libkf5attica5
+libkf5auth-data
+libkf5auth5
+libkf5authcore5
+libkf5bluezqt-data
+libkf5bluezqt6
+libkf5bookmarks-data
+libkf5bookmarks5
+libkf5calendarevents5
+libkf5codecs-data
+libkf5codecs5
+libkf5completion-data
+libkf5completion5
+libkf5config-bin
+libkf5config-data
+libkf5configcore5
+libkf5configgui5
+libkf5configwidgets-data
+libkf5configwidgets5
+libkf5contacts-data
+libkf5contacts5
+libkf5coreaddons-data
+libkf5coreaddons5
+libkf5crash5
+libkf5dbusaddons-bin
+libkf5dbusaddons-data
+libkf5dbusaddons5
+libkf5declarative-data
+libkf5declarative5
+libkf5doctools5
+libkf5filemetadata-bin
+libkf5filemetadata-data
+libkf5filemetadata3
+libkf5globalaccel-bin
+libkf5globalaccel-data
+libkf5globalaccel5
+libkf5globalaccelprivate5
+libkf5guiaddons5
+libkf5i18n-data
+libkf5i18n5
+libkf5iconthemes-bin
+libkf5iconthemes-data
+libkf5iconthemes5
+libkf5idletime5
+libkf5itemviews-data
+libkf5itemviews5
+libkf5jobwidgets-data
+libkf5jobwidgets5
+libkf5js5
+libkf5kcmutils-data
+libkf5kcmutils5
+libkf5khtml-bin
+libkf5khtml-data
+libkf5khtml5
+libkf5kiocore5
+libkf5kiofilewidgets5
+libkf5kiogui5
+libkf5kiontlm5
+libkf5kiowidgets5
+libkf5kirigami2-5
+libkf5newstuff-data
+libkf5newstuff5
+libkf5newstuffcore5
+libkf5notifications-data
+libkf5notifications5
+libkf5notifyconfig-data
+libkf5notifyconfig5
+libkf5package-data
+libkf5package5
+libkf5parts-data
+libkf5parts-plugins
+libkf5parts5
+libkf5people-data
+libkf5people5
+libkf5peoplebackend5
+libkf5peoplewidgets5
+libkf5plasma5
+libkf5plasmaquick5
+libkf5pty-data
+libkf5pty5
+libkf5pulseaudioqt2
+libkf5purpose-bin
+libkf5purpose5
+libkf5quickaddons5
+libkf5service-bin
+libkf5service-data
+libkf5service5
+libkf5solid5
+libkf5solid5-data
+libkf5sonnet5-data
+libkf5sonnetcore5
+libkf5sonnetui5
+libkf5style5
+libkf5su-bin
+libkf5su-data
+libkf5su5
+libkf5textwidgets-data
+libkf5textwidgets5
+libkf5wallet-bin
+libkf5wallet-data
+libkf5wallet5
+libkf5waylandclient5
+libkf5widgetsaddons-data
+libkf5widgetsaddons5
+libkf5windowsystem-data
+libkf5windowsystem5
+libkf5xmlgui-bin
+libkf5xmlgui-data
+libkf5xmlgui5
+libklibc
+libkmlbase1
+libkmldom1
+libkmlengine1
+libkmod2
+libkpathsea6
+libkrb5-26-heimdal
+libkrb5-26-heimdal
+libkrb5-3
+libkrb5-3
+libkrb5support0
+libkrb5support0
+libksba8
+libkwalletbackend5-5
+libkworkspace5-5
+liblangtag-common
+liblangtag1
+liblapack3
+liblcms2-2
+liblcms2-2
+liblcms2-utils
+libldap-2.4-2
+libldap-2.4-2
+libldap-common
+libldb2
+liblensfun-data-v1
+liblensfun1
+liblept5
+liblightdm-gobject-1-0
+liblilv-0-0
+liblingua-translit-perl
+liblirc-client0
+liblist-allutils-perl
+liblist-moreutils-perl
+liblist-someutils-perl
+liblist-someutils-xs-perl
+liblist-utilsby-perl
+liblivemedia77
+libllvm10
+libllvm11
+libllvm11
+liblmdb0
+liblo7
+liblocale-gettext-perl
+liblog-dispatch-perl
+liblog-log4perl-perl
+liblouis-data
+liblouis20
+liblouisutdml-bin
+liblouisutdml-data
+liblouisutdml9
+liblqr-1-0
+liblrdf0
+liblsan0
+libltc11
+libltdl-dev
+libltdl7
+libltdl7
+liblua5.2-0
+liblua5.3-0
+libluajit-5.1-2
+libluajit-5.1-common
+liblvm2cmd2.03
+liblwp-mediatypes-perl
+liblwp-protocol-https-perl
+liblz4-1
+liblz4-1
+liblzma5
+liblzma5
+liblzo2-2
+libmad0
+libmagic-mgc
+libmagic1
+libmagick++-6.q16-8
+libmagickcore-6.q16-6
+libmagickcore-6.q16-6-extra
+libmagickwand-6.q16-6
+libmail-sendmail-perl
+libmailtools-perl
+libmatroska6v5
+libmaven-parent-java
+libmaven-resolver-java
+libmaven-shared-utils-java
+libmaven3-core-java
+libmaxminddb0
+libmbedcrypto3
+libmbedtls12
+libmbedx509-0
+libmbim-glib4
+libmbim-proxy
+libmeanwhile1
+libmediainfo0v5
+libmessaging-menu0
+libmetacity1
+libmetis5
+libmhash2
+libmime-charset-perl
+libmime-lite-perl
+libmime-types-perl
+libminiupnpc17
+libminizip1
+libmjpegutils-2.1-0
+libmlt++3
+libmlt-data
+libmlt6
+libmm-glib0
+libmms0
+libmng2
+libmnl0
+libmodplug1
+libmodule-implementation-perl
+libmodule-runtime-perl
+libmount-dev
+libmount1
+libmount1
+libmovit8
+libmp3lame0
+libmp3lame0
+libmpc3
+libmpcdec6
+libmpdec2
+libmpeg2-4
+libmpeg2encpp-2.1-0
+libmpfr6
+libmpg123-0
+libmpg123-0
+libmplex2-2.1-0
+libmro-compat-perl
+libmspack0
+libmspub-0.1-1
+libmtdev1
+libmtp-common
+libmtp-runtime
+libmtp9
+libmuparser2v5
+libmwaw-0.3-3
+libmxml1
+libmypaint-1.5-1
+libmypaint-common
+libmysofa1
+libmysqlclient21
+libmysqlclient21
+libmythes-1.2-0
+libnamespace-autoclean-perl
+libnamespace-clean-perl
+libnatpmp1
+libnautilus-extension1a
+libncurses-dev
+libncurses5
+libncurses5-dev
+libncurses6
+libncurses6
+libncursesw5-dev
+libncursesw6
+libncursesw6
+libndp0
+libneon27-gnutls
+libnet-dbus-perl
+libnet-http-perl
+libnet-smtp-ssl-perl
+libnet-ssleay-perl
+libnetcdf-c++4
+libnetcdf15
+libnetfilter-conntrack3
+libnetpbm10
+libnetplan0
+libnettle7
+libnettle7
+libnewt0.52
+libnfnetlink0
+libnfs13
+libnftnl11
+libnghttp2-14
+libnghttp2-14
+libnice10
+libnl-3-200
+libnl-3-dev
+libnl-genl-3-200
+libnl-route-3-200
+libnl-route-3-dev
+libnm0
+libnma0
+libnorm1
+libnotify-bin
+libnotify4
+libnpth0
+libnspr4
+libnss-mdns
+libnss-mymachines
+libnss-systemd
+libnss3
+libntfs-3g883
+libnuma-dev
+libnuma1
+libnuma1
+libnumber-compare-perl
+liboauth0
+libobjc4
+libobs0
+libodbc1
+libodbc1
+libodfgen-0.1-1
+libofa0
+libogdi4.1
+libogg0
+libogg0
+liboggkate1
+liboobs-1-5
+libopenal-data
+libopenal1
+libopenal1
+libopencolorio1v5
+libopencore-amrnb0
+libopencore-amrnb0
+libopencore-amrwb0
+libopencore-amrwb0
+libopencv-calib3d4.2
+libopencv-contrib4.2
+libopencv-core4.2
+libopencv-dnn4.2
+libopencv-features2d4.2
+libopencv-flann4.2
+libopencv-highgui4.2
+libopencv-imgcodecs4.2
+libopencv-imgproc4.2
+libopencv-ml4.2
+libopencv-objdetect4.2
+libopencv-photo4.2
+libopencv-shape4.2
+libopencv-stitching4.2
+libopencv-superres4.2
+libopencv-video4.2
+libopencv-videoio4.2
+libopencv-videostab4.2
+libopencv-viz4.2
+libopenexr24
+libopengl-dev
+libopengl0
+libopenimageio2.1
+libopenjp2-7
+libopenjp2-7
+libopenmpi-dev
+libopenmpi3
+libopenmpt-modplug1
+libopenmpt0
+libopenscenegraph160
+libopenshot-audio6
+libopenshot16
+libopenthreads21
+libopenvdb6.2
+libopus0
+libopus0
+liborc-0.4-0
+liborc-0.4-0
+liborcus-0.15-0
+libosdcpu3.4.0
+libosdgpu3.4.0
+libosinfo-1.0-0
+libosmesa6
+libosmesa6
+libosmgpsmap-1.0-1
+libosp5
+libostyle1c2
+libotr5
+libp11-kit0
+libp11-kit0
+libpackage-stash-perl
+libpackage-stash-xs-perl
+libpackagekit-glib2-18
+libpadwalker-perl
+libpagemaker-0.0-0
+libpam-cap
+libpam-gnome-keyring
+libpam-modules
+libpam-modules-bin
+libpam-runtime
+libpam-systemd
+libpam0g
+libpango-1.0-0
+libpango-1.0-0
+libpango1.0-dev
+libpango1.0-doc
+libpangocairo-1.0-0
+libpangocairo-1.0-0
+libpangoft2-1.0-0
+libpangoft2-1.0-0
+libpangomm-1.4-1v5
+libpangoxft-1.0-0
+libpaper-utils
+libpaper1
+libparams-classify-perl
+libparams-util-perl
+libparams-validate-perl
+libparams-validationcompiler-perl
+libparse-recdescent-perl
+libparted-fs-resize0
+libparted2
+libpcap0.8
+libpcap0.8
+libpcaudio0
+libpci3
+libpci3
+libpciaccess0
+libpciaccess0
+libpcre16-3
+libpcre2-16-0
+libpcre2-32-0
+libpcre2-8-0
+libpcre2-8-0
+libpcre2-dev
+libpcre2-posix2
+libpcre3
+libpcre3
+libpcre3-dev
+libpcre32-3
+libpcrecpp0v5
+libpcsclite1
+libpdfbox-java
+libpeas-1.0-0
+libpeas-common
+libperl4-corelibs-perl
+libperl5.30
+libperl5.30
+libperlio-utf8-strict-perl
+libpgm-5.2-0
+libphodav-2.0-0
+libphodav-2.0-common
+libphonon4qt5-4
+libphonon4qt5-data
+libpipeline1
+libpixman-1-0
+libpixman-1-0
+libpixman-1-dev
+libpkcs11-helper1
+libplacebo7
+libplexus-cipher-java
+libplexus-classworlds-java
+libplexus-component-annotations-java
+libplexus-interpolation-java
+libplexus-sec-dispatcher-java
+libplexus-utils2-java
+libplist3
+libplot2c2
+libplymouth5
+libpmem1
+libpmix2
+libpng-dev
+libpng-tools
+libpng16-16
+libpng16-16
+libpodofo0.9.6
+libpolkit-agent-1-0
+libpolkit-gobject-1-0
+libpolkit-qt5-1-1
+libpoppler-cpp0v5
+libpoppler-glib8
+libpoppler-qt5-1
+libpoppler97
+libpopt0
+libportaudio2
+libportmidi0
+libportsmf0v5
+libposix-strptime-perl
+libpostproc55
+libpotrace0
+libpq5
+libpresage-data
+libpresage1v5
+libprocps8
+libproj15
+libprojectm2v5
+libprotobuf-c1
+libprotobuf-lite17
+libprotobuf17
+libproxy-tools
+libproxy1v5
+libproxy1v5
+libpsl5
+libpsl5
+libpsm-infinipath1
+libpsm2-2
+libpstoedit0c2a
+libptexenc1
+libpthread-stubs0-dev
+libpugixml1v5
+libpulse-mainloop-glib0
+libpulse0
+libpulse0
+libpulsedsp
+libpurple-bin
+libpurple0
+libpython2-stdlib
+libpython2.7
+libpython2.7-minimal
+libpython2.7-stdlib
+libpython3-dev
+libpython3-stdlib
+libpython3.8
+libpython3.8-dev
+libpython3.8-minimal
+libpython3.8-stdlib
+libqca-qt5-2
+libqca-qt5-2-plugins
+libqhull7
+libqm-dsp0
+libqmi-glib5
+libqmi-proxy
+libqpdf26
+libqqwing2v5
+libqt5concurrent5
+libqt5core5a
+libqt5dbus5
+libqt5designer5
+libqt5gui5
+libqt5help5
+libqt5multimedia5
+libqt5multimedia5-plugins
+libqt5multimediagsttools5
+libqt5multimediaquick5
+libqt5multimediawidgets5
+libqt5network5
+libqt5opengl5
+libqt5positioning5
+libqt5printsupport5
+libqt5qml5
+libqt5quick5
+libqt5quickcontrols2-5
+libqt5quicktemplates2-5
+libqt5quickwidgets5
+libqt5script5
+libqt5scripttools5
+libqt5sensors5
+libqt5sql5
+libqt5sql5-sqlite
+libqt5svg5
+libqt5test5
+libqt5texttospeech5
+libqt5waylandclient5
+libqt5waylandcompositor5
+libqt5webchannel5
+libqt5webengine-data
+libqt5webengine5
+libqt5webenginecore5
+libqt5webenginewidgets5
+libqt5webkit5
+libqt5widgets5
+libqt5x11extras5
+libqt5xml5
+libqt5xmlpatterns5
+libquadmath0
+libquazip5-1
+libquicktime2
+libqxp-0.0-0
+librados2
+libraptor2-0
+librasqal3
+libraw-bin
+libraw1394-11
+libraw1394-11
+libraw19
+librbd1
+librdf0
+librdmacm1
+libre2-5
+libreadline5
+libreadline8
+libreadonly-perl
+librecad
+librecad-data
+libref-util-perl
+libref-util-xs-perl
+libregexp-common-perl
+libreoffice-base-core
+libreoffice-calc
+libreoffice-common
+libreoffice-core
+libreoffice-draw
+libreoffice-gtk3
+libreoffice-help-common
+libreoffice-help-en-gb
+libreoffice-help-en-us
+libreoffice-help-ja
+libreoffice-impress
+libreoffice-l10n-en-gb
+libreoffice-l10n-en-za
+libreoffice-l10n-ja
+libreoffice-math
+libreoffice-style-colibre
+libreoffice-style-elementary
+libreoffice-style-tango
+libreoffice-writer
+libresid-builder0c2a
+librest-0.7-0
+librevenge-0.0-0
+librhash0
+libridl-java
+libroken18-heimdal
+libroken18-heimdal
+librole-tiny-perl
+librsvg2-2
+librsvg2-2
+librsvg2-bin
+librsvg2-common
+librsvg2-common
+librtaudio6
+librtmidi4
+librtmp1
+librtmp1
+librttr-core0.9.6
+librubberband2
+libruby2.7
+libsamplerate0
+libsamplerate0
+libsane
+libsane
+libsane-common
+libsane-hpaio
+libsasl2-2
+libsasl2-2
+libsasl2-modules
+libsasl2-modules
+libsasl2-modules-db
+libsasl2-modules-db
+libsbc1
+libsdl-image1.2
+libsdl-ttf2.0-0
+libsdl1.2debian
+libsdl2-2.0-0
+libsdl2-2.0-0
+libseccomp2
+libsecret-1-0
+libsecret-common
+libselinux1
+libselinux1
+libselinux1-dev
+libsemanage-common
+libsemanage1
+libsensors-config
+libsensors5
+libsensors5
+libsepol1
+libsepol1-dev
+libserd-0-0
+libshine3
+libshine3
+libshout3
+libshout3
+libsidplay1v5
+libsidplay2
+libsigc++-2.0-0v5
+libsignon-plugins-common1
+libsignon-qt5-1
+libsigsegv2
+libsisu-inject-java
+libsisu-plexus-java
+libslang2
+libslang2
+libslf4j-java
+libslirp0
+libsm-dev
+libsm6
+libsmartcols1
+libsmbclient
+libsmbios-c2
+libsmf0
+libsnapd-glib1
+libsnappy1v5
+libsnappy1v5
+libsndfile1
+libsndfile1
+libsndio7.0
+libsndio7.0
+libsndobj2v5
+libsnmp-base
+libsnmp35
+libsnmp35
+libsocket++1
+libsodium23
+libsombok3
+libsonic0
+libsord-0-0
+libsort-key-perl
+libsoundio1
+libsoundtouch1
+libsoup-gnome2.4-1
+libsoup2.4-1
+libsoup2.4-1
+libsox-fmt-alsa
+libsox-fmt-base
+libsox3
+libsoxr0
+libsoxr0
+libspandsp2
+libspatialaudio0
+libspatialite7
+libspecio-perl
+libspectre1
+libspeechd2
+libspeex1
+libspeex1
+libspeexdsp1
+libspice-client-glib-2.0-8
+libspice-client-gtk-3.0-5
+libspice-server1
+libspiro1
+libspnav0
+libsqlite3-0
+libsqlite3-0
+libsquish0
+libsratom-0-0
+libsrt1
+libsrtp2-1
+libss2
+libssh-4
+libssh-4
+libssh-gcrypt-4
+libssh2-1
+libssl1.1
+libssl1.1
+libstartup-notification0
+libstb0
+libstb0
+libstdc++-9-dev
+libstdc++6
+libstdc++6
+libstemmer0d
+libstk-4.6.1
+libsub-exporter-perl
+libsub-exporter-progressive-perl
+libsub-identify-perl
+libsub-install-perl
+libsub-name-perl
+libsub-quote-perl
+libsubtitleeditor0
+libsuil-0-0
+libsuitesparseconfig5
+libsuperlu5
+libswresample3
+libswresample3
+libswscale5
+libsynctex2
+libsynfig0a
+libsys-hostname-long-perl
+libsystemd0
+libsystemd0
+libsz2
+libtag1v5
+libtag1v5
+libtag1v5-vanilla
+libtag1v5-vanilla
+libtagc0
+libtalloc2
+libtasn1-6
+libtasn1-6
+libtbb2
+libtcl8.6
+libtdb1
+libteamdctl0
+libteckit0
+libtesseract4
+libtevent0
+libtexlua53
+libtexluajit2
+libtext-bibtex-perl
+libtext-charwidth-perl
+libtext-csv-perl
+libtext-csv-xs-perl
+libtext-glob-perl
+libtext-iconv-perl
+libtext-roman-perl
+libtext-unidecode-perl
+libtext-wrapi18n-perl
+libthai-data
+libthai-dev
+libthai0
+libthai0
+libtheora0
+libtheora0
+libthunarx-3-0
+libtie-cycle-perl
+libtie-ixhash-perl
+libtiff-tools
+libtiff5
+libtiff5
+libtimedate-perl
+libtinfo5
+libtinfo6
+libtinfo6
+libtinyxml2-6a
+libtinyxml2.6.2v5
+libtk8.6
+libtool
+libtotem-plparser-common
+libtotem-plparser18
+libtracker-sparql-2.0-0
+libtry-tiny-perl
+libtsan0
+libtss2-esys0
+libtumbler-1-0
+libtwolame0
+libtwolame0
+libu2f-udev
+libubsan1
+libuchardet0
+libudev1
+libudev1
+libudisks2-0
+libumfpack5
+libunicode-linebreak-perl
+libuninameslist1
+libunique-1.0-0
+libunistring2
+libunistring2
+libunity-protocol-private0
+libunity-scopes-json-def-desktop
+libunity9
+libuno-cppu3
+libuno-cppuhelpergcc3-3
+libuno-purpenvhelpergcc3-3
+libuno-sal3
+libuno-salhelpergcc3-3
+libunoloader-java
+libunwind8
+libupnp13
+libupower-glib3
+liburi-perl
+liburiparser1
+libusageenvironment3
+libusb-1.0-0
+libusb-1.0-0
+libusbmuxd6
+libusbredirhost1
+libusbredirparser1
+libusrsctp1
+libutempter0
+libuuid-perl
+libuuid1
+libuuid1
+libuv1
+libv4l-0
+libv4l-0
+libv4lconvert0
+libv4lconvert0
+libva-drm2
+libva-drm2
+libva-wayland2
+libva-x11-2
+libva-x11-2
+libva2
+libva2
+libvamp-hostsdk3v5
+libvamp-sdk2v5
+libvariable-magic-perl
+libvcdinfo0
+libvdpau1
+libvdpau1
+libvidstab1.1
+libvirglrenderer1
+libvirt-clients
+libvirt-daemon
+libvirt-daemon-driver-qemu
+libvirt-daemon-driver-storage-rbd
+libvirt-daemon-system
+libvirt-daemon-system-systemd
+libvirt-glib-1.0-0
+libvirt0
+libvisio-0.1-1
+libvisual-0.4-0
+libvisual-0.4-0
+libvkd3d1
+libvkd3d1
+libvlc-bin
+libvlc5
+libvlccore9
+libvo-aacenc0
+libvo-amrwbenc0
+libvo-amrwbenc0
+libvoikko1
+libvolume-key1
+libvorbis0a
+libvorbis0a
+libvorbisenc2
+libvorbisenc2
+libvorbisfile3
+libvorbisidec1
+libvpx6
+libvpx6
+libvte-2.91-0
+libvte-2.91-common
+libvtk6.3
+libvulkan1
+libvulkan1
+libwacom-bin
+libwacom-common
+libwacom2
+libwagon-file-java
+libwagon-http-shaded-java
+libwagon-provider-api-java
+libwavpack1
+libwavpack1
+libwayland-bin
+libwayland-client0
+libwayland-client0
+libwayland-cursor0
+libwayland-cursor0
+libwayland-dev
+libwayland-egl1
+libwayland-egl1
+libwayland-server0
+libwbclient0
+libwebkit2gtk-4.0-37
+libwebp6
+libwebp6
+libwebpdemux2
+libwebpmux3
+libwebpmux3
+libwebrtc-audio-processing1
+libwhoopsie-preferences0
+libwhoopsie0
+libwildmidi2
+libwind0-heimdal
+libwind0-heimdal
+libwine
+libwine
+libwine-development
+libwmf-bin
+libwmf0.2-7
+libwnck-3-0
+libwnck-3-common
+libwoff1
+libwpd-0.10-10
+libwpg-0.3-3
+libwps-0.4-4
+libwrap0
+libwrap0
+libwww-perl
+libwww-robotrules-perl
+libwxbase3.0-0v5
+libwxgtk3.0-gtk3-0v5
+libx11-6
+libx11-6
+libx11-data
+libx11-dev
+libx11-protocol-perl
+libx11-xcb1
+libx11-xcb1
+libx264-155
+libx264-155
+libx265-179
+libx265-179
+libxapian30
+libxatracker2
+libxau-dev
+libxau6
+libxau6
+libxaw7
+libxcb-composite0
+libxcb-damage0
+libxcb-dri2-0
+libxcb-dri2-0
+libxcb-dri3-0
+libxcb-dri3-0
+libxcb-glx0
+libxcb-glx0
+libxcb-icccm4
+libxcb-image0
+libxcb-keysyms1
+libxcb-present0
+libxcb-present0
+libxcb-randr0
+libxcb-randr0
+libxcb-render-util0
+libxcb-render0
+libxcb-render0
+libxcb-render0-dev
+libxcb-res0
+libxcb-shape0
+libxcb-shm0
+libxcb-shm0
+libxcb-shm0-dev
+libxcb-sync1
+libxcb-sync1
+libxcb-util1
+libxcb-xfixes0
+libxcb-xfixes0
+libxcb-xinerama0
+libxcb-xinput0
+libxcb-xkb1
+libxcb-xv0
+libxcb1
+libxcb1
+libxcb1-dev
+libxcomposite-dev
+libxcomposite1
+libxcomposite1
+libxcursor-dev
+libxcursor1
+libxcursor1
+libxdamage-dev
+libxdamage1
+libxdamage1
+libxdmcp-dev
+libxdmcp6
+libxdmcp6
+libxdo3
+libxerces-c3.2
+libxext-dev
+libxext6
+libxext6
+libxfce4panel-2.0-4
+libxfce4ui-1-0
+libxfce4ui-2-0
+libxfce4ui-common
+libxfce4ui-utils
+libxfce4util-bin
+libxfce4util-common
+libxfce4util7
+libxfconf-0-3
+libxfixes-dev
+libxfixes3
+libxfixes3
+libxfont2
+libxft-dev
+libxft2
+libxi-dev
+libxi6
+libxi6
+libxinerama-dev
+libxinerama1
+libxinerama1
+libxkbcommon-dev
+libxkbcommon-x11-0
+libxkbcommon0
+libxkbcommon0
+libxkbfile1
+libxklavier16
+libxml++2.6-2v5
+libxml-libxml-perl
+libxml-libxml-simple-perl
+libxml-libxslt-perl
+libxml-namespacesupport-perl
+libxml-parser-perl
+libxml-sax-base-perl
+libxml-sax-expat-perl
+libxml-sax-perl
+libxml-twig-perl
+libxml-writer-perl
+libxml-xpathengine-perl
+libxml2
+libxml2
+libxml2-utils
+libxmlb1
+libxmlsec1
+libxmlsec1-nss
+libxmu6
+libxmuu1
+libxnvctrl0
+libxpm4
+libxpm4
+libxpresent1
+libxrandr-dev
+libxrandr2
+libxrandr2
+libxrender-dev
+libxrender1
+libxrender1
+libxres1
+libxshmfence1
+libxshmfence1
+libxslt1.1
+libxslt1.1
+libxss1
+libxss1
+libxstring-perl
+libxt6
+libxtables12
+libxtst-dev
+libxtst6
+libxtst6
+libxv1
+libxv1
+libxvidcore4
+libxvidcore4
+libxvmc1
+libxxf86dga1
+libxxf86vm1
+libxxf86vm1
+libyajl2
+libyaml-0-2
+libyaml-cpp0.6
+libyaml-tiny-perl
+libyelp0
+libzbar0
+libzen0v5
+libzephyr4
+libzinnia0
+libzip5
+libzita-alsa-pcmi0
+libzita-convolver3
+libzita-resampler1
+libzmf-0.0-0
+libzmq5
+libzstd1
+libzstd1
+libzvbi-common
+libzvbi0
+libzvbi0
+libzzip-0-13
+lightdm
+lightdm-gtk-greeter
+lightdm-gtk-greeter-settings
+lilypond
+lilypond-data
+linux-base
+linux-firmware
+linux-generic
+linux-generic-hwe-18.04
+linux-headers-5.4.0-66
+linux-headers-5.4.0-66-generic
+linux-headers-5.4.0-66-lowlatency
+linux-headers-5.4.0-67
+linux-headers-5.4.0-67-generic
+linux-headers-5.4.0-67-lowlatency
+linux-headers-generic
+linux-headers-lowlatency
+linux-image-5.4.0-26-lowlatency
+linux-image-5.4.0-47-lowlatency
+linux-image-5.4.0-48-lowlatency
+linux-image-5.4.0-51-lowlatency
+linux-image-5.4.0-52-lowlatency
+linux-image-5.4.0-53-lowlatency
+linux-image-5.4.0-54-lowlatency
+linux-image-5.4.0-56-lowlatency
+linux-image-5.4.0-58-lowlatency
+linux-image-5.4.0-59-lowlatency
+linux-image-5.4.0-60-lowlatency
+linux-image-5.4.0-62-generic
+linux-image-5.4.0-62-lowlatency
+linux-image-5.4.0-64-generic
+linux-image-5.4.0-64-lowlatency
+linux-image-5.4.0-65-generic
+linux-image-5.4.0-65-lowlatency
+linux-image-5.4.0-66-generic
+linux-image-5.4.0-66-lowlatency
+linux-image-5.4.0-67-generic
+linux-image-5.4.0-67-lowlatency
+linux-image-generic
+linux-image-lowlatency
+linux-libc-dev
+linux-lowlatency
+linux-modules-5.4.0-26-lowlatency
+linux-modules-5.4.0-47-lowlatency
+linux-modules-5.4.0-48-lowlatency
+linux-modules-5.4.0-51-lowlatency
+linux-modules-5.4.0-52-lowlatency
+linux-modules-5.4.0-53-lowlatency
+linux-modules-5.4.0-54-lowlatency
+linux-modules-5.4.0-56-lowlatency
+linux-modules-5.4.0-58-lowlatency
+linux-modules-5.4.0-59-lowlatency
+linux-modules-5.4.0-60-lowlatency
+linux-modules-5.4.0-62-generic
+linux-modules-5.4.0-62-lowlatency
+linux-modules-5.4.0-64-generic
+linux-modules-5.4.0-64-lowlatency
+linux-modules-5.4.0-65-generic
+linux-modules-5.4.0-65-lowlatency
+linux-modules-5.4.0-66-generic
+linux-modules-5.4.0-66-lowlatency
+linux-modules-5.4.0-67-generic
+linux-modules-5.4.0-67-lowlatency
+linux-modules-extra-5.4.0-62-generic
+linux-modules-extra-5.4.0-64-generic
+linux-modules-extra-5.4.0-65-generic
+linux-modules-extra-5.4.0-66-generic
+linux-modules-extra-5.4.0-67-generic
+linux-sound-base
+lm-sensors
+lmms
+lmms-common
+lmodern
+locales
+login
+logrotate
+logsave
+lp-solve
+lsb-base
+lsb-release
+lshw
+lsof
+lsp-plugins
+lsp-plugins-jack
+lsp-plugins-ladspa
+lsp-plugins-lv2
+lsp-plugins-vst
+ltrace
+lutris
+lv2vocoder
+lvm2
+lz4
+m4
+make
+man-db
+manpages
+manpages-dev
+mate-calc
+mate-calc-common
+materia-gtk-theme
+maven
+mawk
+mcp-plugins
+mda-lv2
+media-player-info
+melt
+memtest86+
+mencoder
+mesa-utils
+mesa-va-drivers
+mesa-va-drivers
+mesa-vdpau-drivers
+mesa-vdpau-drivers
+mesa-vulkan-drivers
+mesa-vulkan-drivers
+metacity-common
+meterbridge
+midisnoop
+midori
+mime-support
+mknfonts.tool
+mlocate
+mobile-broadband-provider-info
+modemmanager
+mono-runtime-common
+mount
+mousepad
+mozc-data
+mozc-server
+mozc-utils-gui
+mplayer
+mscompress
+msr-tools
+mtools
+mtr-tiny
+mudita24
+mugshot
+multimedia-puredata
+multimedia-tasks
+murrine-themes
+musescore-general-soundfont-small
+musescore3
+musescore3-common
+mypaint
+mypaint-brushes
+mypaint-data
+mypaint-data-extras
+mysql-common
+mythes-en-au
+mythes-en-us
+nano
+nautilus-extension-brasero
+ncurses-base
+ncurses-bin
+neofetch
+netbase
+netcat-openbsd
+netpbm
+netplan.io
+network-manager
+network-manager-gnome
+network-manager-openvpn
+network-manager-openvpn-gnome
+network-manager-pptp
+network-manager-pptp-gnome
+networkd-dispatcher
+nilfs-tools
+node-duplexer3
+node-html5shiv
+nodejs
+npm
+ntfs-3g
+numix-blue-gtk-theme
+numix-gtk-theme
+obs-plugins
+obs-studio
+ocl-icd-libopencl1
+ocl-icd-libopencl1
+odbcinst
+odbcinst1debian2
+omins
+onboard
+onboard-common
+onboard-data
+open-jtalk
+open-jtalk-mecab-naist-jdic
+openclipart-svg
+openjade
+openjdk-11-jre-headless
+openmpi-bin
+openmpi-common
+openprinting-ppds
+openshot
+openshot-qt
+openssh-client
+openssl
+openvpn
+optipng
+orage
+orage-data
+os-prober
+osinfo-db
+osspd
+osspd-pulseaudio
+ovmf
+oxygen-icon-theme
+p11-kit
+p11-kit-modules
+p7zip
+p7zip-full
+packagekit
+packagekit-tools
+pango1.0-tools
+papirus-icon-theme
+parole
+partclone
+parted
+partimage
+passwd
+pastebinit
+patch
+pavucontrol
+pci.ids
+pciutils
+pcmciautils
+pd-3dp
+pd-ableton-link
+pd-ambix
+pd-arraysize
+pd-autopreset
+pd-bassemu
+pd-beatpipe
+pd-boids
+pd-bsaylor
+pd-chaos
+pd-cmos
+pd-comport
+pd-creb
+pd-csound
+pd-cxc
+pd-cyclone
+pd-deken
+pd-deken-apt
+pd-earplug
+pd-ekext
+pd-ext13
+pd-extendedview
+pd-fftease
+pd-flext-dev
+pd-flext-doc
+pd-flite
+pd-freeverb
+pd-ggee
+pd-gil
+pd-hcs
+pd-hexloader
+pd-hid
+pd-iem
+pd-iemambi
+pd-iemguts
+pd-iemlib
+pd-iemmatrix
+pd-iemnet
+pd-iemutils
+pd-jmmmp
+pd-jsusfx
+pd-kollabs
+pd-lib-builder
+pd-libdir
+pd-list-abs
+pd-log
+pd-lua
+pd-lyonpotpourri
+pd-mapping
+pd-markex
+pd-maxlib
+pd-mediasettings
+pd-mjlib
+pd-moonlib
+pd-motex
+pd-mrpeach
+pd-mrpeach-net
+pd-nusmuk
+pd-osc
+pd-pan
+pd-pddp
+pd-pdogg
+pd-pdp
+pd-pdstring
+pd-pduino
+pd-plugin
+pd-pmpd
+pd-pool
+pd-puremapping
+pd-purepd
+pd-purest-json
+pd-readanysf
+pd-rtclib
+pd-scaf
+pd-sigpack
+pd-slip
+pd-smlib
+pd-syslog
+pd-tclpd
+pd-testtools
+pd-unauthorized
+pd-upp
+pd-vbap
+pd-wiimote
+pd-windowing
+pd-xbee
+pd-xsample
+pd-zexy
+pdfarranger
+pdfshuffler
+perl
+perl-base
+perl-modules-5.30
+perl-openssl-defaults
+petri-foo
+pfb2t1c2pfb
+phasex
+phonon4qt5
+phonon4qt5-backend-vlc
+pidgin
+pidgin-data
+pidgin-otr
+pigz
+pikopixel.app
+pinentry-gnome3
+pinentry-gtk2
+pitivi
+pkg-config
+plasma-framework
+plymouth
+plymouth-label
+plymouth-theme-ubuntu-text
+plymouth-theme-ubuntustudio
+policykit-1
+policykit-1-gnome
+policykit-desktop-privileges
+poppler-data
+poppler-utils
+popularity-contest
+postgresql
+postgresql-12
+postgresql-client-12
+postgresql-client-common
+postgresql-common
+postgresql-contrib
+powermgmt-base
+ppp
+pptp-linux
+prerex
+presage
+preview-latex-style
+printer-driver-brlaser
+printer-driver-c2esp
+printer-driver-foo2zjs
+printer-driver-foo2zjs-common
+printer-driver-hpcups
+printer-driver-m2300w
+printer-driver-min12xxw
+printer-driver-pnm2ppa
+printer-driver-postscript-hp
+printer-driver-ptouch
+printer-driver-pxljr
+printer-driver-sag-gdi
+printer-driver-splix
+procps
+proj-bin
+proj-data
+projectm-data
+ps2eps
+psmisc
+pstoedit
+psutils
+publicsuffix
+pulseaudio
+pulseaudio-module-bluetooth
+pulseaudio-module-jack
+pulseaudio-utils
+puredata
+puredata-core
+puredata-dev
+puredata-doc
+puredata-extra
+puredata-gui
+puredata-gui-l10n
+puredata-import
+puredata-utils
+purifyeps
+python-apt-common
+python-babel-localedata
+python-backports.functools-lru-cache
+python-bs4
+python-chardet
+python-dbus
+python-gi
+python-html5lib
+python-is-python2
+python-lxml
+python-matplotlib-data
+python-numpy
+python-pip-whl
+python-pkg-resources
+python-six
+python-soupsieve
+python-tk
+python-webencodings
+python2
+python2-minimal
+python2.7
+python2.7-minimal
+python3
+python3-altgraph
+python3-appdirs
+python3-apport
+python3-apsw
+python3-apt
+python3-aptdaemon
+python3-aptdaemon.gtk3widgets
+python3-arrow
+python3-astor
+python3-babel
+python3-blinker
+python3-bs4
+python3-cairo
+python3-certifi
+python3-cffi
+python3-cffi-backend
+python3-chardet
+python3-chm
+python3-cliapp
+python3-click
+python3-colorama
+python3-colour
+python3-commandnotfound
+python3-crypto
+python3-cryptography
+python3-css-parser
+python3-cssselect
+python3-cssutils
+python3-cups
+python3-cupshelpers
+python3-cycler
+python3-dateutil
+python3-dbus
+python3-dbus.mainloop.pyqt5
+python3-debconf
+python3-debian
+python3-defer
+python3-dev
+python3-distro
+python3-distro-info
+python3-distupgrade
+python3-distutils
+python3-dnspython
+python3-easygui
+python3-easywebdav
+python3-entrypoints
+python3-evdev
+python3-feedparser
+python3-funcparserlib
+python3-future
+python3-gdbm
+python3-gi
+python3-gi-cairo
+python3-gnupg
+python3-gpg
+python3-gphoto2
+python3-gst-1.0
+python3-html2text
+python3-html5-parser
+python3-html5lib
+python3-httplib2
+python3-hy
+python3-idna
+python3-ifaddr
+python3-isodate
+python3-jack-client
+python3-jwt
+python3-keyring
+python3-kiwisolver
+python3-launchpadlib
+python3-lazr.restfulclient
+python3-lazr.uri
+python3-ldb
+python3-lib2to3
+python3-liblo
+python3-libvirt
+python3-libxml2
+python3-lxml
+python3-macholib
+python3-magic
+python3-markdown
+python3-matplotlib
+python3-mechanize
+python3-minimal
+python3-msgpack
+python3-nacl
+python3-netifaces
+python3-nose
+python3-numpy
+python3-oauthlib
+python3-olefile
+python3-openshot
+python3-packaging
+python3-pbr
+python3-pefile
+python3-pexpect
+python3-pikepdf
+python3-pil
+python3-pil.imagetk
+python3-pip
+python3-pkg-resources
+python3-ply
+python3-problem-report
+python3-psutil
+python3-ptyprocess
+python3-pycparser
+python3-pyelftools
+python3-pygments
+python3-pymacaroons
+python3-pymediainfo
+python3-pyparsing
+python3-pyqt5
+python3-pyqt5.qtopengl
+python3-pyqt5.qtsvg
+python3-pyqt5.qtwebchannel
+python3-pyqt5.qtwebengine
+python3-pyqt5.qtwebkit
+python3-rawkit
+python3-rdflib
+python3-regex
+python3-renderpm
+python3-reportlab
+python3-reportlab-accel
+python3-repoze.lru
+python3-requests
+python3-requests-unixsocket
+python3-routes
+python3-rply
+python3-samba
+python3-secretstorage
+python3-setproctitle
+python3-setuptools
+python3-simplejson
+python3-sip
+python3-six
+python3-software-properties
+python3-sortedcontainers
+python3-soupsieve
+python3-sparqlwrapper
+python3-systemd
+python3-talloc
+python3-tdb
+python3-tenacity
+python3-tk
+python3-tornado
+python3-ttystatus
+python3-tz
+python3-uno
+python3-update-manager
+python3-urllib3
+python3-venv
+python3-wadllib
+python3-webencodings
+python3-webob
+python3-wheel
+python3-xdg
+python3-xkit
+python3-yaml
+python3-zeroconf
+python3-zmq
+python3.8
+python3.8-dev
+python3.8-minimal
+python3.8-venv
+qasconfig
+qashctl
+qasmixer
+qastools-common
+qemu-block-extra
+qemu-kvm
+qemu-system-common
+qemu-system-data
+qemu-system-gui
+qemu-system-x86
+qemu-utils
+qjackctl
+qmidiarp
+qmidinet
+qmidiroute
+qml-module-org-kde-bluezqt
+qml-module-org-kde-kconfig
+qml-module-org-kde-kirigami2
+qml-module-org-kde-kquickcontrols
+qml-module-org-kde-kquickcontrolsaddons
+qml-module-org-kde-newstuff
+qml-module-org-kde-people
+qml-module-org-kde-purpose
+qml-module-qtgraphicaleffects
+qml-module-qtmultimedia
+qml-module-qtqml-models2
+qml-module-qtquick-controls
+qml-module-qtquick-controls2
+qml-module-qtquick-dialogs
+qml-module-qtquick-layouts
+qml-module-qtquick-privatewidgets
+qml-module-qtquick-templates2
+qml-module-qtquick-window2
+qml-module-qtquick2
+qml-module-ubuntu-onlineaccounts
+qsynth
+qt5-gtk-platformtheme
+qt5-gtk2-platformtheme
+qt5-image-formats-plugins
+qt5-style-plugin-cleanlooks
+qt5-style-plugin-motif
+qt5-style-plugin-plastique
+qt5-style-plugins
+qt5ct
+qtractor
+qttranslations5-l10n
+qtwayland5
+rakarrack
+rake
+rapid-photo-downloader
+rawtherapee
+rawtherapee-data
+raysession
+readline-common
+resolvconf
+rev-plugins
+rfkill
+ristretto
+rosegarden
+rsync
+rsyslog
+rtirq-init
+rtkit
+rubberband-cli
+rubberband-ladspa
+ruby
+ruby-bundler
+ruby-minitest
+ruby-molinillo
+ruby-net-http-persistent
+ruby-net-telnet
+ruby-power-assert
+ruby-test-unit
+ruby-thor
+ruby-xmlrpc
+ruby2.7
+rubygems-integration
+rxvt-unicode
+samba-common
+samba-common-bin
+samba-dsdb-modules
+samba-libs
+samplv1
+samplv1-common
+sane-utils
+sbsigntool
+scribus
+scribus-data
+seabios
+secureboot-db
+sed
+sensible-utils
+seq24
+sgml-base
+sgml-data
+shared-mime-info
+sharutils
+signon-plugin-oauth2
+simple-scan
+skkdic-cdb
+slowmovideo
+smartmontools
+snapd
+sndfile-programs
+sndfile-tools
+software-properties-common
+software-properties-gtk
+solfege
+sonnet-plugins
+sooperlooper
+sound-icons
+sound-theme-freedesktop
+sox
+speech-dispatcher
+speech-dispatcher-audio-plugins
+speech-dispatcher-espeak-ng
+speedtest-cli
+spice-client-glib-usb-acl-helper
+spice-vdagent
+squashfs-tools
+sshfs
+ssl-cert
+steam
+steam-devices
+steam-installer
+stk
+stops
+strace
+subtitleeditor
+sudo
+swh-lv2
+swh-plugins
+synfig-examples
+synfigstudio
+synthv1
+synthv1-common
+syslinux
+syslinux-common
+sysstat
+system-config-printer
+system-config-printer-common
+system-config-printer-udev
+system-tools-backends
+systemd
+systemd-container
+systemd-sysv
+systemd-timesyncd
+sysvinit-utils
+t1-cyrillic
+t1-oldslavic
+t1-teams
+t1-xfree86-nonfree
+t1utils
+tap-plugins
+tar
+tasksel
+tasksel-data
+tcl
+tcl-tls
+tcl8.6
+tcllib
+tcpdump
+teckit
+tegaki-zinnia-japanese
+telnet
+tex-common
+tex-gyre
+texinfo
+texlive
+texlive-base
+texlive-bibtex-extra
+texlive-binaries
+texlive-extra-utils
+texlive-font-utils
+texlive-fonts-extra
+texlive-fonts-extra-doc
+texlive-fonts-extra-links
+texlive-fonts-recommended
+texlive-fonts-recommended-doc
+texlive-formats-extra
+texlive-full
+texlive-games
+texlive-humanities
+texlive-humanities-doc
+texlive-lang-arabic
+texlive-lang-chinese
+texlive-lang-cjk
+texlive-lang-cyrillic
+texlive-lang-czechslovak
+texlive-lang-english
+texlive-lang-european
+texlive-lang-french
+texlive-lang-german
+texlive-lang-greek
+texlive-lang-italian
+texlive-lang-japanese
+texlive-lang-korean
+texlive-lang-other
+texlive-lang-polish
+texlive-lang-portuguese
+texlive-lang-spanish
+texlive-latex-base
+texlive-latex-base-doc
+texlive-latex-extra
+texlive-latex-extra-doc
+texlive-latex-recommended
+texlive-latex-recommended-doc
+texlive-luatex
+texlive-metapost
+texlive-metapost-doc
+texlive-music
+texlive-pictures
+texlive-pictures-doc
+texlive-plain-generic
+texlive-pstricks
+texlive-pstricks-doc
+texlive-publishers
+texlive-publishers-doc
+texlive-science
+texlive-science-doc
+texlive-xetex
+texworks
+texworks-help-en
+thermald
+thin-provisioning-tools
+thunar
+thunar-archive-plugin
+thunar-data
+thunar-media-tags-plugin
+thunar-volman
+thunderbird
+thunderbird-locale-en
+thunderbird-locale-en-gb
+thunderbird-locale-en-us
+thunderbird-locale-ja
+time
+timgm6mb-soundfont
+timidity
+tipa
+tk
+tk8.6
+tk8.6-blt2.5
+tpm-udev
+transmission-common
+transmission-gtk
+tree
+ttf-aenigma
+ttf-ancient-fonts
+ttf-bitstream-vera
+ttf-engadget
+ttf-mscorefonts-installer
+ttf-sjfonts
+ttf-staypuft
+ttf-summersby
+ttf-unifont
+ttf-xfree86-nonfree
+ttf-xfree86-nonfree-syriac
+tumbler
+tumbler-common
+tzdata
+ubuntu-advantage-tools
+ubuntu-drivers-common
+ubuntu-keyring
+ubuntu-minimal
+ubuntu-mono
+ubuntu-release-upgrader-core
+ubuntu-release-upgrader-gtk
+ubuntu-restricted-addons
+ubuntu-standard
+ubuntustudio-audio
+ubuntustudio-audio-core
+ubuntustudio-audio-plugins
+ubuntustudio-controls
+ubuntustudio-default-settings
+ubuntustudio-desktop
+ubuntustudio-desktop-core
+ubuntustudio-fonts
+ubuntustudio-graphics
+ubuntustudio-icon-theme
+ubuntustudio-installer
+ubuntustudio-look
+ubuntustudio-lowlatency-settings
+ubuntustudio-menu
+ubuntustudio-menu-add
+ubuntustudio-performance-tweaks
+ubuntustudio-photography
+ubuntustudio-publishing
+ubuntustudio-video
+ubuntustudio-wallpapers
+ubuntustudio-wallpapers-focal
+ucf
+udev
+udisks2
+ufw
+unattended-upgrades
+uno-libs-private
+unrar
+unzip
+update-inetd
+update-manager
+update-manager-core
+update-notifier
+update-notifier-common
+upower
+ure
+usb-modeswitch
+usb-modeswitch-data
+usb.ids
+usbmuxd
+usbutils
+util-linux
+uuid-dev
+uuid-runtime
+va-driver-all
+va-driver-all
+vamp-plugin-sdk
+vcdimager
+vco-plugins
+vdpau-driver-all
+vdpau-driver-all
+vim-common
+vim-tiny
+virt-manager
+virt-viewer
+virtinst
+virtualbox-6.1
+vkeybd
+vlc
+vlc-bin
+vlc-data
+vlc-l10n
+vlc-plugin-base
+vlc-plugin-notify
+vlc-plugin-qt
+vlc-plugin-samba
+vlc-plugin-skins2
+vlc-plugin-video-output
+vlc-plugin-video-splitter
+vlc-plugin-visualization
+vocproc
+vokoscreen
+vorbis-tools
+vprerex
+wah-plugins
+wakeonlan
+wamerican
+wavpack
+wayland-protocols
+wbritish
+wget
+whereami
+whiptail
+whoopsie
+whoopsie-preferences
+whysynth
+winbind
+wine
+wine32
+wine64
+winetricks
+wireless-regdb
+wireless-tools
+wmctrl
+wodim
+wpasupplicant
+x11-apps
+x11-common
+x11-session-utils
+x11-utils
+x11-xkb-utils
+x11-xserver-utils
+x11proto-core-dev
+x11proto-dev
+x11proto-input-dev
+x11proto-randr-dev
+x11proto-record-dev
+x11proto-xext-dev
+x11proto-xinerama-dev
+x42-plugins
+xauth
+xbitmaps
+xbrlapi
+xcursor-themes
+xdg-dbus-proxy
+xdg-user-dirs
+xdg-user-dirs-gtk
+xdg-utils
+xdotool
+xfburn
+xfce4-appfinder
+xfce4-cpugraph-plugin
+xfce4-dict
+xfce4-indicator-plugin
+xfce4-mailwatch-plugin
+xfce4-netload-plugin
+xfce4-notes
+xfce4-notes-plugin
+xfce4-notifyd
+xfce4-panel
+xfce4-panel-profiles
+xfce4-places-plugin
+xfce4-power-manager
+xfce4-power-manager-data
+xfce4-power-manager-plugins
+xfce4-pulseaudio-plugin
+xfce4-screensaver
+xfce4-screenshooter
+xfce4-session
+xfce4-settings
+xfce4-statusnotifier-plugin
+xfce4-systemload-plugin
+xfce4-taskmanager
+xfce4-terminal
+xfce4-verve-plugin
+xfce4-weather-plugin
+xfce4-whiskermenu-plugin
+xfce4-xkb-plugin
+xfconf
+xfdesktop4
+xfdesktop4-data
+xfonts-base
+xfonts-encodings
+xfonts-mona
+xfonts-scalable
+xfonts-utils
+xfpanel-switch
+xfwm4
+xiccd
+xinit
+xinput
+xjadeo
+xkb-data
+xml-core
+xonsh
+xorg
+xorg-docs-core
+xorg-sgml-doctools
+xserver-common
+xserver-xorg
+xserver-xorg-core
+xserver-xorg-hwe-18.04
+xserver-xorg-input-all
+xserver-xorg-input-libinput
+xserver-xorg-input-wacom
+xserver-xorg-legacy
+xserver-xorg-video-all
+xserver-xorg-video-amdgpu
+xserver-xorg-video-ati
+xserver-xorg-video-fbdev
+xserver-xorg-video-intel
+xserver-xorg-video-nouveau
+xserver-xorg-video-qxl
+xserver-xorg-video-radeon
+xserver-xorg-video-vesa
+xserver-xorg-video-vmware
+xsynth-dssi
+xterm
+xtrans-dev
+xubuntu-community-wallpapers
+xubuntu-community-wallpapers-focal
+xubuntu-docs
+xubuntu-icon-theme
+xul-ext-ubufox
+xxd
+xz-utils
+yelp
+yelp-xsl
+yoshimi
+yoshimi-data
+yoshimi-doc
+youtube-dl
+zenity
+zenity-common
+zip
+zita-ajbridge
+zita-at1
+zita-lrx
+zita-mu1
+zita-resampler
+zita-rev1
+zlib1g
+zlib1g
+zlib1g-dev
+zynaddsubfx
+zynaddsubfx-data
+
+Command 'dpkg-query --show -f ${Package}
+' exited with value 0  after 0:00:00
+done.
+Checking Qt availability...There is no binary Qt package available for your system!
+
+This script can build it for you, but it can take a long time,
+up to several hours, depending on hardware capabilities.
+
+Fortunately, it only needs to be built once.
+
+Checking if any packages need installing... Root privileges are needed to run the following command:
+	apt-get update
+Please enter your password to continue
+
+RUN: sudo apt-get update
+Program started as PID 236061
+ヒット:1 http://download.virtualbox.org/virtualbox/debian focal InRelease
+ヒット:2 http://us.archive.ubuntu.com/ubuntu focal InRelease
+取得:3 http://security.ubuntu.com/ubuntu focal-security InRelease [109 kB]
+取得:4 http://us.archive.ubuntu.com/ubuntu focal-updates InRelease [114 kB]
+ヒット:5 https://deb.nodesource.com/node_12.x focal InRelease
+ヒット:6 http://ppa.launchpad.net/kdenlive/kdenlive-stable/ubuntu focal InRelease
+取得:7 http://security.ubuntu.com/ubuntu focal-security/main amd64 Packages [574 kB]
+取得:8 http://us.archive.ubuntu.com/ubuntu focal-backports InRelease [101 kB]
+ヒット:9 http://ppa.launchpad.net/kisak/steamvr/ubuntu focal InRelease
+取得:10 http://us.archive.ubuntu.com/ubuntu focal-updates/main amd64 Packages [889 kB]
+ヒット:11 http://ppa.launchpad.net/lutris-team/lutris/ubuntu focal InRelease
+取得:12 http://security.ubuntu.com/ubuntu focal-security/main i386 Packages [210 kB]
+取得:13 http://security.ubuntu.com/ubuntu focal-security/main Translation-en [120 kB]
+取得:14 http://security.ubuntu.com/ubuntu focal-security/main amd64 DEP-11 Metadata [24.3 kB]
+取得:15 http://security.ubuntu.com/ubuntu focal-security/main amd64 c-n-f Metadata [7,376 B]
+取得:16 http://security.ubuntu.com/ubuntu focal-security/restricted amd64 Packages [148 kB]
+取得:17 http://security.ubuntu.com/ubuntu focal-security/restricted Translation-en [21.6 kB]
+ヒット:18 http://ppa.launchpad.net/texworks/stable/ubuntu focal InRelease
+取得:19 http://security.ubuntu.com/ubuntu focal-security/universe i386 Packages [436 kB]
+取得:20 http://us.archive.ubuntu.com/ubuntu focal-updates/main i386 Packages [443 kB]
+取得:21 http://security.ubuntu.com/ubuntu focal-security/universe amd64 Packages [550 kB]
+取得:22 http://us.archive.ubuntu.com/ubuntu focal-updates/main Translation-en [207 kB]
+取得:23 http://us.archive.ubuntu.com/ubuntu focal-updates/main amd64 DEP-11 Metadata [264 kB]
+取得:24 http://security.ubuntu.com/ubuntu focal-security/universe amd64 DEP-11 Metadata [58.2 kB]
+取得:25 http://security.ubuntu.com/ubuntu focal-security/universe amd64 c-n-f Metadata [10.6 kB]
+取得:26 http://us.archive.ubuntu.com/ubuntu focal-updates/main amd64 c-n-f Metadata [12.9 kB]
+取得:27 http://us.archive.ubuntu.com/ubuntu focal-updates/restricted amd64 Packages [171 kB]
+取得:28 http://us.archive.ubuntu.com/ubuntu focal-updates/restricted Translation-en [25.3 kB]
+取得:29 http://us.archive.ubuntu.com/ubuntu focal-updates/universe amd64 Packages [755 kB]
+取得:30 http://us.archive.ubuntu.com/ubuntu focal-updates/universe i386 Packages [560 kB]
+取得:31 http://us.archive.ubuntu.com/ubuntu focal-updates/universe Translation-en [159 kB]
+取得:32 http://us.archive.ubuntu.com/ubuntu focal-updates/universe amd64 DEP-11 Metadata [303 kB]
+取得:33 http://us.archive.ubuntu.com/ubuntu focal-updates/universe amd64 c-n-f Metadata [16.4 kB]
+取得:34 http://us.archive.ubuntu.com/ubuntu focal-updates/multiverse amd64 DEP-11 Metadata [2,468 B]
+取得:35 http://us.archive.ubuntu.com/ubuntu focal-backports/universe amd64 DEP-11 Metadata [1,768 B]
+6,293 kB を 11秒 で取得しました (555 kB/s)
+パッケージリストを読み込んでいます...
+
+Command 'sudo apt-get update' exited with value 0  after 0:01:14
+Root privileges are needed to run the following command:
+	--preserve-env=DEBIAN_FRONTEND apt-get install -y freeglut3-dev libasound2-dev libdouble-conversion-dev libdrm-dev libjack-dev libjack0 libsdl2-dev libssl-dev libterm-readline-gnu-perl libudev-dev libxcb-xinerama0-dev libxmu-dev mesa-common-dev patchelf autopoint bison debhelper default-libmysqlclient-dev dh-autoreconf dh-exec dh-strip-nondeterminism firebird-dev firebird3.0-common firebird3.0-common-doc flex freetds-common freetds-dev gperf libct4 libcups2-dev libcupsimage2-dev libevdev-dev libfbclient2 libfile-stripnondeterminism-perl libgbm-dev libgles2-mesa-dev libib-util libinput-dev libjbig-dev libjpeg-dev libjpeg-turbo8-dev libjpeg8-dev libjsoncpp-dev liblzma-dev libmtdev-dev libmysqlclient-dev libnss3-dev libopus-dev libpq-dev libproxy-dev libpulse-dev libsqlite3-dev libsybdb5 libtiff-dev libtiff5-dev libtiffxx5 libtommath1 libvpx-dev libwacom-dev libx11-xcb-dev libxcb-icccm4-dev libxcb-image0-dev libxcb-keysyms1-dev libxcb-render-util0-dev libxcb-xkb-dev libxkbcommon-x11-dev pkg-kde-tools po-debconf qt5-assistant qtchooser qttools5-dev-tools unixodbc-dev x11proto-composite-dev
+Please enter your password to continue
+
+RUN: sudo --preserve-env=DEBIAN_FRONTEND apt-get install -y freeglut3-dev libasound2-dev libdouble-conversion-dev libdrm-dev libjack-dev libjack0 libsdl2-dev libssl-dev libterm-readline-gnu-perl libudev-dev libxcb-xinerama0-dev libxmu-dev mesa-common-dev patchelf autopoint bison debhelper default-libmysqlclient-dev dh-autoreconf dh-exec dh-strip-nondeterminism firebird-dev firebird3.0-common firebird3.0-common-doc flex freetds-common freetds-dev gperf libct4 libcups2-dev libcupsimage2-dev libevdev-dev libfbclient2 libfile-stripnondeterminism-perl libgbm-dev libgles2-mesa-dev libib-util libinput-dev libjbig-dev libjpeg-dev libjpeg-turbo8-dev libjpeg8-dev libjsoncpp-dev liblzma-dev libmtdev-dev libmysqlclient-dev libnss3-dev libopus-dev libpq-dev libproxy-dev libpulse-dev libsqlite3-dev libsybdb5 libtiff-dev libtiff5-dev libtiffxx5 libtommath1 libvpx-dev libwacom-dev libx11-xcb-dev libxcb-icccm4-dev libxcb-image0-dev libxcb-keysyms1-dev libxcb-render-util0-dev libxcb-xkb-dev libxkbcommon-x11-dev pkg-kde-tools po-debconf qt5-assistant qtchooser qttools5-dev-tools unixodbc-dev x11proto-composite-dev
+Program started as PID 237026
+パッケージリストを読み込んでいます...
+依存関係ツリーを作成しています...
+状態情報を読み取っています...
+以下のパッケージが自動でインストールされましたが、もう必要とされていません:
+  ardour-data ardour-video-timeline glib-networking:i386 gstreamer1.0-x:i386
+  harvid libaa1:i386 libaubio5 libavc1394-0:i386 libcaca0:i386 libdv4:i386
+  libgstreamer-plugins-good1.0-0:i386 libgudev-1.0-0:i386 libiec61883-0:i386
+  libproxy1v5:i386 libqm-dsp0 libraw1394-11:i386 libsamplerate0:i386
+  libshout3:i386 libslang2:i386 libsoup2.4-1:i386 libtag1v5:i386
+  libtag1v5-vanilla:i386 libvamp-sdk2v5 libxv1:i386 python-dbus python-gi
+  python3-cffi python3-jack-client python3-ply python3-pycparser
+  ubuntustudio-lowlatency-settings ubuntustudio-performance-tweaks
+  vamp-plugin-sdk
+これを削除するには 'sudo apt autoremove' を利用してください。
+以下の追加パッケージがインストールされます:
+  diffstat dwz gettext gir1.2-ibus-1.0 intltool-debian jackd1 jackd1-firewire
+  libapt-pkg-perl libarchive-cpio-perl libasync-mergepoint-perl
+  libcapture-tiny-perl libclang1-10 libcpanel-json-xs-perl libcroco3
+  libcupsfilters-dev libdebhelper-perl libdevel-size-perl
+  libdigest-bubblebabble-perl libdigest-hmac-perl libemail-valid-perl
+  libfl-dev libfl2 libfont-ttf-perl libfuture-perl libglu1-mesa-dev
+  libgudev-1.0-dev libibus-1.0-5 libibus-1.0-dev libimport-into-perl
+  libio-async-loop-epoll-perl libio-async-perl libio-pty-perl
+  libio-string-perl libipc-run-perl libjson-maybexs-perl liblinux-epoll-perl
+  liblist-compare-perl libmoo-perl libmoox-aliases-perl libnet-dns-perl
+  libnet-dns-sec-perl libnet-domain-tld-perl libnet-ip-perl libnet-libidn-perl
+  libnspr4-dev libpath-tiny-perl libperlio-gzip-perl libqt5designercomponents5
+  libsereal-decoder-perl libsereal-encoder-perl libsereal-perl libsndio-dev
+  libstrictures-perl libstruct-dumb-perl libsub-override-perl
+  libtest-fatal-perl libtest-refcount-perl libtext-levenshtein-perl
+  libtype-tiny-perl libtype-tiny-xs-perl libudev1 libudev1:i386
+  libunicode-utf8-perl libxmu-headers libxss-dev libxt-dev libxv-dev
+  libxxf86vm-dev libyaml-libyaml-perl lintian patchutils qdoc-qt5
+  qhelpgenerator-qt5 qtattributionsscanner-qt5 udev x11proto-scrnsaver-dev
+  x11proto-xf86vidmode-dev
+提案パッケージ:
+  bison-doc dh-make firebird3.0-examples flex-doc gettext-doc libasprintf-dev
+  libgettextpo-dev jack-tools meterbridge libasound2-doc libevdev-doc
+  liblzma-doc postgresql-doc-12 sqlite3-doc libssl-doc
+  libbareword-filehandles-perl libindirect-perl libmultidimensional-perl
+  libxt-doc binutils-multiarch libtext-template-perl cdbs libmail-box-perl
+  qt5-doc
+推奨パッケージ:
+  qjackctl
+以下のパッケージは「削除」されます:
+  ardour gstreamer1.0-plugins-good:i386 jack-keyboard jack-rack jack-tools
+  jackd jackd2 jackd2-firewire jamin libasound2-plugins:i386 libjack-jackd2-0
+  libjack-jackd2-0:i386 meterbridge qjackctl qtractor rakarrack
+  ubuntustudio-controls ubuntustudio-default-settings ubuntustudio-desktop
+  ubuntustudio-desktop-core ubuntustudio-installer ubuntustudio-menu
+  ubuntustudio-menu-add
+以下のパッケージが新たにインストールされます:
+  autopoint bison debhelper default-libmysqlclient-dev dh-autoreconf dh-exec
+  dh-strip-nondeterminism diffstat dwz firebird-dev firebird3.0-common
+  firebird3.0-common-doc flex freeglut3-dev freetds-common freetds-dev gettext
+  gir1.2-ibus-1.0 gperf intltool-debian jackd1 jackd1-firewire libapt-pkg-perl
+  libarchive-cpio-perl libasound2-dev libasync-mergepoint-perl
+  libcapture-tiny-perl libclang1-10 libcpanel-json-xs-perl libcroco3 libct4
+  libcups2-dev libcupsfilters-dev libcupsimage2-dev libdebhelper-perl
+  libdevel-size-perl libdigest-bubblebabble-perl libdigest-hmac-perl
+  libdouble-conversion-dev libdrm-dev libemail-valid-perl libevdev-dev
+  libfbclient2 libfile-stripnondeterminism-perl libfl-dev libfl2
+  libfont-ttf-perl libfuture-perl libgbm-dev libgles2-mesa-dev
+  libglu1-mesa-dev libgudev-1.0-dev libib-util libibus-1.0-5 libibus-1.0-dev
+  libimport-into-perl libinput-dev libio-async-loop-epoll-perl
+  libio-async-perl libio-pty-perl libio-string-perl libipc-run-perl
+  libjack-dev libjack0 libjbig-dev libjpeg-dev libjpeg-turbo8-dev libjpeg8-dev
+  libjson-maybexs-perl libjsoncpp-dev liblinux-epoll-perl liblist-compare-perl
+  liblzma-dev libmoo-perl libmoox-aliases-perl libmtdev-dev libmysqlclient-dev
+  libnet-dns-perl libnet-dns-sec-perl libnet-domain-tld-perl libnet-ip-perl
+  libnet-libidn-perl libnspr4-dev libnss3-dev libopus-dev libpath-tiny-perl
+  libperlio-gzip-perl libpq-dev libproxy-dev libpulse-dev
+  libqt5designercomponents5 libsdl2-dev libsereal-decoder-perl
+  libsereal-encoder-perl libsereal-perl libsndio-dev libsqlite3-dev libssl-dev
+  libstrictures-perl libstruct-dumb-perl libsub-override-perl libsybdb5
+  libterm-readline-gnu-perl libtest-fatal-perl libtest-refcount-perl
+  libtext-levenshtein-perl libtiff-dev libtiff5-dev libtiffxx5 libtommath1
+  libtype-tiny-perl libtype-tiny-xs-perl libudev-dev libunicode-utf8-perl
+  libvpx-dev libwacom-dev libx11-xcb-dev libxcb-icccm4-dev libxcb-image0-dev
+  libxcb-keysyms1-dev libxcb-render-util0-dev libxcb-xinerama0-dev
+  libxcb-xkb-dev libxkbcommon-x11-dev libxmu-dev libxmu-headers libxss-dev
+  libxt-dev libxv-dev libxxf86vm-dev libyaml-libyaml-perl lintian
+  mesa-common-dev patchelf patchutils pkg-kde-tools po-debconf qdoc-qt5
+  qhelpgenerator-qt5 qt5-assistant qtattributionsscanner-qt5 qtchooser
+  qttools5-dev-tools unixodbc-dev x11proto-composite-dev
+  x11proto-scrnsaver-dev x11proto-xf86vidmode-dev
+以下のパッケージはアップグレードされます:
+  libudev1 libudev1:i386 udev
+アップグレード: 3 個、新規インストール: 147 個、削除: 23 個、保留: 21 個。
+32.4 MB のアーカイブを取得する必要があります。
+この操作後に追加で 64.8 MB のディスク容量が消費されます。
+取得:1 http://ppa.launchpad.net/kisak/steamvr/ubuntu focal/main amd64 libdrm-dev amd64 2.4.102-1ubuntu1kisak1~f [136 kB]
+取得:2 http://us.archive.ubuntu.com/ubuntu focal/universe amd64 libjack0 amd64 1:0.125.0-3build2 [93.3 kB]
+取得:3 http://us.archive.ubuntu.com/ubuntu focal/main amd64 flex amd64 2.6.4-6.2 [317 kB]
+取得:4 http://us.archive.ubuntu.com/ubuntu focal-updates/main amd64 udev amd64 245.4-4ubuntu3.5 [1,366 kB]
+取得:5 http://us.archive.ubuntu.com/ubuntu focal-updates/main i386 libudev1 i386 245.4-4ubuntu3.5 [83.7 kB]
+取得:6 http://us.archive.ubuntu.com/ubuntu focal-updates/main amd64 libudev1 amd64 245.4-4ubuntu3.5 [81.2 kB]
+取得:7 http://us.archive.ubuntu.com/ubuntu focal/main amd64 autopoint all 0.19.8.1-10build1 [412 kB]
+取得:8 http://us.archive.ubuntu.com/ubuntu focal/main amd64 bison amd64 2:3.5.1+dfsg-1 [657 kB]
+取得:9 http://us.archive.ubuntu.com/ubuntu focal/main amd64 dh-autoreconf all 19 [16.1 kB]
+取得:10 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libdebhelper-perl all 12.10ubuntu1 [62.1 kB]
+取得:11 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libsub-override-perl all 0.09-2 [9,532 B]
+取得:12 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libfile-stripnondeterminism-perl all 1.7.0-1 [15.9 kB]
+取得:13 http://us.archive.ubuntu.com/ubuntu focal/main amd64 dh-strip-nondeterminism all 1.7.0-1 [5,228 B]
+取得:14 http://us.archive.ubuntu.com/ubuntu focal/main amd64 dwz amd64 0.13-5 [151 kB]
+取得:15 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libcroco3 amd64 0.6.13-1 [82.5 kB]
+取得:16 http://us.archive.ubuntu.com/ubuntu focal/main amd64 gettext amd64 0.19.8.1-10build1 [895 kB]
+取得:17 http://us.archive.ubuntu.com/ubuntu focal/main amd64 intltool-debian all 0.35.0+20060710.5 [24.9 kB]
+取得:18 http://us.archive.ubuntu.com/ubuntu focal/main amd64 po-debconf all 1.0.21 [233 kB]
+取得:19 http://us.archive.ubuntu.com/ubuntu focal/main amd64 debhelper all 12.10ubuntu1 [877 kB]
+取得:20 http://us.archive.ubuntu.com/ubuntu focal-updates/main amd64 libssl-dev amd64 1.1.1f-1ubuntu2.2 [1,582 kB]
+取得:21 http://us.archive.ubuntu.com/ubuntu focal-updates/main amd64 libmysqlclient-dev amd64 8.0.23-0ubuntu0.20.04.1 [1,536 kB]
+取得:22 http://us.archive.ubuntu.com/ubuntu focal/main amd64 default-libmysqlclient-dev amd64 1.0.5ubuntu2 [3,932 B]
+取得:23 http://us.archive.ubuntu.com/ubuntu focal/main amd64 diffstat amd64 1.63-1 [27.2 kB]
+取得:24 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libtommath1 amd64 1.2.0-3 [53.0 kB]
+取得:25 http://us.archive.ubuntu.com/ubuntu focal/universe amd64 firebird3.0-common-doc all 3.0.5.33220.ds4-1build2 [25.3 kB]
+取得:26 http://us.archive.ubuntu.com/ubuntu focal/universe amd64 firebird3.0-common all 3.0.5.33220.ds4-1build2 [14.9 kB]
+取得:27 http://us.archive.ubuntu.com/ubuntu focal/universe amd64 libfbclient2 amd64 3.0.5.33220.ds4-1build2 [557 kB]
+取得:28 http://us.archive.ubuntu.com/ubuntu focal/universe amd64 libib-util amd64 3.0.5.33220.ds4-1build2 [3,324 B]
+取得:29 http://us.archive.ubuntu.com/ubuntu focal/universe amd64 firebird-dev amd64 3.0.5.33220.ds4-1build2 [119 kB]
+取得:30 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libglu1-mesa-dev amd64 9.0.1-1build1 [207 kB]
+取得:31 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libxt-dev amd64 1:1.1.5-1 [395 kB]
+取得:32 http://us.archive.ubuntu.com/ubuntu focal/universe amd64 freeglut3-dev amd64 2.8.1-3 [124 kB]
+取得:33 http://us.archive.ubuntu.com/ubuntu focal/main amd64 freetds-common all 1.1.6-1.1 [24.8 kB]
+取得:34 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libct4 amd64 1.1.6-1.1 [152 kB]
+取得:35 http://ppa.launchpad.net/kisak/steamvr/ubuntu focal/main amd64 libgbm-dev amd64 21.0.0~steamvr1 [55.1 kB]
+取得:36 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libsybdb5 amd64 1.1.6-1.1 [179 kB]
+取得:37 http://us.archive.ubuntu.com/ubuntu focal/main amd64 freetds-dev amd64 1.1.6-1.1 [268 kB]
+取得:38 http://us.archive.ubuntu.com/ubuntu focal-updates/main amd64 libibus-1.0-5 amd64 1.5.22-2ubuntu2.1 [153 kB]
+取得:39 http://us.archive.ubuntu.com/ubuntu focal-updates/main amd64 gir1.2-ibus-1.0 amd64 1.5.22-2ubuntu2.1 [65.9 kB]
+取得:40 http://us.archive.ubuntu.com/ubuntu focal/universe amd64 gperf amd64 3.1-1build1 [103 kB]
+取得:41 http://us.archive.ubuntu.com/ubuntu focal/universe amd64 jackd1 amd64 1:0.125.0-3build2 [180 kB]
+取得:42 http://us.archive.ubuntu.com/ubuntu focal/universe amd64 jackd1-firewire amd64 1:0.125.0-3build2 [11.0 kB]
+取得:43 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libapt-pkg-perl amd64 0.1.36build3 [68.5 kB]
+取得:44 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libarchive-cpio-perl all 0.10-1 [9,644 B]
+取得:45 http://us.archive.ubuntu.com/ubuntu focal-updates/main amd64 libasound2-dev amd64 1.2.2-2.1ubuntu2.3 [104 kB]
+取得:46 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libasync-mergepoint-perl all 0.04-2 [10.2 kB]
+取得:47 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libcapture-tiny-perl all 0.48-1 [20.4 kB]
+取得:48 http://us.archive.ubuntu.com/ubuntu focal/universe amd64 libclang1-10 amd64 1:10.0.0-4ubuntu1 [7,571 kB]
+取得:49 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libcpanel-json-xs-perl amd64 4.19-1build1 [109 kB]
+取得:50 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libjbig-dev amd64 2.1-3.1build1 [25.2 kB]
+取得:51 http://us.archive.ubuntu.com/ubuntu focal-updates/main amd64 libjpeg-turbo8-dev amd64 2.0.3-0ubuntu1.20.04.1 [238 kB]
+取得:52 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libjpeg8-dev amd64 8c-2ubuntu8 [1,552 B]
+取得:53 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libjpeg-dev amd64 8c-2ubuntu8 [1,546 B]
+取得:54 http://us.archive.ubuntu.com/ubuntu focal-updates/main amd64 liblzma-dev amd64 5.2.4-1ubuntu1 [147 kB]
+取得:55 http://us.archive.ubuntu.com/ubuntu focal-updates/main amd64 libtiffxx5 amd64 4.1.0+git191117-2ubuntu0.20.04.1 [5,948 B]
+取得:56 http://us.archive.ubuntu.com/ubuntu focal-updates/main amd64 libtiff-dev amd64 4.1.0+git191117-2ubuntu0.20.04.1 [285 kB]
+取得:57 http://us.archive.ubuntu.com/ubuntu focal-updates/main amd64 libcupsimage2-dev amd64 2.3.1-9ubuntu1.1 [6,784 B]
+取得:58 http://us.archive.ubuntu.com/ubuntu focal-updates/main amd64 libcups2-dev amd64 2.3.1-9ubuntu1.1 [281 kB]
+取得:59 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libcupsfilters-dev amd64 1.27.4-1 [104 kB]
+取得:60 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libdigest-bubblebabble-perl all 0.02-2 [7,908 B]
+取得:61 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libdigest-hmac-perl all 1.03+dfsg-2 [10.3 kB]
+取得:62 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libnet-ip-perl all 1.26-2 [27.4 kB]
+取得:63 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libnet-dns-perl all 1.22-1 [336 kB]
+取得:64 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libnet-domain-tld-perl all 1.75-1 [29.1 kB]
+取得:65 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libemail-valid-perl all 1.202-1 [16.3 kB]
+取得:66 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libfl2 amd64 2.6.4-6.2 [11.5 kB]
+取得:67 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libfl-dev amd64 2.6.4-6.2 [6,316 B]
+取得:68 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libio-string-perl all 1.08-3 [11.1 kB]
+取得:69 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libfont-ttf-perl all 1.06-1 [313 kB]
+取得:70 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libfuture-perl all 0.43-1 [77.8 kB]
+取得:71 http://ppa.launchpad.net/kisak/steamvr/ubuntu focal/main amd64 libgles2-mesa-dev amd64 21.0.0~steamvr1 [51.4 kB]
+取得:72 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libgudev-1.0-dev amd64 1:233-1 [25.8 kB]
+取得:73 http://us.archive.ubuntu.com/ubuntu focal-updates/main amd64 libibus-1.0-dev amd64 1.5.22-2ubuntu2.1 [179 kB]
+取得:74 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libimport-into-perl all 1.002005-1 [11.0 kB]
+取得:75 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libstruct-dumb-perl all 0.09-1 [10.5 kB]
+取得:76 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libio-async-perl all 0.75-1 [254 kB]
+取得:77 http://us.archive.ubuntu.com/ubuntu focal/main amd64 liblinux-epoll-perl amd64 0.017-1 [16.0 kB]
+取得:78 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libio-async-loop-epoll-perl all 0.20-1 [10.4 kB]
+取得:79 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libio-pty-perl amd64 1:1.12-1 [32.4 kB]
+取得:80 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libipc-run-perl all 20180523.0-2 [89.7 kB]
+取得:81 http://us.archive.ubuntu.com/ubuntu focal/universe amd64 libjack-dev amd64 1:0.125.0-3build2 [206 kB]
+取得:82 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libjson-maybexs-perl all 1.004000-1 [11.0 kB]
+取得:83 http://us.archive.ubuntu.com/ubuntu focal/main amd64 liblist-compare-perl all 0.53-1 [65.6 kB]
+取得:84 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libstrictures-perl all 2.000006-1 [16.3 kB]
+取得:85 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libmoo-perl all 2.003006-1 [46.3 kB]
+取得:86 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libmoox-aliases-perl all 0.001006-1 [7,176 B]
+取得:87 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libmtdev-dev amd64 1.1.5-1.1 [5,192 B]
+取得:88 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libnet-dns-sec-perl amd64 1.15-1 [44.6 kB]
+取得:89 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libnet-libidn-perl amd64 0.12.ds-3build2 [17.3 kB]
+取得:90 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libnspr4-dev amd64 2:4.25-1 [206 kB]
+取得:91 http://us.archive.ubuntu.com/ubuntu focal-updates/main amd64 libnss3-dev amd64 2:3.49.1-1ubuntu1.5 [231 kB]
+取得:92 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libopus-dev amd64 1.3.1-0ubuntu1 [236 kB]
+取得:93 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libpath-tiny-perl all 0.108-1 [42.6 kB]
+取得:94 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libperlio-gzip-perl amd64 0.19-1build5 [14.6 kB]
+取得:95 http://us.archive.ubuntu.com/ubuntu focal-updates/main amd64 libpq-dev amd64 12.6-0ubuntu0.20.04.1 [136 kB]
+取得:96 http://us.archive.ubuntu.com/ubuntu focal-updates/main amd64 libproxy-dev amd64 0.4.15-10ubuntu1.2 [4,332 B]
+取得:97 http://us.archive.ubuntu.com/ubuntu focal-updates/main amd64 libpulse-dev amd64 1:13.99.1-1ubuntu3.10 [72.5 kB]
+取得:98 http://us.archive.ubuntu.com/ubuntu focal/universe amd64 libqt5designercomponents5 amd64 5.12.8-0ubuntu1 [718 kB]
+取得:99 http://us.archive.ubuntu.com/ubuntu focal/universe amd64 libsndio-dev amd64 1.5.0-3 [13.6 kB]
+取得:100 http://us.archive.ubuntu.com/ubuntu focal-updates/main amd64 libudev-dev amd64 245.4-4ubuntu3.5 [19.7 kB]
+取得:101 http://us.archive.ubuntu.com/ubuntu focal/main amd64 x11proto-scrnsaver-dev all 2019.2-1ubuntu1 [2,624 B]
+取得:102 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libxss-dev amd64 1:1.2.3-1 [11.9 kB]
+取得:103 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libxv-dev amd64 2:1.0.11-1 [32.5 kB]
+取得:104 http://us.archive.ubuntu.com/ubuntu focal/main amd64 x11proto-xf86vidmode-dev all 2019.2-1ubuntu1 [2,624 B]
+取得:105 http://ppa.launchpad.net/kisak/steamvr/ubuntu focal/main amd64 mesa-common-dev amd64 21.0.0~steamvr1 [1,342 kB]
+取得:106 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libxxf86vm-dev amd64 1:1.1.4-1build1 [13.3 kB]
+取得:107 http://us.archive.ubuntu.com/ubuntu focal/universe amd64 libsdl2-dev amd64 2.0.10+dfsg1-3 [718 kB]
+取得:108 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libsereal-decoder-perl amd64 4.011+ds-1build1 [102 kB]
+取得:109 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libsereal-encoder-perl amd64 4.011+ds-1build1 [104 kB]
+取得:110 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libsereal-perl all 4.011-1 [8,604 B]
+取得:111 http://us.archive.ubuntu.com/ubuntu focal-updates/main amd64 libsqlite3-dev amd64 3.31.1-4ubuntu0.2 [696 kB]
+取得:112 http://us.archive.ubuntu.com/ubuntu focal/universe amd64 libterm-readline-gnu-perl amd64 1.36-2build1 [88.3 kB]
+取得:113 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libtest-fatal-perl all 0.014-1 [11.1 kB]
+取得:114 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libtest-refcount-perl all 0.10-1 [11.4 kB]
+取得:115 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libtext-levenshtein-perl all 0.13-1 [9,612 B]
+取得:116 http://us.archive.ubuntu.com/ubuntu focal-updates/main amd64 libtiff5-dev amd64 4.1.0+git191117-2ubuntu0.20.04.1 [2,264 B]
+取得:117 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libtype-tiny-perl all 1.008001-2 [304 kB]
+取得:118 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libtype-tiny-xs-perl amd64 0.016-1 [22.9 kB]
+取得:119 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libunicode-utf8-perl amd64 0.62-1build1 [18.1 kB]
+取得:120 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libvpx-dev amd64 1.8.2-1build1 [944 kB]
+取得:121 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libwacom-dev amd64 1.3-2ubuntu1 [6,972 B]
+取得:122 http://us.archive.ubuntu.com/ubuntu focal-updates/main amd64 libx11-xcb-dev amd64 2:1.6.9-2ubuntu1.1 [9,796 B]
+取得:123 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libxcb-xinerama0-dev amd64 1.14-2 [5,972 B]
+取得:124 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libxcb-xkb-dev amd64 1.14-2 [40.4 kB]
+取得:125 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libxmu-headers all 2:1.1.3-0ubuntu1 [54.2 kB]
+取得:126 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libxmu-dev amd64 2:1.1.3-0ubuntu1 [49.9 kB]
+取得:127 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libyaml-libyaml-perl amd64 0.81+repack-1 [28.5 kB]
+取得:128 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libdevel-size-perl amd64 0.83-1build1 [20.0 kB]
+取得:129 http://us.archive.ubuntu.com/ubuntu focal/main amd64 patchutils amd64 0.3.4-2 [71.1 kB]
+取得:130 http://us.archive.ubuntu.com/ubuntu focal/main amd64 lintian all 2.62.0 [980 kB]
+取得:131 http://us.archive.ubuntu.com/ubuntu focal/universe amd64 patchelf amd64 0.10-2build1 [53.4 kB]
+取得:132 http://us.archive.ubuntu.com/ubuntu focal/universe amd64 qtchooser amd64 66-2build1 [24.7 kB]
+取得:133 http://us.archive.ubuntu.com/ubuntu focal/universe amd64 qdoc-qt5 amd64 5.12.8-0ubuntu1 [507 kB]
+取得:134 http://us.archive.ubuntu.com/ubuntu focal/universe amd64 qhelpgenerator-qt5 amd64 5.12.8-0ubuntu1 [64.3 kB]
+取得:135 http://us.archive.ubuntu.com/ubuntu focal/universe amd64 qt5-assistant amd64 5.12.8-0ubuntu1 [369 kB]
+取得:136 http://us.archive.ubuntu.com/ubuntu focal/universe amd64 qtattributionsscanner-qt5 amd64 5.12.8-0ubuntu1 [26.0 kB]
+取得:137 http://us.archive.ubuntu.com/ubuntu focal/universe amd64 qttools5-dev-tools amd64 5.12.8-0ubuntu1 [1,031 kB]
+取得:138 http://us.archive.ubuntu.com/ubuntu focal/main amd64 x11proto-composite-dev all 1:2019.2-1ubuntu1 [2,624 B]
+取得:139 http://us.archive.ubuntu.com/ubuntu focal/main amd64 dh-exec amd64 0.23.2 [25.0 kB]
+取得:140 http://us.archive.ubuntu.com/ubuntu focal/universe amd64 libdouble-conversion-dev amd64 3.1.5-4ubuntu1 [52.7 kB]
+取得:141 http://us.archive.ubuntu.com/ubuntu focal-updates/main amd64 libevdev-dev amd64 1.9.0+dfsg-1ubuntu0.1 [48.7 kB]
+取得:142 http://us.archive.ubuntu.com/ubuntu focal-updates/main amd64 libinput-dev amd64 1.15.5-1ubuntu0.2 [29.7 kB]
+取得:143 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libjsoncpp-dev amd64 1.7.4-3.1ubuntu2 [91.1 kB]
+取得:144 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libxcb-icccm4-dev amd64 0.4.1-1.1 [10.8 kB]
+取得:145 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libxcb-image0-dev amd64 0.4.0-1build1 [14.9 kB]
+取得:146 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libxcb-keysyms1-dev amd64 0.4.0-1build1 [6,112 B]
+取得:147 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libxcb-render-util0-dev amd64 0.3.9-1build1 [7,824 B]
+取得:148 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libxkbcommon-x11-dev amd64 0.10.0-1 [5,684 B]
+取得:149 http://us.archive.ubuntu.com/ubuntu focal/universe amd64 pkg-kde-tools all 0.15.32ubuntu1 [96.3 kB]
+取得:150 http://us.archive.ubuntu.com/ubuntu focal/main amd64 unixodbc-dev amd64 2.3.6-0.1build1 [225 kB]
+パッケージを事前設定しています ...
+32.4 MB を 32秒 で取得しました (1,018 kB/s)
+(データベースを読み込んでいます ... (データベースを読み込んでいます ... 5%(データベースを読み込んでいます ... 10%(データベースを読み込んでいます ... 15%(データベースを読み込んでいます ... 20%(データベースを読み込んでいます ... 25%(データベースを読み込んでいます ... 30%(データベースを読み込んでいます ... 35%(データベースを読み込んでいます ... 40%(データベースを読み込んでいます ... 45%(データベースを読み込んでいます ... 50%(データベースを読み込んでいます ... 55%(データベースを読み込んでいます ... 60%(データベースを読み込んでいます ... 65%(データベースを読み込んでいます ... 70%(データベースを読み込んでいます ... 75%(データベースを読み込んでいます ... 80%(データベースを読み込んでいます ... 85%(データベースを読み込んでいます ... 90%(データベースを読み込んでいます ... 95%(データベースを読み込んでいます ... 100%(データベースを読み込んでいます ... 現在 700879 個のファイルとディレクトリがインストールされています。)
+ardour (1:5.12.0-3ubuntu4) を削除しています ...
+gstreamer1.0-plugins-good:i386 (1.16.2-1ubuntu2) を削除しています ...
+jack-keyboard (2.7.2-1) を削除しています ...
+jack-rack (1.4.8~rc1-2ubuntu4) を削除しています ...
+jack-tools (20131226-1build4) を削除しています ...
+rakarrack (0.6.1-5build1) を削除しています ...
+qtractor (0.9.12-1build1) を削除しています ...
+ubuntustudio-desktop (0.210) を削除しています ...
+ubuntustudio-desktop-core (0.210) を削除しています ...
+ubuntustudio-default-settings (20.04.2.2) を削除しています ...
+jackd2-firewire (1.9.12~dfsg-2ubuntu2) を削除しています ...
+jamin (0.98.9~git20170111~199091~repack1-1) を削除しています ...
+libasound2-plugins:i386 (1.2.2-1ubuntu1) を削除しています ...
+libjack-jackd2-0:i386 (1.9.12~dfsg-2ubuntu2) を削除しています ...
+qjackctl (0.5.0-1ubuntu2) を削除しています ...
+meterbridge (0.9.2-13) を削除しています ...
+jackd (5+nmu1) を削除しています ...
+ubuntustudio-menu-add (0.2) を削除しています ...
+ubuntustudio-menu (0.38) を削除しています ...
+ubuntustudio-installer (0.08) を削除しています ...
+ubuntustudio-controls (1.12.6~20.04.1) を削除しています ...
+jackd2 (1.9.12~dfsg-2ubuntu2) を削除しています ...
+dpkg: libjack-jackd2-0:amd64: 依存関係に問題があります。しかし要求に従い削除しています:
+ zynaddsubfx は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ zita-rev1 は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ zita-mu1 は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ zita-lrx は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ zita-at1 は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ zita-ajbridge は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ yoshimi は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ xjadeo は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ x42-plugins は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ timidity は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ synthv1 は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ sooperlooper は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ sndfile-tools は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ seq24 は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ samplv1 は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ rosegarden は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ qmidinet は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ qmidiarp は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ python3-jack-client は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ puredata-core は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ pulseaudio-module-jack は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ phasex は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ petri-foo は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ obs-plugins は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ mplayer は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ lsp-plugins-jack は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ libsoundio1:amd64 は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ libsndobj2v5:amd64 は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ librtmidi4:amd64 は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ librtaudio6:amd64 は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ libportaudio2:amd64 は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ libmlt6 は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ libfluidsynth2:amd64 は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ libcsound64-6.0 は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ libavdevice58:amd64 は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ libasound2-plugins:amd64 は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ jconvolver は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ jack-capture は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ hydrogen は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ guitarix は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ gstreamer1.0-plugins-good:amd64 は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ ghostess は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ foo-yc20 は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ dssi-host-jack は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ drumkv1 は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ drumgizmo は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ dpf-plugins-common は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ calf-plugins は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ blender は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ aeolus は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ a2jmidid は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ zynaddsubfx は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ zita-rev1 は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ zita-mu1 は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ zita-lrx は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ zita-at1 は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ zita-ajbridge は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ yoshimi は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ xjadeo は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ x42-plugins は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ timidity は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ synthv1 は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ sooperlooper は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ sndfile-tools は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ seq24 は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ samplv1 は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ rosegarden は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ qmidinet は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ qmidiarp は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ python3-jack-client は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ puredata-core は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ pulseaudio-module-jack は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ phasex は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ petri-foo は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ obs-plugins は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ mplayer は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ lsp-plugins-jack は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ libsoundio1:amd64 は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ libsndobj2v5:amd64 は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ librtmidi4:amd64 は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ librtaudio6:amd64 は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ libportaudio2:amd64 は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ libmlt6 は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ libfluidsynth2:amd64 は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ libcsound64-6.0 は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ libavdevice58:amd64 は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ libasound2-plugins:amd64 は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ jconvolver は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ jack-capture は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ hydrogen は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ guitarix は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ gstreamer1.0-plugins-good:amd64 は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ ghostess は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ foo-yc20 は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ dssi-host-jack は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ drumkv1 は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ drumgizmo は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ dpf-plugins-common は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ calf-plugins は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ blender は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ aeolus は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+ a2jmidid は以下に依存 (depends) します: libjack-jackd2-0 (>= 1.9.10+20150825) | libjack-0.125 ...しかし:
+  パッケージ libjack-jackd2-0:amd64 は削除されようとしています。
+  パッケージ libjack-0.125 はまだインストールされていません。
+  パッケージ libjack-jackd2-0:amd64 は libjack-0.125 を提供していますが、削除されようとしています。
+
+libjack-jackd2-0:amd64 (1.9.12~dfsg-2ubuntu2) を削除しています ...
+以前に未選択のパッケージ libjack0:amd64 を選択しています。
+(データベースを読み込んでいます ... (データベースを読み込んでいます ... 5%(データベースを読み込んでいます ... 10%(データベースを読み込んでいます ... 15%(データベースを読み込んでいます ... 20%(データベースを読み込んでいます ... 25%(データベースを読み込んでいます ... 30%(データベースを読み込んでいます ... 35%(データベースを読み込んでいます ... 40%(データベースを読み込んでいます ... 45%(データベースを読み込んでいます ... 50%(データベースを読み込んでいます ... 55%(データベースを読み込んでいます ... 60%(データベースを読み込んでいます ... 65%(データベースを読み込んでいます ... 70%(データベースを読み込んでいます ... 75%(データベースを読み込んでいます ... 80%(データベースを読み込んでいます ... 85%(データベースを読み込んでいます ... 90%(データベースを読み込んでいます ... 95%(データベースを読み込んでいます ... 100%(データベースを読み込んでいます ... 現在 700059 個のファイルとディレクトリがインストールされています。)
+.../000-libjack0_1%3a0.125.0-3build2_amd64.deb を展開する準備をしています ...
+libjack0:amd64 (1:0.125.0-3build2) を展開しています...
+以前に未選択のパッケージ flex を選択しています。
+.../001-flex_2.6.4-6.2_amd64.deb を展開する準備をしています ...
+flex (2.6.4-6.2) を展開しています...
+.../002-udev_245.4-4ubuntu3.5_amd64.deb を展開する準備をしています ...
+udev (245.4-4ubuntu3.5) で (245.4-4ubuntu3.4 に) 上書き展開しています ...
+.../003-libudev1_245.4-4ubuntu3.5_amd64.deb を展開する準備をしています ...
+libudev1:i386 (245.4-4ubuntu3.4) を設定削除しています ...
+libudev1:amd64 (245.4-4ubuntu3.5) で (245.4-4ubuntu3.4 に) 上書き展開しています ...
+.../004-libudev1_245.4-4ubuntu3.5_i386.deb を展開する準備をしています ...
+libudev1:i386 (245.4-4ubuntu3.5) で (245.4-4ubuntu3.4 に) 上書き展開しています ...
+以前に未選択のパッケージ autopoint を選択しています。
+.../005-autopoint_0.19.8.1-10build1_all.deb を展開する準備をしています ...
+autopoint (0.19.8.1-10build1) を展開しています...
+以前に未選択のパッケージ bison を選択しています。
+.../006-bison_2%3a3.5.1+dfsg-1_amd64.deb を展開する準備をしています ...
+bison (2:3.5.1+dfsg-1) を展開しています...
+以前に未選択のパッケージ dh-autoreconf を選択しています。
+.../007-dh-autoreconf_19_all.deb を展開する準備をしています ...
+dh-autoreconf (19) を展開しています...
+以前に未選択のパッケージ libdebhelper-perl を選択しています。
+.../008-libdebhelper-perl_12.10ubuntu1_all.deb を展開する準備をしています ...
+libdebhelper-perl (12.10ubuntu1) を展開しています...
+以前に未選択のパッケージ libsub-override-perl を選択しています。
+.../009-libsub-override-perl_0.09-2_all.deb を展開する準備をしています ...
+libsub-override-perl (0.09-2) を展開しています...
+以前に未選択のパッケージ libfile-stripnondeterminism-perl を選択しています。
+.../010-libfile-stripnondeterminism-perl_1.7.0-1_all.deb を展開する準備をしています ...
+libfile-stripnondeterminism-perl (1.7.0-1) を展開しています...
+以前に未選択のパッケージ dh-strip-nondeterminism を選択しています。
+.../011-dh-strip-nondeterminism_1.7.0-1_all.deb を展開する準備をしています ...
+dh-strip-nondeterminism (1.7.0-1) を展開しています...
+以前に未選択のパッケージ dwz を選択しています。
+.../012-dwz_0.13-5_amd64.deb を展開する準備をしています ...
+dwz (0.13-5) を展開しています...
+以前に未選択のパッケージ libcroco3:amd64 を選択しています。
+.../013-libcroco3_0.6.13-1_amd64.deb を展開する準備をしています ...
+libcroco3:amd64 (0.6.13-1) を展開しています...
+以前に未選択のパッケージ gettext を選択しています。
+.../014-gettext_0.19.8.1-10build1_amd64.deb を展開する準備をしています ...
+gettext (0.19.8.1-10build1) を展開しています...
+以前に未選択のパッケージ intltool-debian を選択しています。
+.../015-intltool-debian_0.35.0+20060710.5_all.deb を展開する準備をしています ...
+intltool-debian (0.35.0+20060710.5) を展開しています...
+以前に未選択のパッケージ po-debconf を選択しています。
+.../016-po-debconf_1.0.21_all.deb を展開する準備をしています ...
+po-debconf (1.0.21) を展開しています...
+以前に未選択のパッケージ debhelper を選択しています。
+.../017-debhelper_12.10ubuntu1_all.deb を展開する準備をしています ...
+debhelper (12.10ubuntu1) を展開しています...
+以前に未選択のパッケージ libssl-dev:amd64 を選択しています。
+.../018-libssl-dev_1.1.1f-1ubuntu2.2_amd64.deb を展開する準備をしています ...
+libssl-dev:amd64 (1.1.1f-1ubuntu2.2) を展開しています...
+以前に未選択のパッケージ libmysqlclient-dev を選択しています。
+.../019-libmysqlclient-dev_8.0.23-0ubuntu0.20.04.1_amd64.deb を展開する準備をしています ...
+libmysqlclient-dev (8.0.23-0ubuntu0.20.04.1) を展開しています...
+以前に未選択のパッケージ default-libmysqlclient-dev:amd64 を選択しています。
+.../020-default-libmysqlclient-dev_1.0.5ubuntu2_amd64.deb を展開する準備をしています ...
+default-libmysqlclient-dev:amd64 (1.0.5ubuntu2) を展開しています...
+以前に未選択のパッケージ diffstat を選択しています。
+.../021-diffstat_1.63-1_amd64.deb を展開する準備をしています ...
+diffstat (1.63-1) を展開しています...
+以前に未選択のパッケージ libtommath1:amd64 を選択しています。
+.../022-libtommath1_1.2.0-3_amd64.deb を展開する準備をしています ...
+libtommath1:amd64 (1.2.0-3) を展開しています...
+以前に未選択のパッケージ firebird3.0-common-doc を選択しています。
+.../023-firebird3.0-common-doc_3.0.5.33220.ds4-1build2_all.deb を展開する準備をしています ...
+firebird3.0-common-doc (3.0.5.33220.ds4-1build2) を展開しています...
+以前に未選択のパッケージ firebird3.0-common を選択しています。
+.../024-firebird3.0-common_3.0.5.33220.ds4-1build2_all.deb を展開する準備をしています ...
+firebird3.0-common (3.0.5.33220.ds4-1build2) を展開しています...
+以前に未選択のパッケージ libfbclient2:amd64 を選択しています。
+.../025-libfbclient2_3.0.5.33220.ds4-1build2_amd64.deb を展開する準備をしています ...
+libfbclient2:amd64 (3.0.5.33220.ds4-1build2) を展開しています...
+以前に未選択のパッケージ libib-util:amd64 を選択しています。
+.../026-libib-util_3.0.5.33220.ds4-1build2_amd64.deb を展開する準備をしています ...
+libib-util:amd64 (3.0.5.33220.ds4-1build2) を展開しています...
+以前に未選択のパッケージ firebird-dev を選択しています。
+.../027-firebird-dev_3.0.5.33220.ds4-1build2_amd64.deb を展開する準備をしています ...
+firebird-dev (3.0.5.33220.ds4-1build2) を展開しています...
+以前に未選択のパッケージ libglu1-mesa-dev:amd64 を選択しています。
+.../028-libglu1-mesa-dev_9.0.1-1build1_amd64.deb を展開する準備をしています ...
+libglu1-mesa-dev:amd64 (9.0.1-1build1) を展開しています...
+以前に未選択のパッケージ libxt-dev:amd64 を選択しています。
+.../029-libxt-dev_1%3a1.1.5-1_amd64.deb を展開する準備をしています ...
+libxt-dev:amd64 (1:1.1.5-1) を展開しています...
+以前に未選択のパッケージ freeglut3-dev:amd64 を選択しています。
+.../030-freeglut3-dev_2.8.1-3_amd64.deb を展開する準備をしています ...
+freeglut3-dev:amd64 (2.8.1-3) を展開しています...
+以前に未選択のパッケージ freetds-common を選択しています。
+.../031-freetds-common_1.1.6-1.1_all.deb を展開する準備をしています ...
+freetds-common (1.1.6-1.1) を展開しています...
+以前に未選択のパッケージ libct4:amd64 を選択しています。
+.../032-libct4_1.1.6-1.1_amd64.deb を展開する準備をしています ...
+libct4:amd64 (1.1.6-1.1) を展開しています...
+以前に未選択のパッケージ libsybdb5:amd64 を選択しています。
+.../033-libsybdb5_1.1.6-1.1_amd64.deb を展開する準備をしています ...
+libsybdb5:amd64 (1.1.6-1.1) を展開しています...
+以前に未選択のパッケージ freetds-dev を選択しています。
+.../034-freetds-dev_1.1.6-1.1_amd64.deb を展開する準備をしています ...
+freetds-dev (1.1.6-1.1) を展開しています...
+以前に未選択のパッケージ libibus-1.0-5:amd64 を選択しています。
+.../035-libibus-1.0-5_1.5.22-2ubuntu2.1_amd64.deb を展開する準備をしています ...
+libibus-1.0-5:amd64 (1.5.22-2ubuntu2.1) を展開しています...
+以前に未選択のパッケージ gir1.2-ibus-1.0:amd64 を選択しています。
+.../036-gir1.2-ibus-1.0_1.5.22-2ubuntu2.1_amd64.deb を展開する準備をしています ...
+gir1.2-ibus-1.0:amd64 (1.5.22-2ubuntu2.1) を展開しています...
+以前に未選択のパッケージ gperf を選択しています。
+.../037-gperf_3.1-1build1_amd64.deb を展開する準備をしています ...
+gperf (3.1-1build1) を展開しています...
+以前に未選択のパッケージ jackd1 を選択しています。
+.../038-jackd1_1%3a0.125.0-3build2_amd64.deb を展開する準備をしています ...
+jackd1 (1:0.125.0-3build2) を展開しています...
+以前に未選択のパッケージ jackd1-firewire を選択しています。
+.../039-jackd1-firewire_1%3a0.125.0-3build2_amd64.deb を展開する準備をしています ...
+jackd1-firewire (1:0.125.0-3build2) を展開しています...
+以前に未選択のパッケージ libapt-pkg-perl を選択しています。
+.../040-libapt-pkg-perl_0.1.36build3_amd64.deb を展開する準備をしています ...
+libapt-pkg-perl (0.1.36build3) を展開しています...
+以前に未選択のパッケージ libarchive-cpio-perl を選択しています。
+.../041-libarchive-cpio-perl_0.10-1_all.deb を展開する準備をしています ...
+libarchive-cpio-perl (0.10-1) を展開しています...
+以前に未選択のパッケージ libasound2-dev:amd64 を選択しています。
+.../042-libasound2-dev_1.2.2-2.1ubuntu2.3_amd64.deb を展開する準備をしています ...
+libasound2-dev:amd64 (1.2.2-2.1ubuntu2.3) を展開しています...
+以前に未選択のパッケージ libasync-mergepoint-perl を選択しています。
+.../043-libasync-mergepoint-perl_0.04-2_all.deb を展開する準備をしています ...
+libasync-mergepoint-perl (0.04-2) を展開しています...
+以前に未選択のパッケージ libcapture-tiny-perl を選択しています。
+.../044-libcapture-tiny-perl_0.48-1_all.deb を展開する準備をしています ...
+libcapture-tiny-perl (0.48-1) を展開しています...
+以前に未選択のパッケージ libclang1-10 を選択しています。
+.../045-libclang1-10_1%3a10.0.0-4ubuntu1_amd64.deb を展開する準備をしています ...
+libclang1-10 (1:10.0.0-4ubuntu1) を展開しています...
+以前に未選択のパッケージ libcpanel-json-xs-perl を選択しています。
+.../046-libcpanel-json-xs-perl_4.19-1build1_amd64.deb を展開する準備をしています ...
+libcpanel-json-xs-perl (4.19-1build1) を展開しています...
+以前に未選択のパッケージ libjbig-dev:amd64 を選択しています。
+.../047-libjbig-dev_2.1-3.1build1_amd64.deb を展開する準備をしています ...
+libjbig-dev:amd64 (2.1-3.1build1) を展開しています...
+以前に未選択のパッケージ libjpeg-turbo8-dev:amd64 を選択しています。
+.../048-libjpeg-turbo8-dev_2.0.3-0ubuntu1.20.04.1_amd64.deb を展開する準備をしています ...
+libjpeg-turbo8-dev:amd64 (2.0.3-0ubuntu1.20.04.1) を展開しています...
+以前に未選択のパッケージ libjpeg8-dev:amd64 を選択しています。
+.../049-libjpeg8-dev_8c-2ubuntu8_amd64.deb を展開する準備をしています ...
+libjpeg8-dev:amd64 (8c-2ubuntu8) を展開しています...
+以前に未選択のパッケージ libjpeg-dev:amd64 を選択しています。
+.../050-libjpeg-dev_8c-2ubuntu8_amd64.deb を展開する準備をしています ...
+libjpeg-dev:amd64 (8c-2ubuntu8) を展開しています...
+以前に未選択のパッケージ liblzma-dev:amd64 を選択しています。
+.../051-liblzma-dev_5.2.4-1ubuntu1_amd64.deb を展開する準備をしています ...
+liblzma-dev:amd64 (5.2.4-1ubuntu1) を展開しています...
+以前に未選択のパッケージ libtiffxx5:amd64 を選択しています。
+.../052-libtiffxx5_4.1.0+git191117-2ubuntu0.20.04.1_amd64.deb を展開する準備をしています ...
+libtiffxx5:amd64 (4.1.0+git191117-2ubuntu0.20.04.1) を展開しています...
+以前に未選択のパッケージ libtiff-dev:amd64 を選択しています。
+.../053-libtiff-dev_4.1.0+git191117-2ubuntu0.20.04.1_amd64.deb を展開する準備をしています ...
+libtiff-dev:amd64 (4.1.0+git191117-2ubuntu0.20.04.1) を展開しています...
+以前に未選択のパッケージ libcupsimage2-dev:amd64 を選択しています。
+.../054-libcupsimage2-dev_2.3.1-9ubuntu1.1_amd64.deb を展開する準備をしています ...
+libcupsimage2-dev:amd64 (2.3.1-9ubuntu1.1) を展開しています...
+以前に未選択のパッケージ libcups2-dev:amd64 を選択しています。
+.../055-libcups2-dev_2.3.1-9ubuntu1.1_amd64.deb を展開する準備をしています ...
+libcups2-dev:amd64 (2.3.1-9ubuntu1.1) を展開しています...
+以前に未選択のパッケージ libcupsfilters-dev:amd64 を選択しています。
+.../056-libcupsfilters-dev_1.27.4-1_amd64.deb を展開する準備をしています ...
+libcupsfilters-dev:amd64 (1.27.4-1) を展開しています...
+以前に未選択のパッケージ libdigest-bubblebabble-perl を選択しています。
+.../057-libdigest-bubblebabble-perl_0.02-2_all.deb を展開する準備をしています ...
+libdigest-bubblebabble-perl (0.02-2) を展開しています...
+以前に未選択のパッケージ libdigest-hmac-perl を選択しています。
+.../058-libdigest-hmac-perl_1.03+dfsg-2_all.deb を展開する準備をしています ...
+libdigest-hmac-perl (1.03+dfsg-2) を展開しています...
+以前に未選択のパッケージ libdrm-dev:amd64 を選択しています。
+.../059-libdrm-dev_2.4.102-1ubuntu1kisak1~f_amd64.deb を展開する準備をしています ...
+libdrm-dev:amd64 (2.4.102-1ubuntu1kisak1~f) を展開しています...
+以前に未選択のパッケージ libnet-ip-perl を選択しています。
+.../060-libnet-ip-perl_1.26-2_all.deb を展開する準備をしています ...
+libnet-ip-perl (1.26-2) を展開しています...
+以前に未選択のパッケージ libnet-dns-perl を選択しています。
+.../061-libnet-dns-perl_1.22-1_all.deb を展開する準備をしています ...
+libnet-dns-perl (1.22-1) を展開しています...
+以前に未選択のパッケージ libnet-domain-tld-perl を選択しています。
+.../062-libnet-domain-tld-perl_1.75-1_all.deb を展開する準備をしています ...
+libnet-domain-tld-perl (1.75-1) を展開しています...
+以前に未選択のパッケージ libemail-valid-perl を選択しています。
+.../063-libemail-valid-perl_1.202-1_all.deb を展開する準備をしています ...
+libemail-valid-perl (1.202-1) を展開しています...
+以前に未選択のパッケージ libfl2:amd64 を選択しています。
+.../064-libfl2_2.6.4-6.2_amd64.deb を展開する準備をしています ...
+libfl2:amd64 (2.6.4-6.2) を展開しています...
+以前に未選択のパッケージ libfl-dev:amd64 を選択しています。
+.../065-libfl-dev_2.6.4-6.2_amd64.deb を展開する準備をしています ...
+libfl-dev:amd64 (2.6.4-6.2) を展開しています...
+以前に未選択のパッケージ libio-string-perl を選択しています。
+.../066-libio-string-perl_1.08-3_all.deb を展開する準備をしています ...
+libio-string-perl (1.08-3) を展開しています...
+以前に未選択のパッケージ libfont-ttf-perl を選択しています。
+.../067-libfont-ttf-perl_1.06-1_all.deb を展開する準備をしています ...
+libfont-ttf-perl (1.06-1) を展開しています...
+以前に未選択のパッケージ libfuture-perl を選択しています。
+.../068-libfuture-perl_0.43-1_all.deb を展開する準備をしています ...
+libfuture-perl (0.43-1) を展開しています...
+以前に未選択のパッケージ libgbm-dev:amd64 を選択しています。
+.../069-libgbm-dev_21.0.0~steamvr1_amd64.deb を展開する準備をしています ...
+libgbm-dev:amd64 (21.0.0~steamvr1) を展開しています...
+以前に未選択のパッケージ libgles2-mesa-dev:amd64 を選択しています。
+.../070-libgles2-mesa-dev_21.0.0~steamvr1_amd64.deb を展開する準備をしています ...
+libgles2-mesa-dev:amd64 (21.0.0~steamvr1) を展開しています...
+以前に未選択のパッケージ libgudev-1.0-dev:amd64 を選択しています。
+.../071-libgudev-1.0-dev_1%3a233-1_amd64.deb を展開する準備をしています ...
+libgudev-1.0-dev:amd64 (1:233-1) を展開しています...
+以前に未選択のパッケージ libibus-1.0-dev:amd64 を選択しています。
+.../072-libibus-1.0-dev_1.5.22-2ubuntu2.1_amd64.deb を展開する準備をしています ...
+libibus-1.0-dev:amd64 (1.5.22-2ubuntu2.1) を展開しています...
+以前に未選択のパッケージ libimport-into-perl を選択しています。
+.../073-libimport-into-perl_1.002005-1_all.deb を展開する準備をしています ...
+libimport-into-perl (1.002005-1) を展開しています...
+以前に未選択のパッケージ libstruct-dumb-perl を選択しています。
+.../074-libstruct-dumb-perl_0.09-1_all.deb を展開する準備をしています ...
+libstruct-dumb-perl (0.09-1) を展開しています...
+以前に未選択のパッケージ libio-async-perl を選択しています。
+.../075-libio-async-perl_0.75-1_all.deb を展開する準備をしています ...
+libio-async-perl (0.75-1) を展開しています...
+以前に未選択のパッケージ liblinux-epoll-perl を選択しています。
+.../076-liblinux-epoll-perl_0.017-1_amd64.deb を展開する準備をしています ...
+liblinux-epoll-perl (0.017-1) を展開しています...
+以前に未選択のパッケージ libio-async-loop-epoll-perl を選択しています。
+.../077-libio-async-loop-epoll-perl_0.20-1_all.deb を展開する準備をしています ...
+libio-async-loop-epoll-perl (0.20-1) を展開しています...
+以前に未選択のパッケージ libio-pty-perl を選択しています。
+.../078-libio-pty-perl_1%3a1.12-1_amd64.deb を展開する準備をしています ...
+libio-pty-perl (1:1.12-1) を展開しています...
+以前に未選択のパッケージ libipc-run-perl を選択しています。
+.../079-libipc-run-perl_20180523.0-2_all.deb を展開する準備をしています ...
+libipc-run-perl (20180523.0-2) を展開しています...
+以前に未選択のパッケージ libjack-dev を選択しています。
+.../080-libjack-dev_1%3a0.125.0-3build2_amd64.deb を展開する準備をしています ...
+libjack-dev (1:0.125.0-3build2) を展開しています...
+以前に未選択のパッケージ libjson-maybexs-perl を選択しています。
+.../081-libjson-maybexs-perl_1.004000-1_all.deb を展開する準備をしています ...
+libjson-maybexs-perl (1.004000-1) を展開しています...
+以前に未選択のパッケージ liblist-compare-perl を選択しています。
+.../082-liblist-compare-perl_0.53-1_all.deb を展開する準備をしています ...
+liblist-compare-perl (0.53-1) を展開しています...
+以前に未選択のパッケージ libstrictures-perl を選択しています。
+.../083-libstrictures-perl_2.000006-1_all.deb を展開する準備をしています ...
+libstrictures-perl (2.000006-1) を展開しています...
+以前に未選択のパッケージ libmoo-perl を選択しています。
+.../084-libmoo-perl_2.003006-1_all.deb を展開する準備をしています ...
+libmoo-perl (2.003006-1) を展開しています...
+以前に未選択のパッケージ libmoox-aliases-perl を選択しています。
+.../085-libmoox-aliases-perl_0.001006-1_all.deb を展開する準備をしています ...
+libmoox-aliases-perl (0.001006-1) を展開しています...
+以前に未選択のパッケージ libmtdev-dev:amd64 を選択しています。
+.../086-libmtdev-dev_1.1.5-1.1_amd64.deb を展開する準備をしています ...
+libmtdev-dev:amd64 (1.1.5-1.1) を展開しています...
+以前に未選択のパッケージ libnet-dns-sec-perl を選択しています。
+.../087-libnet-dns-sec-perl_1.15-1_amd64.deb を展開する準備をしています ...
+libnet-dns-sec-perl (1.15-1) を展開しています...
+以前に未選択のパッケージ libnet-libidn-perl を選択しています。
+.../088-libnet-libidn-perl_0.12.ds-3build2_amd64.deb を展開する準備をしています ...
+libnet-libidn-perl (0.12.ds-3build2) を展開しています...
+以前に未選択のパッケージ libnspr4-dev を選択しています。
+.../089-libnspr4-dev_2%3a4.25-1_amd64.deb を展開する準備をしています ...
+libnspr4-dev (2:4.25-1) を展開しています...
+以前に未選択のパッケージ libnss3-dev:amd64 を選択しています。
+.../090-libnss3-dev_2%3a3.49.1-1ubuntu1.5_amd64.deb を展開する準備をしています ...
+libnss3-dev:amd64 (2:3.49.1-1ubuntu1.5) を展開しています...
+以前に未選択のパッケージ libopus-dev:amd64 を選択しています。
+.../091-libopus-dev_1.3.1-0ubuntu1_amd64.deb を展開する準備をしています ...
+libopus-dev:amd64 (1.3.1-0ubuntu1) を展開しています...
+以前に未選択のパッケージ libpath-tiny-perl を選択しています。
+.../092-libpath-tiny-perl_0.108-1_all.deb を展開する準備をしています ...
+libpath-tiny-perl (0.108-1) を展開しています...
+以前に未選択のパッケージ libperlio-gzip-perl を選択しています。
+.../093-libperlio-gzip-perl_0.19-1build5_amd64.deb を展開する準備をしています ...
+libperlio-gzip-perl (0.19-1build5) を展開しています...
+以前に未選択のパッケージ libpq-dev を選択しています。
+.../094-libpq-dev_12.6-0ubuntu0.20.04.1_amd64.deb を展開する準備をしています ...
+libpq-dev (12.6-0ubuntu0.20.04.1) を展開しています...
+以前に未選択のパッケージ libproxy-dev:amd64 を選択しています。
+.../095-libproxy-dev_0.4.15-10ubuntu1.2_amd64.deb を展開する準備をしています ...
+libproxy-dev:amd64 (0.4.15-10ubuntu1.2) を展開しています...
+以前に未選択のパッケージ libpulse-dev:amd64 を選択しています。
+.../096-libpulse-dev_1%3a13.99.1-1ubuntu3.10_amd64.deb を展開する準備をしています ...
+libpulse-dev:amd64 (1:13.99.1-1ubuntu3.10) を展開しています...
+以前に未選択のパッケージ libqt5designercomponents5:amd64 を選択しています。
+.../097-libqt5designercomponents5_5.12.8-0ubuntu1_amd64.deb を展開する準備をしています ...
+libqt5designercomponents5:amd64 (5.12.8-0ubuntu1) を展開しています...
+以前に未選択のパッケージ libsndio-dev:amd64 を選択しています。
+.../098-libsndio-dev_1.5.0-3_amd64.deb を展開する準備をしています ...
+libsndio-dev:amd64 (1.5.0-3) を展開しています...
+以前に未選択のパッケージ libudev-dev:amd64 を選択しています。
+.../099-libudev-dev_245.4-4ubuntu3.5_amd64.deb を展開する準備をしています ...
+libudev-dev:amd64 (245.4-4ubuntu3.5) を展開しています...
+以前に未選択のパッケージ x11proto-scrnsaver-dev を選択しています。
+.../100-x11proto-scrnsaver-dev_2019.2-1ubuntu1_all.deb を展開する準備をしています ...
+x11proto-scrnsaver-dev (2019.2-1ubuntu1) を展開しています...
+以前に未選択のパッケージ libxss-dev:amd64 を選択しています。
+.../101-libxss-dev_1%3a1.2.3-1_amd64.deb を展開する準備をしています ...
+libxss-dev:amd64 (1:1.2.3-1) を展開しています...
+以前に未選択のパッケージ libxv-dev:amd64 を選択しています。
+.../102-libxv-dev_2%3a1.0.11-1_amd64.deb を展開する準備をしています ...
+libxv-dev:amd64 (2:1.0.11-1) を展開しています...
+以前に未選択のパッケージ x11proto-xf86vidmode-dev を選択しています。
+.../103-x11proto-xf86vidmode-dev_2019.2-1ubuntu1_all.deb を展開する準備をしています ...
+x11proto-xf86vidmode-dev (2019.2-1ubuntu1) を展開しています...
+以前に未選択のパッケージ libxxf86vm-dev:amd64 を選択しています。
+.../104-libxxf86vm-dev_1%3a1.1.4-1build1_amd64.deb を展開する準備をしています ...
+libxxf86vm-dev:amd64 (1:1.1.4-1build1) を展開しています...
+以前に未選択のパッケージ libsdl2-dev:amd64 を選択しています。
+.../105-libsdl2-dev_2.0.10+dfsg1-3_amd64.deb を展開する準備をしています ...
+libsdl2-dev:amd64 (2.0.10+dfsg1-3) を展開しています...
+以前に未選択のパッケージ libsereal-decoder-perl を選択しています。
+.../106-libsereal-decoder-perl_4.011+ds-1build1_amd64.deb を展開する準備をしています ...
+libsereal-decoder-perl (4.011+ds-1build1) を展開しています...
+以前に未選択のパッケージ libsereal-encoder-perl を選択しています。
+.../107-libsereal-encoder-perl_4.011+ds-1build1_amd64.deb を展開する準備をしています ...
+libsereal-encoder-perl (4.011+ds-1build1) を展開しています...
+以前に未選択のパッケージ libsereal-perl を選択しています。
+.../108-libsereal-perl_4.011-1_all.deb を展開する準備をしています ...
+libsereal-perl (4.011-1) を展開しています...
+以前に未選択のパッケージ libsqlite3-dev:amd64 を選択しています。
+.../109-libsqlite3-dev_3.31.1-4ubuntu0.2_amd64.deb を展開する準備をしています ...
+libsqlite3-dev:amd64 (3.31.1-4ubuntu0.2) を展開しています...
+以前に未選択のパッケージ libterm-readline-gnu-perl を選択しています。
+.../110-libterm-readline-gnu-perl_1.36-2build1_amd64.deb を展開する準備をしています ...
+libterm-readline-gnu-perl (1.36-2build1) を展開しています...
+以前に未選択のパッケージ libtest-fatal-perl を選択しています。
+.../111-libtest-fatal-perl_0.014-1_all.deb を展開する準備をしています ...
+libtest-fatal-perl (0.014-1) を展開しています...
+以前に未選択のパッケージ libtest-refcount-perl を選択しています。
+.../112-libtest-refcount-perl_0.10-1_all.deb を展開する準備をしています ...
+libtest-refcount-perl (0.10-1) を展開しています...
+以前に未選択のパッケージ libtext-levenshtein-perl を選択しています。
+.../113-libtext-levenshtein-perl_0.13-1_all.deb を展開する準備をしています ...
+libtext-levenshtein-perl (0.13-1) を展開しています...
+以前に未選択のパッケージ libtiff5-dev を選択しています。
+.../114-libtiff5-dev_4.1.0+git191117-2ubuntu0.20.04.1_amd64.deb を展開する準備をしています ...
+libtiff5-dev (4.1.0+git191117-2ubuntu0.20.04.1) を展開しています...
+以前に未選択のパッケージ libtype-tiny-perl を選択しています。
+.../115-libtype-tiny-perl_1.008001-2_all.deb を展開する準備をしています ...
+libtype-tiny-perl (1.008001-2) を展開しています...
+以前に未選択のパッケージ libtype-tiny-xs-perl を選択しています。
+.../116-libtype-tiny-xs-perl_0.016-1_amd64.deb を展開する準備をしています ...
+libtype-tiny-xs-perl (0.016-1) を展開しています...
+以前に未選択のパッケージ libunicode-utf8-perl を選択しています。
+.../117-libunicode-utf8-perl_0.62-1build1_amd64.deb を展開する準備をしています ...
+libunicode-utf8-perl (0.62-1build1) を展開しています...
+以前に未選択のパッケージ libvpx-dev:amd64 を選択しています。
+.../118-libvpx-dev_1.8.2-1build1_amd64.deb を展開する準備をしています ...
+libvpx-dev:amd64 (1.8.2-1build1) を展開しています...
+以前に未選択のパッケージ libwacom-dev:amd64 を選択しています。
+.../119-libwacom-dev_1.3-2ubuntu1_amd64.deb を展開する準備をしています ...
+libwacom-dev:amd64 (1.3-2ubuntu1) を展開しています...
+以前に未選択のパッケージ libx11-xcb-dev:amd64 を選択しています。
+.../120-libx11-xcb-dev_2%3a1.6.9-2ubuntu1.1_amd64.deb を展開する準備をしています ...
+libx11-xcb-dev:amd64 (2:1.6.9-2ubuntu1.1) を展開しています...
+以前に未選択のパッケージ libxcb-xinerama0-dev:amd64 を選択しています。
+.../121-libxcb-xinerama0-dev_1.14-2_amd64.deb を展開する準備をしています ...
+libxcb-xinerama0-dev:amd64 (1.14-2) を展開しています...
+以前に未選択のパッケージ libxcb-xkb-dev:amd64 を選択しています。
+.../122-libxcb-xkb-dev_1.14-2_amd64.deb を展開する準備をしています ...
+libxcb-xkb-dev:amd64 (1.14-2) を展開しています...
+以前に未選択のパッケージ libxmu-headers を選択しています。
+.../123-libxmu-headers_2%3a1.1.3-0ubuntu1_all.deb を展開する準備をしています ...
+libxmu-headers (2:1.1.3-0ubuntu1) を展開しています...
+以前に未選択のパッケージ libxmu-dev:amd64 を選択しています。
+.../124-libxmu-dev_2%3a1.1.3-0ubuntu1_amd64.deb を展開する準備をしています ...
+libxmu-dev:amd64 (2:1.1.3-0ubuntu1) を展開しています...
+以前に未選択のパッケージ libyaml-libyaml-perl を選択しています。
+.../125-libyaml-libyaml-perl_0.81+repack-1_amd64.deb を展開する準備をしています ...
+libyaml-libyaml-perl (0.81+repack-1) を展開しています...
+以前に未選択のパッケージ libdevel-size-perl を選択しています。
+.../126-libdevel-size-perl_0.83-1build1_amd64.deb を展開する準備をしています ...
+libdevel-size-perl (0.83-1build1) を展開しています...
+以前に未選択のパッケージ patchutils を選択しています。
+.../127-patchutils_0.3.4-2_amd64.deb を展開する準備をしています ...
+patchutils (0.3.4-2) を展開しています...
+以前に未選択のパッケージ lintian を選択しています。
+.../128-lintian_2.62.0_all.deb を展開する準備をしています ...
+lintian (2.62.0) を展開しています...
+以前に未選択のパッケージ mesa-common-dev:amd64 を選択しています。
+.../129-mesa-common-dev_21.0.0~steamvr1_amd64.deb を展開する準備をしています ...
+mesa-common-dev:amd64 (21.0.0~steamvr1) を展開しています...
+以前に未選択のパッケージ patchelf を選択しています。
+.../130-patchelf_0.10-2build1_amd64.deb を展開する準備をしています ...
+patchelf (0.10-2build1) を展開しています...
+以前に未選択のパッケージ qtchooser を選択しています。
+.../131-qtchooser_66-2build1_amd64.deb を展開する準備をしています ...
+qtchooser (66-2build1) を展開しています...
+以前に未選択のパッケージ qdoc-qt5 を選択しています。
+.../132-qdoc-qt5_5.12.8-0ubuntu1_amd64.deb を展開する準備をしています ...
+qdoc-qt5 (5.12.8-0ubuntu1) を展開しています...
+以前に未選択のパッケージ qhelpgenerator-qt5 を選択しています。
+.../133-qhelpgenerator-qt5_5.12.8-0ubuntu1_amd64.deb を展開する準備をしています ...
+qhelpgenerator-qt5 (5.12.8-0ubuntu1) を展開しています...
+以前に未選択のパッケージ qt5-assistant を選択しています。
+.../134-qt5-assistant_5.12.8-0ubuntu1_amd64.deb を展開する準備をしています ...
+qt5-assistant (5.12.8-0ubuntu1) を展開しています...
+以前に未選択のパッケージ qtattributionsscanner-qt5 を選択しています。
+.../135-qtattributionsscanner-qt5_5.12.8-0ubuntu1_amd64.deb を展開する準備をしています ...
+qtattributionsscanner-qt5 (5.12.8-0ubuntu1) を展開しています...
+以前に未選択のパッケージ qttools5-dev-tools を選択しています。
+.../136-qttools5-dev-tools_5.12.8-0ubuntu1_amd64.deb を展開する準備をしています ...
+qttools5-dev-tools (5.12.8-0ubuntu1) を展開しています...
+以前に未選択のパッケージ x11proto-composite-dev を選択しています。
+.../137-x11proto-composite-dev_1%3a2019.2-1ubuntu1_all.deb を展開する準備をしています ...
+x11proto-composite-dev (1:2019.2-1ubuntu1) を展開しています...
+以前に未選択のパッケージ dh-exec を選択しています。
+.../138-dh-exec_0.23.2_amd64.deb を展開する準備をしています ...
+dh-exec (0.23.2) を展開しています...
+以前に未選択のパッケージ libdouble-conversion-dev:amd64 を選択しています。
+.../139-libdouble-conversion-dev_3.1.5-4ubuntu1_amd64.deb を展開する準備をしています ...
+libdouble-conversion-dev:amd64 (3.1.5-4ubuntu1) を展開しています...
+以前に未選択のパッケージ libevdev-dev:amd64 を選択しています。
+.../140-libevdev-dev_1.9.0+dfsg-1ubuntu0.1_amd64.deb を展開する準備をしています ...
+libevdev-dev:amd64 (1.9.0+dfsg-1ubuntu0.1) を展開しています...
+以前に未選択のパッケージ libinput-dev:amd64 を選択しています。
+.../141-libinput-dev_1.15.5-1ubuntu0.2_amd64.deb を展開する準備をしています ...
+libinput-dev:amd64 (1.15.5-1ubuntu0.2) を展開しています...
+以前に未選択のパッケージ libjsoncpp-dev:amd64 を選択しています。
+.../142-libjsoncpp-dev_1.7.4-3.1ubuntu2_amd64.deb を展開する準備をしています ...
+libjsoncpp-dev:amd64 (1.7.4-3.1ubuntu2) を展開しています...
+以前に未選択のパッケージ libxcb-icccm4-dev:amd64 を選択しています。
+.../143-libxcb-icccm4-dev_0.4.1-1.1_amd64.deb を展開する準備をしています ...
+libxcb-icccm4-dev:amd64 (0.4.1-1.1) を展開しています...
+以前に未選択のパッケージ libxcb-image0-dev:amd64 を選択しています。
+.../144-libxcb-image0-dev_0.4.0-1build1_amd64.deb を展開する準備をしています ...
+libxcb-image0-dev:amd64 (0.4.0-1build1) を展開しています...
+以前に未選択のパッケージ libxcb-keysyms1-dev:amd64 を選択しています。
+.../145-libxcb-keysyms1-dev_0.4.0-1build1_amd64.deb を展開する準備をしています ...
+libxcb-keysyms1-dev:amd64 (0.4.0-1build1) を展開しています...
+以前に未選択のパッケージ libxcb-render-util0-dev:amd64 を選択しています。
+.../146-libxcb-render-util0-dev_0.3.9-1build1_amd64.deb を展開する準備をしています ...
+libxcb-render-util0-dev:amd64 (0.3.9-1build1) を展開しています...
+以前に未選択のパッケージ libxkbcommon-x11-dev:amd64 を選択しています。
+.../147-libxkbcommon-x11-dev_0.10.0-1_amd64.deb を展開する準備をしています ...
+libxkbcommon-x11-dev:amd64 (0.10.0-1) を展開しています...
+以前に未選択のパッケージ pkg-kde-tools を選択しています。
+.../148-pkg-kde-tools_0.15.32ubuntu1_all.deb を展開する準備をしています ...
+pkg-kde-tools (0.15.32ubuntu1) を展開しています...
+以前に未選択のパッケージ unixodbc-dev:amd64 を選択しています。
+.../149-unixodbc-dev_2.3.6-0.1build1_amd64.deb を展開する準備をしています ...
+unixodbc-dev:amd64 (2.3.6-0.1build1) を展開しています...
+libasync-mergepoint-perl (0.04-2) を設定しています ...
+libapt-pkg-perl (0.1.36build3) を設定しています ...
+libnspr4-dev (2:4.25-1) を設定しています ...
+libjsoncpp-dev:amd64 (1.7.4-3.1ubuntu2) を設定しています ...
+libx11-xcb-dev:amd64 (2:1.6.9-2ubuntu1.1) を設定しています ...
+libjpeg-turbo8-dev:amd64 (2.0.3-0ubuntu1.20.04.1) を設定しています ...
+flex (2.6.4-6.2) を設定しています ...
+libdrm-dev:amd64 (2.4.102-1ubuntu1kisak1~f) を設定しています ...
+libgles2-mesa-dev:amd64 (21.0.0~steamvr1) を設定しています ...
+libxmu-headers (2:1.1.3-0ubuntu1) を設定しています ...
+libsndio-dev:amd64 (1.5.0-3) を設定しています ...
+libunicode-utf8-perl (0.62-1build1) を設定しています ...
+libstruct-dumb-perl (0.09-1) を設定しています ...
+liblist-compare-perl (0.53-1) を設定しています ...
+libio-pty-perl (1:1.12-1) を設定しています ...
+libevdev-dev:amd64 (1.9.0+dfsg-1ubuntu0.1) を設定しています ...
+libproxy-dev:amd64 (0.4.15-10ubuntu1.2) を設定しています ...
+libtommath1:amd64 (1.2.0-3) を設定しています ...
+libmtdev-dev:amd64 (1.1.5-1.1) を設定しています ...
+libcpanel-json-xs-perl (4.19-1build1) を設定しています ...
+libimport-into-perl (1.002005-1) を設定しています ...
+libdevel-size-perl (0.83-1build1) を設定しています ...
+libdebhelper-perl (12.10ubuntu1) を設定しています ...
+libfuture-perl (0.43-1) を設定しています ...
+libyaml-libyaml-perl (0.81+repack-1) を設定しています ...
+libibus-1.0-5:amd64 (1.5.22-2ubuntu2.1) を設定しています ...
+libxcb-xkb-dev:amd64 (1.14-2) を設定しています ...
+libgudev-1.0-dev:amd64 (1:233-1) を設定しています ...
+libtype-tiny-perl (1.008001-2) を設定しています ...
+libtest-fatal-perl (0.014-1) を設定しています ...
+libjbig-dev:amd64 (2.1-3.1build1) を設定しています ...
+libxcb-xinerama0-dev:amd64 (1.14-2) を設定しています ...
+libpq-dev (12.6-0ubuntu0.20.04.1) を設定しています ...
+libtext-levenshtein-perl (0.13-1) を設定しています ...
+libqt5designercomponents5:amd64 (5.12.8-0ubuntu1) を設定しています ...
+libterm-readline-gnu-perl (1.36-2build1) を設定しています ...
+libsereal-encoder-perl (4.011+ds-1build1) を設定しています ...
+gperf (3.1-1build1) を設定しています ...
+libopus-dev:amd64 (1.3.1-0ubuntu1) を設定しています ...
+firebird3.0-common-doc (3.0.5.33220.ds4-1build2) を設定しています ...
+libgbm-dev:amd64 (21.0.0~steamvr1) を設定しています ...
+libio-async-perl (0.75-1) を設定しています ...
+firebird3.0-common (3.0.5.33220.ds4-1build2) を設定しています ...
+patchutils (0.3.4-2) を設定しています ...
+libjson-maybexs-perl (1.004000-1) を設定しています ...
+libio-string-perl (1.08-3) を設定しています ...
+libxv-dev:amd64 (2:1.0.11-1) を設定しています ...
+libxcb-keysyms1-dev:amd64 (0.4.0-1build1) を設定しています ...
+x11proto-composite-dev (1:2019.2-1ubuntu1) を設定しています ...
+libsqlite3-dev:amd64 (3.31.1-4ubuntu0.2) を設定しています ...
+libvpx-dev:amd64 (1.8.2-1build1) を設定しています ...
+libdigest-hmac-perl (1.03+dfsg-2) を設定しています ...
+libxt-dev:amd64 (1:1.1.5-1) を設定しています ...
+libclang1-10 (1:10.0.0-4ubuntu1) を設定しています ...
+libnet-domain-tld-perl (1.75-1) を設定しています ...
+libjack0:amd64 (1:0.125.0-3build2) を設定しています ...
+libcupsfilters-dev:amd64 (1.27.4-1) を設定しています ...
+libnet-libidn-perl (0.12.ds-3build2) を設定しています ...
+liblinux-epoll-perl (0.017-1) を設定しています ...
+diffstat (1.63-1) を設定しています ...
+libssl-dev:amd64 (1.1.1f-1ubuntu2.2) を設定しています ...
+libglu1-mesa-dev:amd64 (9.0.1-1build1) を設定しています ...
+autopoint (0.19.8.1-10build1) を設定しています ...
+libcroco3:amd64 (0.6.13-1) を設定しています ...
+libipc-run-perl (20180523.0-2) を設定しています ...
+libfl2:amd64 (2.6.4-6.2) を設定しています ...
+libtest-refcount-perl (0.10-1) を設定しています ...
+libpulse-dev:amd64 (1:13.99.1-1ubuntu3.10) を設定しています ...
+libdouble-conversion-dev:amd64 (3.1.5-4ubuntu1) を設定しています ...
+libxcb-icccm4-dev:amd64 (0.4.1-1.1) を設定しています ...
+libcapture-tiny-perl (0.48-1) を設定しています ...
+libudev1:amd64 (245.4-4ubuntu3.5) を設定しています ...
+libudev1:i386 (245.4-4ubuntu3.5) を設定しています ...
+liblzma-dev:amd64 (5.2.4-1ubuntu1) を設定しています ...
+libtype-tiny-xs-perl (0.016-1) を設定しています ...
+x11proto-xf86vidmode-dev (2019.2-1ubuntu1) を設定しています ...
+dwz (0.13-5) を設定しています ...
+libxcb-render-util0-dev:amd64 (0.3.9-1build1) を設定しています ...
+libnss3-dev:amd64 (2:3.49.1-1ubuntu1.5) を設定しています ...
+libpath-tiny-perl (0.108-1) を設定しています ...
+libarchive-cpio-perl (0.10-1) を設定しています ...
+bison (2:3.5.1+dfsg-1) を設定しています ...
+update-alternatives: /usr/bin/yacc (yacc) を提供するために自動モードで /usr/bin/bison.yacc を使います
+libsub-override-perl (0.09-2) を設定しています ...
+mesa-common-dev:amd64 (21.0.0~steamvr1) を設定しています ...
+libstrictures-perl (2.000006-1) を設定しています ...
+libjack-dev (1:0.125.0-3build2) を設定しています ...
+jackd1 (1:0.125.0-3build2) を設定しています ...
+libib-util:amd64 (3.0.5.33220.ds4-1build2) を設定しています ...
+freetds-common (1.1.6-1.1) を設定しています ...
+libjpeg8-dev:amd64 (8c-2ubuntu8) を設定しています ...
+patchelf (0.10-2build1) を設定しています ...
+libasound2-dev:amd64 (1.2.2-2.1ubuntu2.3) を設定しています ...
+libfont-ttf-perl (1.06-1) を設定しています ...
+libnet-ip-perl (1.26-2) を設定しています ...
+x11proto-scrnsaver-dev (2019.2-1ubuntu1) を設定しています ...
+libperlio-gzip-perl (0.19-1build5) を設定しています ...
+gir1.2-ibus-1.0:amd64 (1.5.22-2ubuntu2.1) を設定しています ...
+unixodbc-dev:amd64 (2.3.6-0.1build1) を設定しています ...
+libsereal-decoder-perl (4.011+ds-1build1) を設定しています ...
+qtchooser (66-2build1) を設定しています ...
+libmysqlclient-dev (8.0.23-0ubuntu0.20.04.1) を設定しています ...
+libtiffxx5:amd64 (4.1.0+git191117-2ubuntu0.20.04.1) を設定しています ...
+libxcb-image0-dev:amd64 (0.4.0-1build1) を設定しています ...
+libxkbcommon-x11-dev:amd64 (0.10.0-1) を設定しています ...
+libdigest-bubblebabble-perl (0.02-2) を設定しています ...
+default-libmysqlclient-dev:amd64 (1.0.5ubuntu2) を設定しています ...
+libfile-stripnondeterminism-perl (1.7.0-1) を設定しています ...
+libwacom-dev:amd64 (1.3-2ubuntu1) を設定しています ...
+jackd1-firewire (1:0.125.0-3build2) を設定しています ...
+gettext (0.19.8.1-10build1) を設定しています ...
+qdoc-qt5 (5.12.8-0ubuntu1) を設定しています ...
+libmoo-perl (2.003006-1) を設定しています ...
+libxxf86vm-dev:amd64 (1:1.1.4-1build1) を設定しています ...
+libjpeg-dev:amd64 (8c-2ubuntu8) を設定しています ...
+qhelpgenerator-qt5 (5.12.8-0ubuntu1) を設定しています ...
+libsybdb5:amd64 (1.1.6-1.1) を設定しています ...
+libsereal-perl (4.011-1) を設定しています ...
+libnet-dns-perl (1.22-1) を設定しています ...
+libxmu-dev:amd64 (2:1.1.3-0ubuntu1) を設定しています ...
+libxss-dev:amd64 (1:1.2.3-1) を設定しています ...
+libfbclient2:amd64 (3.0.5.33220.ds4-1build2) を設定しています ...
+libfl-dev:amd64 (2.6.4-6.2) を設定しています ...
+libibus-1.0-dev:amd64 (1.5.22-2ubuntu2.1) を設定しています ...
+libio-async-loop-epoll-perl (0.20-1) を設定しています ...
+intltool-debian (0.35.0+20060710.5) を設定しています ...
+freeglut3-dev:amd64 (2.8.1-3) を設定しています ...
+libct4:amd64 (1.1.6-1.1) を設定しています ...
+libtiff-dev:amd64 (4.1.0+git191117-2ubuntu0.20.04.1) を設定しています ...
+qtattributionsscanner-qt5 (5.12.8-0ubuntu1) を設定しています ...
+udev (245.4-4ubuntu3.5) を設定しています ...
+update-initramfs: deferring update (trigger activated)
+libudev-dev:amd64 (245.4-4ubuntu3.5) を設定しています ...
+dh-strip-nondeterminism (1.7.0-1) を設定しています ...
+qt5-assistant (5.12.8-0ubuntu1) を設定しています ...
+qttools5-dev-tools (5.12.8-0ubuntu1) を設定しています ...
+libmoox-aliases-perl (0.001006-1) を設定しています ...
+firebird-dev (3.0.5.33220.ds4-1build2) を設定しています ...
+libsdl2-dev:amd64 (2.0.10+dfsg1-3) を設定しています ...
+freetds-dev (1.1.6-1.1) を設定しています ...
+libemail-valid-perl (1.202-1) を設定しています ...
+po-debconf (1.0.21) を設定しています ...
+libtiff5-dev (4.1.0+git191117-2ubuntu0.20.04.1) を設定しています ...
+libnet-dns-sec-perl (1.15-1) を設定しています ...
+lintian (2.62.0) を設定しています ...
+libinput-dev:amd64 (1.15.5-1ubuntu0.2) を設定しています ...
+pkg-kde-tools (0.15.32ubuntu1) を設定しています ...
+dh-autoreconf (19) を設定しています ...
+libcupsimage2-dev:amd64 (2.3.1-9ubuntu1.1) を設定しています ...
+debhelper (12.10ubuntu1) を設定しています ...
+dh-exec (0.23.2) を設定しています ...
+libcups2-dev:amd64 (2.3.1-9ubuntu1.1) を設定しています ...
+install-info (6.7.0.dfsg.2-5) のトリガを処理しています ...
+desktop-file-utils (0.24-1ubuntu3) のトリガを処理しています ...
+mime-support (3.64ubuntu1) のトリガを処理しています ...
+hicolor-icon-theme (0.17-2) のトリガを処理しています ...
+doc-base (0.10.9) のトリガを処理しています ...
+doc-base ファイルを 1 個削除, doc-base ファイルを 5 個追加 を処理中...
+libglib2.0-0:amd64 (2.64.6-1~ubuntu20.04.3) のトリガを処理しています ...
+libglib2.0-0:i386 (2.64.6-1~ubuntu20.04.3) のトリガを処理しています ...
+libc-bin (2.31-0ubuntu9.2) のトリガを処理しています ...
+systemd (245.4-4ubuntu3.4) のトリガを処理しています ...
+gconf2 (3.2.6-6ubuntu1) のトリガを処理しています ...
+man-db (2.9.1-1) のトリガを処理しています ...
+shared-mime-info (1.15-1) のトリガを処理しています ...
+initramfs-tools (0.136ubuntu6.4) のトリガを処理しています ...
+update-initramfs: Generating /boot/initrd.img-5.4.0-67-lowlatency
+I: The initramfs will attempt to resume from /dev/dm-2
+I: (/dev/mapper/vgubuntu--studio-swap_1)
+I: Set the RESUME variable to override this.
+
+Command 'sudo --preserve-env=DEBIAN_FRONTEND apt-get install -y freeglut3-dev libasound2-dev libdouble-conversion-dev libdrm-dev libjack-dev libjack0 libsdl2-dev libssl-dev libterm-readline-gnu-perl libudev-dev libxcb-xinerama0-dev libxmu-dev mesa-common-dev patchelf autopoint bison debhelper default-libmysqlclient-dev dh-autoreconf dh-exec dh-strip-nondeterminism firebird-dev firebird3.0-common firebird3.0-common-doc flex freetds-common freetds-dev gperf libct4 libcups2-dev libcupsimage2-dev libevdev-dev libfbclient2 libfile-stripnondeterminism-perl libgbm-dev libgles2-mesa-dev libib-util libinput-dev libjbig-dev libjpeg-dev libjpeg-turbo8-dev libjpeg8-dev libjsoncpp-dev liblzma-dev libmtdev-dev libmysqlclient-dev libnss3-dev libopus-dev libpq-dev libproxy-dev libpulse-dev libsqlite3-dev libsybdb5 libtiff-dev libtiff5-dev libtiffxx5 libtommath1 libvpx-dev libwacom-dev libx11-xcb-dev libxcb-icccm4-dev libxcb-image0-dev libxcb-keysyms1-dev libxcb-render-util0-dev libxcb-xkb-dev libxkbcommon-x11-dev pkg-kde-tools po-debconf qt5-assistant qtchooser qttools5-dev-tools unixodbc-dev x11proto-composite-dev' exited with value 0  after 0:01:39
+
+Packages have been installed, please run ./vircadia-builder again.
+
